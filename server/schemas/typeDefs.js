@@ -34,6 +34,16 @@ const typeDefs = `
     type Mutation {
         addNewTeam(name: String!): Team
         addNewLeague(name: String!, commissioner: String!): League
+
+        addPlayerToTeam (teamId: ID!, playerId: ID! ): Team
+        removePlayerFromTeam (teamId: ID!, playerId: ID!): Team
+        addTeamToLeague (leagueId: ID!, teamId: ID!): League
+        removeTeamFromLeague (leagueId: ID!, teamId: ID!): League
+        updateTeam (teamId: ID!, teamName: String!): Team
+        updateLeague (leagueId: ID!, leagueName: String!, leagueComm: String!): League
+
+        removeTeam(teamId: ID!): Team
+        removeLeague(leagueId: ID!): League
     }
 `;
 
