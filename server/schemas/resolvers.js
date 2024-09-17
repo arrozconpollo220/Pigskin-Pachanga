@@ -20,8 +20,13 @@ const resolvers = {
     },
 
     Mutation: {
-
-    },
+        addNewTeam: async (parent, { name }) => {
+            return Team.create({name});
+        },
+        addNewLeague: async (parent, { name, commissioner }) => {
+            return League.create({name, commissioner});
+        },
+    }
 };
 
 module.exports = resolvers;

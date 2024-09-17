@@ -7,10 +7,6 @@ const playerSchema = new Schema({
         unique: true,
         trim: true,
     },
-    team: {
-        type: String,
-        trim: true,
-    },
 });
 
 const Player = model('Player', playerSchema);
