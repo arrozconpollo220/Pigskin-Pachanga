@@ -2,6 +2,7 @@ const { Profile, Player, Team, League } = require('../models');
 
 const resolvers = {
     Query: {
+        // View all entries
         profiles: async () => {
             return Profile.find();
         },
@@ -16,6 +17,20 @@ const resolvers = {
 
         leagues: async () => {
             return League.find();
+        },
+
+        // View single entries
+        profile: async(parent, { profileId }) => {
+            return Profile.findOne({ _id: profileId });
+        },
+        player: async(parent, { playerId }) => {
+            return Player.findOne({ _id: playerId });
+        },
+        team: async(parent, { teamId }) => {
+            return Team.findOne({ _id: teamId });
+        },
+        league: async(parent, { leagueId }) => {
+            return League.findOne({ _id: leagueId });
         },
     },
 

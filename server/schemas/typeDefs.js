@@ -29,6 +29,11 @@ const typeDefs = `
         players: [Player]!
         teams: [Team]!
         leagues: [League]!
+
+        profile(profileId: ID!): Profile
+        player(playerId: ID!): Player
+        team(teamId: ID!): Team
+        league(leagueId: ID!): League
     }
 
     type Mutation {
