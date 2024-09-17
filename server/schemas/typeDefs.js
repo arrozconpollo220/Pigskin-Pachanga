@@ -13,6 +13,7 @@ const typeDefs = `
 
     type Team {
         _id: ID
+        name: String
         players: [String]
     }
 
@@ -31,7 +32,8 @@ const typeDefs = `
     }
 
     type Mutation {
-    
+        addNewTeam(name: String!): Team
+        addNewLeague(name: String!, commissioner: String!): League
     }
 `;
 
