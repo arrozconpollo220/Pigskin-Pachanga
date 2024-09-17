@@ -1,4 +1,4 @@
-const { Profile, Player } = require('../models');
+const { Profile, Player, Team, League } = require('../models');
 
 const resolvers = {
     Query: {
@@ -7,8 +7,16 @@ const resolvers = {
         },
 
         players: async () => {
-            return Players.find();
-        }
+            return Player.find();
+        },
+
+        teams: async () => {
+            return Team.find();
+        },
+
+        leagues: async () => {
+            return League.find();
+        },
     },
 
     Mutation: {

@@ -9,8 +9,8 @@ const profileSchema = new Schema({
     },
     teams: [
         {
-            type: String,
-            trim: true,
+            type: Schema.Types.ObjectId,
+            ref: 'Team',
         },
     ],
 });
