@@ -7,14 +7,23 @@ const teamSchema = new Schema({
         unique: true,
         trim: true,
     },
-    players: [
-        {
-            type: Schema.Types.ObjectId,
-            ref: 'Player',
+    players: {
+        type: [
+            {
+                type: Schema.Types.ObjectId,
+                ref: 'Player',
+            },
+        ],
+        validate: {
+            validator: function (players) {
+                return players.length <= 15;
+            },
+            message: 'A team cannot have more than 15 players.',
         },
-    ],
+    },
 });
 
 const Team = model('Team', teamSchema);
 
 module.exports = Team;
+
