@@ -4,7 +4,7 @@ const resolvers = {
     Query: {
         // View all entries
         profiles: async () => {
-            return Profile.find();
+            return Profile.find().populate('teams');
         },
 
         players: async () => {
@@ -12,25 +12,25 @@ const resolvers = {
         },
 
         teams: async () => {
-            return Team.find();
+            return Team.find().populate('players');
         },
 
         leagues: async () => {
-            return League.find();
+            return League.find().populate('teams');
         },
 
         // View single entries
         profile: async(parent, { profileId }) => {
-            return Profile.findOne({ _id: profileId });
+            return Profile.findOne({ _id: profileId }).populate('teams');
         },
         player: async(parent, { playerId }) => {
             return Player.findOne({ _id: playerId });
         },
         team: async(parent, { teamId }) => {
-            return Team.findOne({ _id: teamId });
+            return Team.findOne({ _id: teamId }).populate('players');
         },
         league: async(parent, { leagueId }) => {
-            return League.findOne({ _id: leagueId });
+            return League.findOne({ _id: leagueId }).populate('teams');
         },
     },
 
@@ -54,7 +54,7 @@ const resolvers = {
                     new: true,
                     runValidators: true,
                 }
-            )
+            ).populate('players');
         },
         removePlayerFromTeam: async (parent, { teamId, playerId }) => {
             return Team.findOneAndUpdate(
@@ -66,7 +66,7 @@ const resolvers = {
                     new: true,
                     runValidators: true,
                 }
-            )
+            ).populate('players');
         },
         addTeamToLeague: async (parent, { leagueId, teamId }) => {
             return League.findOneAndUpdate(
@@ -78,7 +78,7 @@ const resolvers = {
                     new: true,
                     runValidators: true,
                 }
-            )
+            ).populate('teams');
         },
         removeTeamFromLeague: async (parent, { leagueId, teamId }) => {
             return League.findOneAndUpdate(
@@ -90,7 +90,7 @@ const resolvers = {
                     new: true,
                     runValidators: true,
                 }
-            )
+            ).populate('teams');
         },
         updateTeam: async (parent, { teamId, teamName }) => {
             return Team.findOneAndUpdate(
@@ -102,7 +102,7 @@ const resolvers = {
                     new: true,
                     runValidators: true,
                 }
-            )
+            ).populate('players');
         },
         updateLeague: async (parent, { leagueId, leagueName, leagueComm }) => {
             return League.findOneAndUpdate(
@@ -117,7 +117,7 @@ const resolvers = {
                     new: true,
                     runValidators: true,
                 }
-            )
+            ).populate('teams');
         },
 
         // Deleting existing items
@@ -125,7 +125,7 @@ const resolvers = {
             return Team.findOneAndDelete({ _id: teamId });
         },
         removeLeague: async (parent,  { leagueId }) => {
-            return League.findOneAndDelete({ _id: leagueId });
+            return League.findOneAndDelete({ _id: leagueId }).populate('teams');
         },
     }
 };
