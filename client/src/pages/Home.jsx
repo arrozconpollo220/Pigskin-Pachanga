@@ -1,19 +1,31 @@
-export default function Home() {
-    return (
-      <div>
-        <h2>Home Page</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-          velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-          ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-          non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-          ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-          rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-          tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-          porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-          vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus.
-        </p>
-      </div>
-    );
+import React from 'react'
+import { useNavigate } from 'react-router-dom'
+
+const Home = (props) => {
+  const { loggedIn, email } = props
+  const navigate = useNavigate()
+
+  const onButtonClick = () => {
+    // You'll update this function later
   }
+
+  return (
+    <div className="mainContainer">
+      <div className={'titleContainer'}>
+        <div>Welcome!</div>
+      </div>
+      <div>This is the home page.</div>
+      <div className={'buttonContainer'}>
+        <input
+          className={'inputButton'}
+          type="button"
+          onClick={onButtonClick}
+          value={loggedIn ? 'Log out' : 'Log in'}
+        />
+        {loggedIn ? <div>Your email address is {email}</div> : <div />}
+      </div>
+    </div>
+  )
+}
+
+export default Home
