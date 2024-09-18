@@ -3,6432 +3,6432 @@
         "name": "Chris Boswell",
         "playerId": "2550545",
         "pos": "K",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Jake Moody",
         "playerId": "2570308",
         "pos": "K",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Blake Grupe",
         "playerId": "2571234",
         "pos": "K",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Brandon Aubrey",
         "playerId": "2571750",
         "pos": "K",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Ka'imi Fairbairn",
         "playerId": "2556521",
         "pos": "K",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Chase McLaughlin",
         "playerId": "2563203",
         "pos": "K",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Cairo Santos",
         "playerId": "2550636",
         "pos": "K",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Cameron Dicker",
         "playerId": "2568435",
         "pos": "K",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Wil Lutz",
         "playerId": "2556601",
         "pos": "K",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Brayden Narveson",
         "playerId": "2573470",
         "pos": "K",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Tyler Bass",
         "playerId": "2563596",
         "pos": "K",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Jake Elliott",
         "playerId": "2558172",
         "pos": "K",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Jason Myers",
         "playerId": "2553112",
         "pos": "K",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Jason Sanders",
         "playerId": "2561153",
         "pos": "K",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Joey Slye",
         "playerId": "2563132",
         "pos": "K",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Harrison Butker",
         "playerId": "2558245",
         "pos": "K",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Joshua Karty",
         "playerId": "2572201",
         "pos": "K",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Jake Bates",
         "playerId": "2571759",
         "pos": "K",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Graham Gano",
         "playerId": "71309",
         "pos": "K",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Matt Prater",
         "playerId": "2506677",
         "pos": "K",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Justin Tucker",
         "playerId": "2536340",
         "pos": "K",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Dustin Hopkins",
         "playerId": "2539227",
         "pos": "K",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Cam Little",
         "playerId": "2572147",
         "pos": "K",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Nick Folk",
         "playerId": "2507225",
         "pos": "K",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Evan McPherson",
         "playerId": "2565953",
         "pos": "K",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Eddy Pineiro",
         "playerId": "2560842",
         "pos": "K",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Daniel Carlson",
         "playerId": "2560993",
         "pos": "K",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Younghoe Koo",
         "playerId": "2559205",
         "pos": "K",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Will Reichard",
         "playerId": "2572273",
         "pos": "K",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Spencer Shrader",
         "playerId": "2573175",
         "pos": "K",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Cade York",
         "playerId": "2567487",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Greg Zuerlein",
         "playerId": "2534797",
         "pos": "K",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Ramiz Ahmed",
         "playerId": "2563692",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mike Badgley",
         "playerId": "2560965",
         "pos": "K",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Tanner Brown",
         "playerId": "2569984",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Anders Carlson",
         "playerId": "2569750",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Matt Gay",
         "playerId": "2562271",
         "pos": "K",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Alex Hale",
         "playerId": "2573890",
         "pos": "K",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Lucas Havrisik",
         "playerId": "2569534",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Greg Joseph",
         "playerId": "2561534",
         "pos": "K",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Brett Maher",
         "playerId": "2540243",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jude McAtamney",
         "playerId": "2573503",
         "pos": "K",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Brandon McManus",
         "playerId": "2541556",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Harrison Mevis",
         "playerId": "2572932",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Riley Patterson",
         "playerId": "2567013",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jack Podlesny",
         "playerId": "2571174",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "John Parker Romo",
         "playerId": "2569101",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Chad Ryland",
         "playerId": "2570125",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Austin Seibert",
         "playerId": "2562729",
         "pos": "K",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Charlie Smyth",
         "playerId": "2572330",
         "pos": "K",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "James Turner",
         "playerId": "2573148",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Matthew Wright",
         "playerId": "2562968",
         "pos": "K",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Josh Allen",
         "playerId": "2560955",
         "pos": "QB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Baker Mayfield",
         "playerId": "2560800",
         "pos": "QB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Anthony Richardson",
         "playerId": "2569864",
         "pos": "QB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Lamar Jackson",
         "playerId": "2560757",
         "pos": "QB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Jayden Daniels",
         "playerId": "2572564",
         "pos": "QB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Derek Carr",
         "playerId": "2543499",
         "pos": "QB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "C.J. Stroud",
         "playerId": "2569819",
         "pos": "QB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Tua Tagovailoa",
         "playerId": "2564499",
         "pos": "QB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Geno Smith",
         "playerId": "2539335",
         "pos": "QB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Jordan Love",
         "playerId": "2564007",
         "pos": "QB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Matthew Stafford",
         "playerId": "79860",
         "pos": "QB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Patrick Mahomes",
         "playerId": "2558125",
         "pos": "QB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Sam Darnold",
         "playerId": "2561036",
         "pos": "QB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Kyler Murray",
         "playerId": "2562382",
         "pos": "QB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Jalen Hurts",
         "playerId": "2564832",
         "pos": "QB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Jared Goff",
         "playerId": "2555334",
         "pos": "QB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Trevor Lawrence",
         "playerId": "2566163",
         "pos": "QB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Bo Nix",
         "playerId": "2572003",
         "pos": "QB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Justin Fields",
         "playerId": "2565920",
         "pos": "QB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Gardner Minshew",
         "playerId": "2562796",
         "pos": "QB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Justin Herbert",
         "playerId": "2565045",
         "pos": "QB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Brock Purdy",
         "playerId": "2568216",
         "pos": "QB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Bryce Young",
         "playerId": "2569606",
         "pos": "QB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Dak Prescott",
         "playerId": "2555260",
         "pos": "QB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Deshaun Watson",
         "playerId": "2558063",
         "pos": "QB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Aaron Rodgers",
         "playerId": "2506363",
         "pos": "QB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Jacoby Brissett",
         "playerId": "2555261",
         "pos": "QB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Joe Burrow",
         "playerId": "2563722",
         "pos": "QB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Will Levis",
         "playerId": "2569798",
         "pos": "QB",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Caleb Williams",
         "playerId": "2571913",
         "pos": "QB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Kirk Cousins",
         "playerId": "2532820",
         "pos": "QB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Tyrod Taylor",
         "playerId": "2495240",
         "pos": "QB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Daniel Jones",
         "playerId": "2562299",
         "pos": "QB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Kyle Allen",
         "playerId": "2561177",
         "pos": "QB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Zack Annexstad",
         "playerId": "2573548",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tyson Bagent",
         "playerId": "2570467",
         "pos": "QB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Casey Bauman",
         "playerId": "2573779",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jason Bean",
         "playerId": "2573169",
         "pos": "QB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "C.J. Beathard",
         "playerId": "2557922",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Stetson Bennett",
         "playerId": "2569939",
         "pos": "QB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Ian Book",
         "playerId": "2566352",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tim Boyle",
         "playerId": "2561187",
         "pos": "QB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Carter Bradley",
         "playerId": "2573208",
         "pos": "QB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Anthony Brown",
         "playerId": "2568363",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jake Browning",
         "playerId": "2562634",
         "pos": "QB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Ben Bryant",
         "playerId": "2573882",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Shane Buechele",
         "playerId": "2566983",
         "pos": "QB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Sean Clifford",
         "playerId": "2569762",
         "pos": "QB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Chevan Cordeiro",
         "playerId": "2572756",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Matt Corral",
         "playerId": "2567349",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Malik Cunningham",
         "playerId": "2571222",
         "pos": "QB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Andy Dalton",
         "playerId": "2495143",
         "pos": "QB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Tommy DeVito",
         "playerId": "2570578",
         "pos": "QB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Ben DiNucci",
         "playerId": "2563839",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Joshua Dobbs",
         "playerId": "2558167",
         "pos": "QB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Jeff Driskel",
         "playerId": "2555262",
         "pos": "QB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Max Duggan",
         "playerId": "2570278",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jacob Eason",
         "playerId": "2564115",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sam Ehlinger",
         "playerId": "2566142",
         "pos": "QB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Joe Flacco",
         "playerId": "382",
         "pos": "QB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Jake Fromm",
         "playerId": "2563608",
         "pos": "QB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Jimmy Garoppolo",
         "playerId": "2543801",
         "pos": "QB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Will Grier",
         "playerId": "2562404",
         "pos": "QB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Jake Haener",
         "playerId": "2570131",
         "pos": "QB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Jaren Hall",
         "playerId": "2570083",
         "pos": "QB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Gavin Hardison",
         "playerId": "2573262",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sam Hartman",
         "playerId": "2573599",
         "pos": "QB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Taylor Heinicke",
         "playerId": "2553656",
         "pos": "QB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Hendon Hooker",
         "playerId": "2569744",
         "pos": "QB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Sam Howell",
         "playerId": "2568333",
         "pos": "QB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Tyler Huntley",
         "playerId": "2563560",
         "pos": "QB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Peewee Jarrett",
         "playerId": "2572690",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Josh Johnson",
         "playerId": "264",
         "pos": "QB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Emory Jones",
         "playerId": "2572796",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mac Jones",
         "playerId": "2566334",
         "pos": "QB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Case Keenum",
         "playerId": "2532888",
         "pos": "QB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Trey Lance",
         "playerId": "2566532",
         "pos": "QB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Devin Leary",
         "playerId": "2571832",
         "pos": "QB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Drew Lock",
         "playerId": "2562305",
         "pos": "QB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Rocky Lombardi",
         "playerId": "2573001",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jake Luton",
         "playerId": "2564205",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Marcus Mariota",
         "playerId": "2552466",
         "pos": "QB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Adrian Martinez",
         "playerId": "2570984",
         "pos": "QB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Drake Maye",
         "playerId": "2572294",
         "pos": "QB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "J.J. McCarthy",
         "playerId": "2572270",
         "pos": "QB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Alex McGough",
         "playerId": "2561148",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tanner McKee",
         "playerId": "2570206",
         "pos": "QB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Trace McSorley",
         "playerId": "2562403",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Davis Mills",
         "playerId": "2566136",
         "pos": "QB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Joe Milton III",
         "playerId": "2572297",
         "pos": "QB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Kellen Mond",
         "playerId": "2566310",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tanner Mordecai",
         "playerId": "2573533",
         "pos": "QB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Nick Mullens",
         "playerId": "2558979",
         "pos": "QB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Aidan O'Connell",
         "playerId": "2570044",
         "pos": "QB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Chris Oladokun",
         "playerId": "2568153",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "John Paddock",
         "playerId": "2572878",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Andrew Peasley",
         "playerId": "2572859",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Michael Penix Jr.",
         "playerId": "2571814",
         "pos": "QB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Luis Perez",
         "playerId": "2561124",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "E.J. Perry",
         "playerId": "2567769",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Nathan Peterman",
         "playerId": "2558191",
         "pos": "QB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Kenny Pickett",
         "playerId": "2568162",
         "pos": "QB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "John Rhys Plumlee",
         "playerId": "2573518",
         "pos": "QB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Jack Plummer",
         "playerId": "2572941",
         "pos": "QB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Michael Pratt",
         "playerId": "2572054",
         "pos": "QB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Spencer Rattler",
         "playerId": "2572327",
         "pos": "QB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Austin Reed",
         "playerId": "2572971",
         "pos": "QB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Desmond Ridder",
         "playerId": "2567256",
         "pos": "QB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Nathan Rourke",
         "playerId": "2569885",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mason Rudolph",
         "playerId": "2560860",
         "pos": "QB",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Brett Rypien",
         "playerId": "2562718",
         "pos": "QB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Jacob Sirmon",
         "playerId": "2573677",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kedon Slovis",
         "playerId": "2573178",
         "pos": "QB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Easton Stick",
         "playerId": "2562745",
         "pos": "QB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Jarrett Stidham",
         "playerId": "2562746",
         "pos": "QB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Nate Sudfeld",
         "playerId": "2555427",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Colby Suits",
         "playerId": "2572862",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Ryan Tannehill",
         "playerId": "2532956",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Skylar Thompson",
         "playerId": "2567895",
         "pos": "QB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Dorian Thompson-Robinson",
         "playerId": "2569672",
         "pos": "QB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Jordan Travis",
         "playerId": "2572372",
         "pos": "QB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Mitchell Trubisky",
         "playerId": "2558008",
         "pos": "QB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Clayton Tune",
         "playerId": "2570236",
         "pos": "QB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "PJ Walker",
         "playerId": "2558904",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Carson Wentz",
         "playerId": "2555259",
         "pos": "QB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Mike White",
         "playerId": "2560929",
         "pos": "QB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Malik Willis",
         "playerId": "2567667",
         "pos": "QB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Russell Wilson",
         "playerId": "2532975",
         "pos": "QB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Zach Wilson",
         "playerId": "2566391",
         "pos": "QB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Dresser Winn",
         "playerId": "2569990",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jameis Winston",
         "playerId": "2552033",
         "pos": "QB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "John Wolford",
         "playerId": "2561718",
         "pos": "QB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Logan Woodside",
         "playerId": "2560942",
         "pos": "QB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Bailey Zappe",
         "playerId": "2567961",
         "pos": "QB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Brandon Allen",
         "playerId": "2555365",
         "pos": "QB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Cooper Rush",
         "playerId": "2559242",
         "pos": "QB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Kyle Trask",
         "playerId": "2566571",
         "pos": "QB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Saquon Barkley",
         "playerId": "2560968",
         "pos": "RB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Joe Mixon",
         "playerId": "2557976",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Jordan Mason",
         "playerId": "2569257",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "J.K. Dobbins",
         "playerId": "2563548",
         "pos": "RB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "De'Von Achane",
         "playerId": "2570062",
         "pos": "RB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Alvin Kamara",
         "playerId": "2558019",
         "pos": "RB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Rhamondre Stevenson",
         "playerId": "2566343",
         "pos": "RB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Aaron Jones",
         "playerId": "2558116",
         "pos": "RB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Kenneth Walker III",
         "playerId": "2568282",
         "pos": "RB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "James Conner",
         "playerId": "2557978",
         "pos": "RB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Tony Pollard",
         "playerId": "2562699",
         "pos": "RB",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Brian Robinson",
         "playerId": "2568348",
         "pos": "RB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Jerome Ford",
         "playerId": "2567469",
         "pos": "RB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Breece Hall",
         "playerId": "2568030",
         "pos": "RB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "David Montgomery",
         "playerId": "2562502",
         "pos": "RB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Jahmyr Gibbs",
         "playerId": "2569747",
         "pos": "RB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Isiah Pacheco",
         "playerId": "2567808",
         "pos": "RB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Alexander Mattison",
         "playerId": "2562682",
         "pos": "RB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Zack Moss",
         "playerId": "2563617",
         "pos": "RB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Bijan Robinson",
         "playerId": "2569558",
         "pos": "RB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Rachaad White",
         "playerId": "2568315",
         "pos": "RB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Kyren Williams",
         "playerId": "2567862",
         "pos": "RB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Zach Charbonnet",
         "playerId": "2570335",
         "pos": "RB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Ezekiel Elliott",
         "playerId": "2555224",
         "pos": "RB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "James Cook",
         "playerId": "2567328",
         "pos": "RB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Jamaal Williams",
         "playerId": "2558204",
         "pos": "RB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Travis Etienne",
         "playerId": "2566157",
         "pos": "RB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Jonathan Taylor",
         "playerId": "2564148",
         "pos": "RB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Derrick Henry",
         "playerId": "2556075",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Josh Jacobs",
         "playerId": "2562377",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Bucky Irving",
         "playerId": "2572546",
         "pos": "RB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Justice Hill",
         "playerId": "2562407",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Najee Harris",
         "playerId": "2566448",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Austin Ekeler",
         "playerId": "2559169",
         "pos": "RB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Tank Bigsby",
         "playerId": "2569882",
         "pos": "RB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Devin Singletary",
         "playerId": "2562734",
         "pos": "RB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Pierre Strong",
         "playerId": "2567952",
         "pos": "RB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "DeeJay Dallas",
         "playerId": "2565144",
         "pos": "RB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Emanuel Wilson",
         "playerId": "2570912",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Ty Chandler",
         "playerId": "2567907",
         "pos": "RB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Tyjae Spears",
         "playerId": "2569795",
         "pos": "RB",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Kyle Juszczyk",
         "playerId": "2540230",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "D'Andre Swift",
         "playerId": "2563965",
         "pos": "RB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Chase Brown",
         "playerId": "2569642",
         "pos": "RB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Rico Dowdle",
         "playerId": "2565295",
         "pos": "RB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Emari Demercado",
         "playerId": "2571065",
         "pos": "RB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Zamir White",
         "playerId": "2567883",
         "pos": "RB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Gus Edwards",
         "playerId": "2561324",
         "pos": "RB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Jaleel McLaughlin",
         "playerId": "2570942",
         "pos": "RB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Ray Davis",
         "playerId": "2571862",
         "pos": "RB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Jaylen Warren",
         "playerId": "2568493",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Raheem Mostert",
         "playerId": "2553728",
         "pos": "RB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Hunter Luepke",
         "playerId": "2570882",
         "pos": "RB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Javonte Williams",
         "playerId": "2566049",
         "pos": "RB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Jeff Wilson",
         "playerId": "2560938",
         "pos": "RB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Travis Homer",
         "playerId": "2562665",
         "pos": "RB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Trey Benson",
         "playerId": "2572405",
         "pos": "RB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Braelon Allen",
         "playerId": "2572354",
         "pos": "RB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Ty Johnson",
         "playerId": "2562293",
         "pos": "RB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Ronnie Rivers",
         "playerId": "2569185",
         "pos": "RB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Miles Sanders",
         "playerId": "2562722",
         "pos": "RB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Tyler Allgeier",
         "playerId": "2567232",
         "pos": "RB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Eric Gray",
         "playerId": "2570158",
         "pos": "RB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Antonio Gibson",
         "playerId": "2565276",
         "pos": "RB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Kenneth Gainwell",
         "playerId": "2566397",
         "pos": "RB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Dameon Pierce",
         "playerId": "2567685",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "British Brooks",
         "playerId": "2573686",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Tyreik McAllister",
         "playerId": "2568744",
         "pos": "RB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Jeremy McNichols",
         "playerId": "2557977",
         "pos": "RB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Samaje Perine",
         "playerId": "2558138",
         "pos": "RB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Will Shipley",
         "playerId": "2572390",
         "pos": "RB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Michael Burton",
         "playerId": "2552636",
         "pos": "RB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Chuba Hubbard",
         "playerId": "2565899",
         "pos": "RB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Cordarrelle Patterson",
         "playerId": "2540145",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Tyrone Tracy Jr.",
         "playerId": "2572351",
         "pos": "RB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Jordan Mims",
         "playerId": "2570768",
         "pos": "RB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Julius Chestnut",
         "playerId": "2568804",
         "pos": "RB",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Khalil Herbert",
         "playerId": "2565926",
         "pos": "RB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Alec Ingold",
         "playerId": "2562288",
         "pos": "RB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Dare Ogunbowale",
         "playerId": "2559362",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Mike Boone",
         "playerId": "2561099",
         "pos": "RB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Blake Corum",
         "playerId": "2572189",
         "pos": "RB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Isaac Guerendo",
         "playerId": "2572498",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Deuce Vaughn",
         "playerId": "2569699",
         "pos": "RB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Carson Steele",
         "playerId": "2572847",
         "pos": "RB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "C.J. Ham",
         "playerId": "2556803",
         "pos": "RB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Israel Abanikanda",
         "playerId": "2570188",
         "pos": "RB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Ameer Abdullah",
         "playerId": "2552374",
         "pos": "RB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Salvon Ahmed",
         "playerId": "2565090",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cam Akers",
         "playerId": "2564319",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Rasheen Ali",
         "playerId": "2571823",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Tyler Badie",
         "playerId": "2567265",
         "pos": "RB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Emani Bailey",
         "playerId": "2572805",
         "pos": "RB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Nick Bawden",
         "playerId": "2560972",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Andrew Beck",
         "playerId": "2562626",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Raheem Blackshear",
         "playerId": "2569477",
         "pos": "RB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Khari Blasingame",
         "playerId": "2562869",
         "pos": "RB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Brandon Bolden",
         "playerId": "2532797",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Matt Breida",
         "playerId": "2558918",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Gary Brightwell",
         "playerId": "2566364",
         "pos": "RB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Chris Brooks",
         "playerId": "2571114",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Jonathon Brooks",
         "playerId": "2571883",
         "pos": "RB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Brittain Brown",
         "playerId": "2567868",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Spencer Brown",
         "playerId": "2565558",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Robert Burns",
         "playerId": "2570449",
         "pos": "RB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Noah Cain",
         "playerId": "2572986",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Michael Carter",
         "playerId": "2566382",
         "pos": "RB",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Nick Chubb",
         "playerId": "2561021",
         "pos": "RB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Tarik Cohen",
         "playerId": "2558250",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jack Colletto",
         "playerId": "2571312",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Chris Collier",
         "playerId": "2572600",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Elijah Collins",
         "playerId": "2573856",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Snoop Conner",
         "playerId": "2567730",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Dalvin Cook",
         "playerId": "2557991",
         "pos": "RB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Jashaun Corbin",
         "playerId": "2569125",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Isaiah Davis",
         "playerId": "2572360",
         "pos": "RB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Malik Davis",
         "playerId": "2568672",
         "pos": "RB",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Tyrion Davis-Price",
         "playerId": "2568207",
         "pos": "RB",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "AJ Dillon",
         "playerId": "2563986",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Gerrid Doaks",
         "playerId": "2566277",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Elijah Dotson",
         "playerId": "2571536",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Chase Edmonds",
         "playerId": "2560711",
         "pos": "RB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Daijun Edwards",
         "playerId": "2573515",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Clyde Edwards-Helaire",
         "playerId": "2564271",
         "pos": "RB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Chris Evans",
         "playerId": "2565944",
         "pos": "RB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Darrynton Evans",
         "playerId": "2564043",
         "pos": "RB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Zach Evans",
         "playerId": "2569963",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Demetric Felton",
         "playerId": "2565968",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "DeShaun Fenwick",
         "playerId": "2573331",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "D'Onta Foreman",
         "playerId": "2557994",
         "pos": "RB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Royce Freeman",
         "playerId": "2560733",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jake Funk",
         "playerId": "2566208",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Reggie Gilliam",
         "playerId": "2565378",
         "pos": "RB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Tyler Goodson",
         "playerId": "2567595",
         "pos": "RB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Derrick Gore",
         "playerId": "2563347",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Frank Gore Jr.",
         "playerId": "2572908",
         "pos": "RB",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Troy Hairston",
         "playerId": "2568867",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Hassan Hall",
         "playerId": "2570861",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kevin Harris",
         "playerId": "2567934",
         "pos": "RB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Hassan Haskins",
         "playerId": "2567649",
         "pos": "RB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "JaMycal Hasty",
         "playerId": "2565108",
         "pos": "RB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Nyheim Hines",
         "playerId": "2560742",
         "pos": "RB",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "George Holani",
         "playerId": "2572768",
         "pos": "RB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Zander Horvath",
         "playerId": "2568174",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jarveon Howard",
         "playerId": "2572663",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Evan Hull",
         "playerId": "2569846",
         "pos": "RB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Mohamed Ibrahim",
         "playerId": "2570975",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Godwin Igwebuike",
         "playerId": "2560749",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Keaontay Ingram",
         "playerId": "2568108",
         "pos": "RB",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Deon Jackson",
         "playerId": "2565603",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jalen Jackson",
         "playerId": "2573695",
         "pos": "RB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Jermar Jefferson",
         "playerId": "2566058",
         "pos": "RB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Ramon Jefferson",
         "playerId": "2573841",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Terrell Jennings",
         "playerId": "2573767",
         "pos": "RB",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "D'Ernest Johnson",
         "playerId": "2563327",
         "pos": "RB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Dillon Johnson",
         "playerId": "2573464",
         "pos": "RB",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Jakob Johnson",
         "playerId": "2562890",
         "pos": "RB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Roschon Johnson",
         "playerId": "2569615",
         "pos": "RB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Austin Jones",
         "playerId": "2573602",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tony Jones",
         "playerId": "2564679",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jawhar Jordan",
         "playerId": "2572099",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Joshua Kelley",
         "playerId": "2565054",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "John Kelly",
         "playerId": "2560777",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Jacob Kibodi",
         "playerId": "2573385",
         "pos": "RB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Bam Knight",
         "playerId": "2568036",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Patrick Laird",
         "playerId": "2563296",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Dylan Laube",
         "playerId": "2572231",
         "pos": "RB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Kobe Lewis",
         "playerId": "2572777",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Lorenzo Lingard",
         "playerId": "2573701",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "MarShawn Lloyd",
         "playerId": "2572042",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "DeWayne McBride",
         "playerId": "2570077",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Christian McCaffrey",
         "playerId": "2557997",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Jase McClellan",
         "playerId": "2571808",
         "pos": "RB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Sincere McCormick",
         "playerId": "2568984",
         "pos": "RB",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Nate McCrary",
         "playerId": "2566617",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Anthony McFarland",
         "playerId": "2564994",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kenny McIntosh",
         "playerId": "2570314",
         "pos": "RB",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Ellis Merriweather",
         "playerId": "2571683",
         "pos": "RB",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Dante Miller",
         "playerId": "2572336",
         "pos": "RB",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Kendre Miller",
         "playerId": "2570149",
         "pos": "RB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Kendall Milton",
         "playerId": "2572741",
         "pos": "RB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Elijah Mitchell",
         "playerId": "2566538",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Keaton Mitchell",
         "playerId": "2570428",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Lew Nichols III",
         "playerId": "2569771",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kene Nwangwu",
         "playerId": "2566313",
         "pos": "RB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Jacques Patrick",
         "playerId": "2563737",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jaret Patterson",
         "playerId": "2567160",
         "pos": "RB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Nathaniel Peat",
         "playerId": "2573624",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Trent Pennix",
         "playerId": "2573172",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Rashaad Penny",
         "playerId": "2560835",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "La'Mical Perine",
         "playerId": "2564808",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Ricky Person",
         "playerId": "2568372",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Adam Prentice",
         "playerId": "2566872",
         "pos": "RB",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Deneric Prince",
         "playerId": "2570707",
         "pos": "RB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Louis Rees-Zammit",
         "playerId": "2572177",
         "pos": "RB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Craig Reynolds",
         "playerId": "2562834",
         "pos": "RB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Patrick Ricard",
         "playerId": "2558990",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Aidan Robbins",
         "playerId": "2573034",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "James Robinson",
         "playerId": "2564223",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kairee Robinson",
         "playerId": "2573886",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Keilan Robinson",
         "playerId": "2572156",
         "pos": "RB",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Chris Rodriguez Jr.",
         "playerId": "2570386",
         "pos": "RB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Jacob Saylors",
         "playerId": "2570840",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sam Schnee",
         "playerId": "2573476",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cody Schrader",
         "playerId": "2573545",
         "pos": "RB",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Boston Scott",
         "playerId": "2561146",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Trey Sermon",
         "playerId": "2566544",
         "pos": "RB",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Aaron Shampklin",
         "playerId": "2568708",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Jaden Shirden",
         "playerId": "2572950",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jabari Small",
         "playerId": "2573479",
         "pos": "RB",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Isaiah Spiller",
         "playerId": "2568189",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Markese Stepp",
         "playerId": "2573826",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "J.J. Taylor",
         "playerId": "2564640",
         "pos": "RB",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Patrick Taylor",
         "playerId": "2564040",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "SaRodorick Thompson Jr.",
         "playerId": "2571237",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sean Tucker",
         "playerId": "2571629",
         "pos": "RB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Sione Vaki",
         "playerId": "2572021",
         "pos": "RB",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Xazavian Valladay",
         "playerId": "2571014",
         "pos": "RB",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Ke'Shawn Vaughn",
         "playerId": "2565258",
         "pos": "RB",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Kimani Vidal",
         "playerId": "2572486",
         "pos": "RB",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Austin Walter",
         "playerId": "2563138",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jonathan Ward",
         "playerId": "2564949",
         "pos": "RB",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Carlos Washington",
         "playerId": "2570756",
         "pos": "RB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Dwayne Washington",
         "playerId": "2556118",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Blake Watson",
         "playerId": "2573106",
         "pos": "RB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Ian Wheeler",
         "playerId": "2572977",
         "pos": "RB",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Michael Wiley",
         "playerId": "2573614",
         "pos": "RB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Avery Williams",
         "playerId": "2565833",
         "pos": "RB",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "D.J. Williams",
         "playerId": "2573590",
         "pos": "RB",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "TaMerik Williams",
         "playerId": "2572792",
         "pos": "RB",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Trayveon Williams",
         "playerId": "2562600",
         "pos": "RB",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Jaylen Wright",
         "playerId": "2572261",
         "pos": "RB",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Owen Wright",
         "playerId": "2570425",
         "pos": "RB",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Colson Yankoff",
         "playerId": "2573620",
         "pos": "RB",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Myles Gaskin",
         "playerId": "2562270",
         "pos": "RB",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Audric Estim\u00e9",
         "playerId": "2571994",
         "pos": "RB",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Isaiah Likely",
         "playerId": "2567283",
         "pos": "TE",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Foster Moreau",
         "playerId": "2562317",
         "pos": "TE",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Chig Okonkwo",
         "playerId": "2567658",
         "pos": "TE",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Kyle Pitts",
         "playerId": "2565830",
         "pos": "TE",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Juwan Johnson",
         "playerId": "2564676",
         "pos": "TE",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Brock Bowers",
         "playerId": "2572219",
         "pos": "TE",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "David Njoku",
         "playerId": "2557986",
         "pos": "TE",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Colby Parkinson",
         "playerId": "2565180",
         "pos": "TE",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Sam LaPorta",
         "playerId": "2569726",
         "pos": "TE",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "George Kittle",
         "playerId": "2558266",
         "pos": "TE",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Trey McBride",
         "playerId": "2568117",
         "pos": "TE",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Noah Gray",
         "playerId": "2566178",
         "pos": "TE",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Josh Oliver",
         "playerId": "2562693",
         "pos": "TE",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Dallas Goedert",
         "playerId": "2560995",
         "pos": "TE",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Travis Kelce",
         "playerId": "2540258",
         "pos": "TE",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Pat Freiermuth",
         "playerId": "2566442",
         "pos": "TE",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Tucker Kraft",
         "playerId": "2569768",
         "pos": "TE",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Zach Ertz",
         "playerId": "2540158",
         "pos": "TE",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Hayden Hurst",
         "playerId": "2560747",
         "pos": "TE",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Jordan Akins",
         "playerId": "2560951",
         "pos": "TE",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Taysom Hill",
         "playerId": "2558954",
         "pos": "TE",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Austin Hooper",
         "playerId": "2555415",
         "pos": "TE",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Mike Gesicki",
         "playerId": "2560994",
         "pos": "TE",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Dalton Schultz",
         "playerId": "2560866",
         "pos": "TE",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Jake Ferguson",
         "playerId": "2567496",
         "pos": "TE",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Hunter Henry",
         "playerId": "2555341",
         "pos": "TE",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Dawson Knox",
         "playerId": "2562681",
         "pos": "TE",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Feleipe Franks",
         "playerId": "2566683",
         "pos": "TE",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Johnny Mundt",
         "playerId": "2558875",
         "pos": "TE",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Mark Andrews",
         "playerId": "2560957",
         "pos": "TE",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Theo Johnson",
         "playerId": "2572333",
         "pos": "TE",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Greg Dulcich",
         "playerId": "2567520",
         "pos": "TE",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Elijah Higgins",
         "playerId": "2570068",
         "pos": "TE",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Noah Fant",
         "playerId": "2562383",
         "pos": "TE",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Nick Vannett",
         "playerId": "2555289",
         "pos": "TE",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Will Dissly",
         "playerId": "2561046",
         "pos": "TE",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Grant Calcaterra",
         "playerId": "2568063",
         "pos": "TE",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Dalton Kincaid",
         "playerId": "2569594",
         "pos": "TE",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Tanner Conner",
         "playerId": "2569017",
         "pos": "TE",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Luke Farrell",
         "playerId": "2566160",
         "pos": "TE",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Kylen Granson",
         "playerId": "2566145",
         "pos": "TE",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Brady Russell",
         "playerId": "2570635",
         "pos": "TE",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "MyCole Pruitt",
         "playerId": "2552401",
         "pos": "TE",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Michael Mayer",
         "playerId": "2570032",
         "pos": "TE",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Jonnu Smith",
         "playerId": "2558207",
         "pos": "TE",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Tyler Conklin",
         "playerId": "2561027",
         "pos": "TE",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Julian Hill",
         "playerId": "2571129",
         "pos": "TE",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Adam Trautman",
         "playerId": "2564703",
         "pos": "TE",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Evan Engram",
         "playerId": "2557858",
         "pos": "TE",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Cade Otton",
         "playerId": "2568312",
         "pos": "TE",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Darnell Washington",
         "playerId": "2570257",
         "pos": "TE",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Cole Kmet",
         "playerId": "2563704",
         "pos": "TE",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Ja'Tavion Sanders",
         "playerId": "2571892",
         "pos": "TE",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Charlie Woerner",
         "playerId": "2565129",
         "pos": "TE",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Daniel Bellinger",
         "playerId": "2567985",
         "pos": "TE",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Tanner Hudson",
         "playerId": "2561215",
         "pos": "TE",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Brevin Jordan",
         "playerId": "2566130",
         "pos": "TE",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Brock Wright",
         "playerId": "2567221",
         "pos": "TE",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Gerald Everett",
         "playerId": "2557889",
         "pos": "TE",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Nate Adkins",
         "playerId": "2570930",
         "pos": "TE",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Mo Alie-Cox",
         "playerId": "2558832",
         "pos": "TE",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Erick All",
         "playerId": "2571916",
         "pos": "TE",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Davis Allen",
         "playerId": "2570017",
         "pos": "TE",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "AJ Barner",
         "playerId": "2572513",
         "pos": "TE",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Brenden Bates",
         "playerId": "2572953",
         "pos": "TE",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "John Bates",
         "playerId": "2566580",
         "pos": "TE",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Jaheim Bell",
         "playerId": "2572288",
         "pos": "TE",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Luke Benson",
         "playerId": "2573782",
         "pos": "TE",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Shawn Bowman",
         "playerId": "2573689",
         "pos": "TE",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Pharaoh Brown",
         "playerId": "2559018",
         "pos": "TE",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Harrison Bryant",
         "playerId": "2563767",
         "pos": "TE",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Lawrence Cager",
         "playerId": "2565492",
         "pos": "TE",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Sal Cannella",
         "playerId": "2567197",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Stephen Carlson",
         "playerId": "2563044",
         "pos": "TE",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "McCallan Castles",
         "playerId": "2572732",
         "pos": "TE",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Devin Culp",
         "playerId": "2572543",
         "pos": "TE",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Baylor Cupp",
         "playerId": "2572820",
         "pos": "TE",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Zach Davidson",
         "playerId": "2566301",
         "pos": "TE",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Tyler Davis",
         "playerId": "2564178",
         "pos": "TE",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Josiah Deguara",
         "playerId": "2563980",
         "pos": "TE",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Payne Durham",
         "playerId": "2570353",
         "pos": "TE",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Ross Dwelley",
         "playerId": "2561060",
         "pos": "TE",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Michael Ezeike",
         "playerId": "2571303",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mason Fairchild",
         "playerId": "2573888",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Princeton Fant",
         "playerId": "2570891",
         "pos": "TE",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Anthony Firkser",
         "playerId": "2558942",
         "pos": "TE",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Tucker Fisk",
         "playerId": "2569324",
         "pos": "TE",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "John FitzPatrick",
         "playerId": "2567241",
         "pos": "TE",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Kevin Foelsch",
         "playerId": "2573861",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Miller Forristall",
         "playerId": "2566944",
         "pos": "TE",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Joseph Fortson",
         "playerId": "2563259",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cole Fotheringham",
         "playerId": "2568972",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Devon Garrison",
         "playerId": "2573898",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Zach Gentry",
         "playerId": "2562654",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cam Grandy",
         "playerId": "2572995",
         "pos": "TE",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Jacob Harris",
         "playerId": "2566220",
         "pos": "TE",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Zach Heins",
         "playerId": "2573424",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Peyton Hendershot",
         "playerId": "2568690",
         "pos": "TE",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Parker Hesse",
         "playerId": "2563272",
         "pos": "TE",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Connor Heyward",
         "playerId": "2568138",
         "pos": "TE",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Tyler Higbee",
         "playerId": "2555364",
         "pos": "TE",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "T.J. Hockenson",
         "playerId": "2562378",
         "pos": "TE",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Curtis Hodges",
         "playerId": "2568327",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Dallin Holker",
         "playerId": "2573373",
         "pos": "TE",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Alec Holler",
         "playerId": "2573049",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jacob Hollister",
         "playerId": "2558956",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jesper Horsted",
         "playerId": "2563270",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tommy Hudson",
         "playerId": "2565450",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tyree Jackson",
         "playerId": "2562435",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Michael Jacobson",
         "playerId": "2567204",
         "pos": "TE",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "E.J. Jenkins",
         "playerId": "2570602",
         "pos": "TE",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Neal Johnson",
         "playerId": "2573719",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Nikola Kalinic",
         "playerId": "2567706",
         "pos": "TE",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Hunter Kampmoyer",
         "playerId": "2566481",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Dalton Keene",
         "playerId": "2564616",
         "pos": "TE",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Ko Kieft",
         "playerId": "2568306",
         "pos": "TE",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Trey Knox",
         "playerId": "2573301",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Charlie Kolar",
         "playerId": "2567280",
         "pos": "TE",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Lucas Krull",
         "playerId": "2569092",
         "pos": "TE",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Zack Kuntz",
         "playerId": "2570182",
         "pos": "TE",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Cameron Latu",
         "playerId": "2570302",
         "pos": "TE",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Dylan Leonard",
         "playerId": "2573091",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Marcedes Lewis",
         "playerId": "2495888",
         "pos": "TE",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Hunter Long",
         "playerId": "2566286",
         "pos": "TE",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Tyler Mabry",
         "playerId": "2565168",
         "pos": "TE",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Will Mallory",
         "playerId": "2569849",
         "pos": "TE",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Chris Manhertz",
         "playerId": "2552622",
         "pos": "TE",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "David Martin-Robinson",
         "playerId": "2573467",
         "pos": "TE",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Ben Mason",
         "playerId": "2565845",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sean McKeon",
         "playerId": "2563854",
         "pos": "TE",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Tre' McKitty",
         "playerId": "2566490",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tanner McLachlan",
         "playerId": "2571937",
         "pos": "TE",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "James Mitchell",
         "playerId": "2567556",
         "pos": "TE",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Zaire Mitchell-Paden",
         "playerId": "2568654",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Quintin Morris",
         "playerId": "2566641",
         "pos": "TE",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Jordan Murray",
         "playerId": "2571714",
         "pos": "TE",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Patrick Murtagh",
         "playerId": "2572150",
         "pos": "TE",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Nick Muse",
         "playerId": "2567922",
         "pos": "TE",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Luke Musgrave",
         "playerId": "2569780",
         "pos": "TE",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Chris Myarick",
         "playerId": "2563210",
         "pos": "TE",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Thomas Odukoya",
         "playerId": "2568828",
         "pos": "TE",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Kehinde Oginni Hassan",
         "playerId": "2568426",
         "pos": "TE",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Andrew Ogletree",
         "playerId": "2567712",
         "pos": "TE",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Albert Okwuegbunam",
         "playerId": "2563911",
         "pos": "TE",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Donald Parham",
         "playerId": "2562394",
         "pos": "TE",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Henry Pearson",
         "playerId": "2570512",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Josh Pederson",
         "playerId": "2567085",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "La'Michael Pettway",
         "playerId": "2571764",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Chris Pierce",
         "playerId": "2569182",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mason Pline",
         "playerId": "2573542",
         "pos": "TE",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Gerrit Prince",
         "playerId": "2568960",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Teagan Quitoriano",
         "playerId": "2567691",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kevin Rader",
         "playerId": "2561264",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tip Reiman",
         "playerId": "2572426",
         "pos": "TE",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Isaac Rex",
         "playerId": "2573142",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sammis Reyes",
         "playerId": "2565807",
         "pos": "TE",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Giovanni Ricci",
         "playerId": "2563668",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mike Rigerman",
         "playerId": "2572630",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Armani Rogers",
         "playerId": "2568351",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Hayden Rucci",
         "playerId": "2573764",
         "pos": "TE",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Jeremy Ruckert",
         "playerId": "2568042",
         "pos": "TE",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Drew Sample",
         "playerId": "2562720",
         "pos": "TE",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Eric Saubert",
         "playerId": "2558023",
         "pos": "TE",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Luke Schoonmaker",
         "playerId": "2569690",
         "pos": "TE",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Lincoln Sefcik",
         "playerId": "2572714",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Bernhard Seikovits",
         "playerId": "2567076",
         "pos": "TE",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Riley Sharp",
         "playerId": "2572636",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "John Shenker",
         "playerId": "2571099",
         "pos": "TE",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Ben Sims",
         "playerId": "2571198",
         "pos": "TE",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Ben Sinnott",
         "playerId": "2572585",
         "pos": "TE",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Stone Smartt",
         "playerId": "2569227",
         "pos": "TE",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Irv Smith",
         "playerId": "2562738",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Durham Smythe",
         "playerId": "2560880",
         "pos": "TE",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Matt Sokol",
         "playerId": "2562980",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Brevyn Spann-Ford",
         "playerId": "2573064",
         "pos": "TE",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Geor'Quarius Spivey",
         "playerId": "2573887",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "John Stephens Jr.",
         "playerId": "2570894",
         "pos": "TE",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Steven Stilianos",
         "playerId": "2573485",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Austin Stogner",
         "playerId": "2572893",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jack Stoll",
         "playerId": "2567061",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cade Stover",
         "playerId": "2572105",
         "pos": "TE",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Brenton Strange",
         "playerId": "2569912",
         "pos": "TE",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Stephen Sullivan",
         "playerId": "2565192",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sage Surratt",
         "playerId": "2566911",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tommy Sweeney",
         "playerId": "2562750",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Messiah Swinson",
         "playerId": "2572675",
         "pos": "TE",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Tanner Taula",
         "playerId": "2571587",
         "pos": "TE",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Ian Thomas",
         "playerId": "2560894",
         "pos": "TE",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Jordan Thomas",
         "playerId": "2560896",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Logan Thomas",
         "playerId": "2543767",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Noah Togiai",
         "playerId": "2564865",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Eric Tomlinson",
         "playerId": "2553744",
         "pos": "TE",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Jake Tonges",
         "playerId": "2567439",
         "pos": "TE",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Robert Tonyan",
         "playerId": "2559270",
         "pos": "TE",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Tommy Tremble",
         "playerId": "2565914",
         "pos": "TE",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Cole Turner",
         "playerId": "2568354",
         "pos": "TE",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "C.J. Uzomah",
         "playerId": "2552559",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Travis Vokolek",
         "playerId": "2570431",
         "pos": "TE",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Darren Waller",
         "playerId": "2552408",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jacob Warren",
         "playerId": "2573355",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Treyton Welch",
         "playerId": "2573040",
         "pos": "TE",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "David Wells",
         "playerId": "2560925",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jack Westover",
         "playerId": "2572786",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Blake Whiteheart",
         "playerId": "2571077",
         "pos": "TE",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Josh Whyle",
         "playerId": "2569810",
         "pos": "TE",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Mitchell Wilcox",
         "playerId": "2563749",
         "pos": "TE",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Jared Wiley",
         "playerId": "2572183",
         "pos": "TE",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Rod Williams",
         "playerId": "2569366",
         "pos": "TE",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Brayden Willis",
         "playerId": "2570293",
         "pos": "TE",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Joel Wilson",
         "playerId": "2571724",
         "pos": "TE",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jelani Woods",
         "playerId": "2567724",
         "pos": "TE",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Thomas Yassmin",
         "playerId": "2573109",
         "pos": "TE",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Kenny Yeboah",
         "playerId": "2565768",
         "pos": "TE",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Shane Zylstra",
         "playerId": "2567172",
         "pos": "TE",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Jayden Reed",
         "playerId": "2569765",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Cooper Kupp",
         "playerId": "2557898",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Allen Lazard",
         "playerId": "2560787",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Tyreek Hill",
         "playerId": "2556214",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Jameson Williams",
         "playerId": "2567565",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Mike Evans",
         "playerId": "2543468",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "A.J. Brown",
         "playerId": "2562238",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Alec Pierce",
         "playerId": "2567715",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Xavier Worthy",
         "playerId": "2572186",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Stefon Diggs",
         "playerId": "2552608",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Chris Godwin",
         "playerId": "2558105",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Deebo Samuel Sr.",
         "playerId": "2562721",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Rashee Rice",
         "playerId": "2569921",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Rashid Shaheed",
         "playerId": "2569110",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Nico Collins",
         "playerId": "2566127",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Justin Jefferson",
         "playerId": "2564556",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Jaylen Waddle",
         "playerId": "2566292",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "DeVonta Smith",
         "playerId": "2566409",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Brian Thomas Jr.",
         "playerId": "2572162",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Brandin Cooks",
         "playerId": "2543498",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Ladd McConkey",
         "playerId": "2572477",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Ashton Dulin",
         "playerId": "2562646",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Khalil Shakir",
         "playerId": "2567334",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "CeeDee Lamb",
         "playerId": "2563848",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Ja'Marr Chase",
         "playerId": "2565941",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Tyler Lockett",
         "playerId": "2552430",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "George Pickens",
         "playerId": "2568159",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Tyler Johnson",
         "playerId": "2565225",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Mack Hollins",
         "playerId": "2558262",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Jerry Jeudy",
         "playerId": "2563896",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Jalen McMillan",
         "playerId": "2572552",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Malik Nabers",
         "playerId": "2572342",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Garrett Wilson",
         "playerId": "2568048",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Jauan Jennings",
         "playerId": "2565114",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Wan'Dale Robinson",
         "playerId": "2568012",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Christian Watson",
         "playerId": "2567637",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Jalen Nailor",
         "playerId": "2567925",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Davante Adams",
         "playerId": "2543495",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Greg Dortch",
         "playerId": "2562645",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Zay Flowers",
         "playerId": "2569573",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Jakobi Meyers",
         "playerId": "2562492",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Adam Thielen",
         "playerId": "2541785",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Devaughn Vele",
         "playerId": "2572006",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Gabe Davis",
         "playerId": "2563602",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "DJ Moore",
         "playerId": "2560813",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Tank Dell",
         "playerId": "2569813",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Courtland Sutton",
         "playerId": "2560888",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Ray-Ray McCloud",
         "playerId": "2560801",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Keon Coleman",
         "playerId": "2571859",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Romeo Doubs",
         "playerId": "2567586",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Josh Reynolds",
         "playerId": "2558194",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Michael Wilson",
         "playerId": "2570224",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Calvin Ridley",
         "playerId": "2560854",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Rashod Bateman",
         "playerId": "2565836",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Puka Nacua",
         "playerId": "2570026",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Demarcus Robinson",
         "playerId": "2555478",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "KaVontae Turpin",
         "playerId": "2569509",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Xavier Legette",
         "playerId": "2571889",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Jalen Brooks",
         "playerId": "2569696",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Quentin Johnston",
         "playerId": "2570275",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Michael Pittman",
         "playerId": "2564136",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Jordan Addison",
         "playerId": "2570074",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Keenan Allen",
         "playerId": "2540154",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "DK Metcalf",
         "playerId": "2562685",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Jaxon Smith-Njigba",
         "playerId": "2570341",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Amon-Ra St. Brown",
         "playerId": "2566073",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Andrei Iosivas",
         "playerId": "2569657",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Elijah Moore",
         "playerId": "2566385",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Brandon Aiyuk",
         "playerId": "2565093",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Tyquan Thornton",
         "playerId": "2567958",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "K.J. Osborn",
         "playerId": "2564574",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Christian Kirk",
         "playerId": "2560781",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "David Moore",
         "playerId": "2558856",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Tyler Boyd",
         "playerId": "2555466",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Luke McCaffrey",
         "playerId": "2572576",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Jonathan Mingo",
         "playerId": "2569597",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Tre Tucker",
         "playerId": "2570059",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Justin Watson",
         "playerId": "2560051",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Nick Westbrook-Ikhine",
         "playerId": "2565477",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Dareke Young",
         "playerId": "2568291",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Diontae Johnson",
         "playerId": "2562674",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Terry McLaurin",
         "playerId": "2562489",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Jalen Tolbert",
         "playerId": "2567508",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Amari Cooper",
         "playerId": "2552487",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Drake London",
         "playerId": "2567250",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Josh Palmer",
         "playerId": "2566502",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Curtis Samuel",
         "playerId": "2558066",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Trey Palmer",
         "playerId": "2570350",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Marquez Valdes-Scantling",
         "playerId": "2560907",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Demario Douglas",
         "playerId": "2570119",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Chris Olave",
         "playerId": "2567973",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Laviska Shenault Jr.",
         "playerId": "2564232",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Darius Slayton",
         "playerId": "2562736",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Darnell Mooney",
         "playerId": "2563707",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "DJ Turner",
         "playerId": "2565666",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Olamide Zaccheaus",
         "playerId": "2562808",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "KhaDarel Hodge",
         "playerId": "2561653",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Scott Miller",
         "playerId": "2562865",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Jordan Whittington",
         "playerId": "2572216",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Dontayvion Wicks",
         "playerId": "2569759",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "DeAndre Hopkins",
         "playerId": "2540165",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Calvin Austin III",
         "playerId": "2568132",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Kalif Raymond",
         "playerId": "2556661",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Nelson Agholor",
         "playerId": "2552600",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "DeAndre Carter",
         "playerId": "2553502",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Trenton Irwin",
         "playerId": "2562900",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Ja'Lynn Polk",
         "playerId": "2572300",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Mason Tipton",
         "playerId": "2573403",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Jamison Crowder",
         "playerId": "2552415",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Bo Melton",
         "playerId": "2568261",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Derius Davis",
         "playerId": "2570272",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Marvin Harrison Jr.",
         "playerId": "2572411",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Treylon Burks",
         "playerId": "2567643",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Xavier Hutchinson",
         "playerId": "2569825",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Cedric Tillman",
         "playerId": "2569681",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Adonai Mitchell",
         "playerId": "2572129",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Van Jefferson",
         "playerId": "2564358",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Velus Jones Jr.",
         "playerId": "2567409",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Devin Duvernay",
         "playerId": "2563551",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Maurice Alexander",
         "playerId": "2569528",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Josh Ali",
         "playerId": "2569533",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kazmeir Allen",
         "playerId": "2571641",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Daniel Arias",
         "playerId": "2571074",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Ayir Asante",
         "playerId": "2573488",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tutu Atwell",
         "playerId": "2566196",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Kevin Austin Jr.",
         "playerId": "2568954",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Andre Baccellia",
         "playerId": "2564250",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Alex Bachman",
         "playerId": "2563301",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Javon Baker",
         "playerId": "2572285",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Jelani Baker",
         "playerId": "2572588",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kawaan Baker",
         "playerId": "2566349",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Daylen Baldwin",
         "playerId": "2569519",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Michael Bandy",
         "playerId": "2567175",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Odell Beckham Jr.",
         "playerId": "2543496",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "David Bell",
         "playerId": "2567460",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Ronnie Bell",
         "playerId": "2570290",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Braxton Berrios",
         "playerId": "2560975",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Tarik Black",
         "playerId": "2565594",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Chris Blair",
         "playerId": "2565588",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Jake Bobo",
         "playerId": "2571378",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Kendrick Bourne",
         "playerId": "2558914",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Kayshon Boutte",
         "playerId": "2570092",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Miles Boykin",
         "playerId": "2562631",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Phillip Brooks",
         "playerId": "2572814",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Ahmarean Brown",
         "playerId": "2573019",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Dyami Brown",
         "playerId": "2566586",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Marquise Brown",
         "playerId": "2562379",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Noah Brown",
         "playerId": "2558091",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Reggie Brown",
         "playerId": "2572817",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jason Brownlee",
         "playerId": "2570608",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Martavis Bryant",
         "playerId": "2543572",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cole Burgess",
         "playerId": "2572983",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Deontay Burnett",
         "playerId": "2560985",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Je'Quan Burton",
         "playerId": "2573253",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jermaine Burton",
         "playerId": "2571922",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Hakeem Butler",
         "playerId": "2562491",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Terrell Bynum",
         "playerId": "2571569",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Damiere Byrd",
         "playerId": "2553499",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Deon Cain",
         "playerId": "2560987",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Jalon Calhoun",
         "playerId": "2573112",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Marquez Callaway",
         "playerId": "2565310",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jalen Camp",
         "playerId": "2566148",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Parris Campbell",
         "playerId": "2562495",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Devin Carter",
         "playerId": "2573883",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Joshua Cephus",
         "playerId": "2573193",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Quintez Cephus",
         "playerId": "2563926",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "DJ Chark",
         "playerId": "2561018",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Irvin Charles",
         "playerId": "2568021",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Dan Chisena",
         "playerId": "2564514",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Robbie Chosen",
         "playerId": "2556462",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Chase Claypool",
         "playerId": "2564970",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tyrie Cleveland",
         "playerId": "2563881",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jalen Coker",
         "playerId": "2572920",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Chris Conley",
         "playerId": "2552652",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Elijah Cooks",
         "playerId": "2571029",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Jacob Copeland",
         "playerId": "2571473",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Malachi Corley",
         "playerId": "2572357",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Chase Cota",
         "playerId": "2570948",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Britain Covey",
         "playerId": "2568066",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Jacob Cowing",
         "playerId": "2572492",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "River Cracraft",
         "playerId": "2559485",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Corey Crooms",
         "playerId": "2573043",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Frank Darby",
         "playerId": "2565812",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jaelon Darden",
         "playerId": "2566562",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Daewood Davis",
         "playerId": "2571168",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Davion Davis",
         "playerId": "2562985",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kaden Davis",
         "playerId": "2568732",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Shaquan Davis",
         "playerId": "2571255",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Phillip Dorsett",
         "playerId": "2552424",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Keelan Doss",
         "playerId": "2562393",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jahan Dotson",
         "playerId": "2568321",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Colton Dowell",
         "playerId": "2569801",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Josh Downs",
         "playerId": "2569861",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Dylan Drummond",
         "playerId": "2571446",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Grant DuBose",
         "playerId": "2569786",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "David Durden",
         "playerId": "2570876",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Brevin Easton",
         "playerId": "2573692",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Hamze El-Zayat",
         "playerId": "2573823",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "D'Wayne Eskridge",
         "playerId": "2566553",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Erik Ezukanma",
         "playerId": "2567889",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Simi Fehoko",
         "playerId": "2566004",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Ethan Fernea",
         "playerId": "2568903",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Dez Fitzpatrick",
         "playerId": "2566109",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Ryan Flournoy",
         "playerId": "2571970",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Bryce Ford-Wheaton",
         "playerId": "2570590",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Jeff Foreman",
         "playerId": "2573214",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Daurice Fountain",
         "playerId": "2559921",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Troy Franklin",
         "playerId": "2571997",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Russell Gage",
         "playerId": "2561061",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Michael Gallup",
         "playerId": "2560735",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Izaiah Gathings",
         "playerId": "2571530",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jaelen Gill",
         "playerId": "2573785",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Xavier Gipson",
         "playerId": "2570614",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Anthony Gould",
         "playerId": "2572120",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Jakeem Grant",
         "playerId": "2556190",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Danny Gray",
         "playerId": "2568210",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Antoine Green",
         "playerId": "2569732",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Lideatrick Griffin",
         "playerId": "2573630",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jalen Guyton",
         "playerId": "2562844",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Justin Hall",
         "playerId": "2568978",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "KJ Hamler",
         "playerId": "2563890",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Mecole Hardman",
         "playerId": "2562580",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "DeAngelo Hardy",
         "playerId": "2572615",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mike Harley Jr.",
         "playerId": "2568636",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kelvin Harmon",
         "playerId": "2562577",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Devron Harper",
         "playerId": "2573292",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tyler Harrell",
         "playerId": "2572687",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Keilahn Harris",
         "playerId": "2570753",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tre'Shaun Harrison",
         "playerId": "2571449",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "N'Keal Harry",
         "playerId": "2562659",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Deonte Harty",
         "playerId": "2563155",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Hayden Hatten",
         "playerId": "2572765",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jaaron Hayek",
         "playerId": "2572870",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Malik Heath",
         "playerId": "2570518",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Griffin Hebert",
         "playerId": "2571408",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Julian Hicks",
         "playerId": "2572799",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Tee Higgins",
         "playerId": "2563731",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "OJ Hiliare",
         "playerId": "2573858",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Isaiah Hodgins",
         "playerId": "2563611",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Dennis Houston",
         "playerId": "2568693",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Lil'Jordan Humphrey",
         "playerId": "2562668",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Jalin Hyatt",
         "playerId": "2570152",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Andy Isabella",
         "playerId": "2562669",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Qadir Ismail",
         "playerId": "2573857",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "JaQuae Jackson",
         "playerId": "2572875",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Jermaine Jackson",
         "playerId": "2573376",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jha'Quan Jackson",
         "playerId": "2572069",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "John Jackson",
         "playerId": "2573843",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kearis Jackson",
         "playerId": "2571458",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Lucky Jackson",
         "playerId": "2571730",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Shedrick Jackson",
         "playerId": "2570828",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Trishton Jackson",
         "playerId": "2564355",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Ty James",
         "playerId": "2573295",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jadon Janke",
         "playerId": "2573157",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jaxon Janke",
         "playerId": "2573160",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Rakim Jarrett",
         "playerId": "2571575",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Jaray Jenkins",
         "playerId": "2571044",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "John Jiles",
         "playerId": "2573491",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Brandon Johnson",
         "playerId": "2568738",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Cam Johnson",
         "playerId": "2573052",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cephus Johnson III",
         "playerId": "2571219",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Collin Johnson",
         "playerId": "2564202",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Cornelius Johnson",
         "playerId": "2572474",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jaylen Johnson",
         "playerId": "2573791",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Johnny Johnson III",
         "playerId": "2568879",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Kameron Johnson",
         "playerId": "2573572",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Leon Johnson",
         "playerId": "2573430",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tyron Johnson",
         "playerId": "2562932",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Xavier Johnson",
         "playerId": "2572911",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Jeshaun Jones",
         "playerId": "2573298",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Julio Jones",
         "playerId": "2495454",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Latreal Jones",
         "playerId": "2573578",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tim Jones",
         "playerId": "2565624",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Zay Jones",
         "playerId": "2557863",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Tom Kennedy",
         "playerId": "2563319",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Lawrence Keys",
         "playerId": "2573650",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Ramel Keyton",
         "playerId": "2573232",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Mason Kinsey",
         "playerId": "2565459",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Jontre Kirklin",
         "playerId": "2569173",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Keith Kirkwood",
         "playerId": "2561224",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Malik Knowles",
         "playerId": "2571216",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tanner Knue",
         "playerId": "2573581",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "JJ Laap",
         "playerId": "2573722",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Matt Landers",
         "playerId": "2571351",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Kwamie Lassiter II",
         "playerId": "2568606",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Peter LeBlanc",
         "playerId": "2572965",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "T.J. Luther",
         "playerId": "2570599",
         "pos": "WR",
-        "nflTeam": "GB"
+        "team": "GB"
     },
     {
         "name": "Austin Mack",
         "playerId": "2564760",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Terrace Marshall Jr.",
         "playerId": "2565902",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Tay Martin",
         "playerId": "2569254",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Jesse Matthews",
         "playerId": "2571011",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Jordan Matthews",
         "playerId": "2543500",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Lance McCutcheon",
         "playerId": "2567847",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kyric McGowan",
         "playerId": "2568459",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Isaiah McKenzie",
         "playerId": "2558129",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Racey McMath",
         "playerId": "2566112",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Bub Means",
         "playerId": "2572324",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "John Metchie III",
         "playerId": "2567682",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Anthony Miller",
         "playerId": "2560810",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Ryan Miller",
         "playerId": "2571596",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Dax Milne",
         "playerId": "2566601",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Denzel Mims",
         "playerId": "2564802",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Marvin Mims Jr.",
         "playerId": "2569717",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "D.J. Montgomery",
         "playerId": "2562827",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Chris Moore",
         "playerId": "2555209",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Rondale Moore",
         "playerId": "2566433",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Skyy Moore",
         "playerId": "2567805",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Jalen Moreno-Cropper",
         "playerId": "2570870",
         "pos": "WR",
-        "nflTeam": "DAL"
+        "team": "DAL"
     },
     {
         "name": "Stanley Morgan",
         "playerId": "2562504",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tre Mosley",
         "playerId": "2573010",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Samson Nacua",
         "playerId": "2568915",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Joseph Ngata",
         "playerId": "2570638",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Praise Olatoke",
         "playerId": "2573873",
         "pos": "WR",
-        "nflTeam": "CAR"
+        "team": "CAR"
     },
     {
         "name": "Bryce Oliver",
         "playerId": "2573473",
         "pos": "WR",
-        "nflTeam": "TEN"
+        "team": "TEN"
     },
     {
         "name": "Gunner Olszewski",
         "playerId": "2563329",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "Terique Owens",
         "playerId": "2573539",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tejhaun Palmer",
         "playerId": "2572423",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "DeVante Parker",
         "playerId": "2552409",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Zach Pascal",
         "playerId": "2558877",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Tim Patrick",
         "playerId": "2558985",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Ricky Pearsall",
         "playerId": "2572507",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Donovan Peoples-Jones",
         "playerId": "2563803",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "A.T. Perry",
         "playerId": "2570137",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Dante Pettis",
         "playerId": "2560836",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Kyle Philips",
         "playerId": "2567664",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Sam Pinckney",
         "playerId": "2572938",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Thyrick Pitts",
         "playerId": "2570464",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Brandon Powell",
         "playerId": "2561261",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Cornell Powell",
         "playerId": "2566187",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Byron Pringle",
         "playerId": "2560844",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "James Proche",
         "playerId": "2563572",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Kendric Pryor",
         "playerId": "2568612",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Jalen Reagor",
         "playerId": "2564850",
         "pos": "WR",
-        "nflTeam": "NE"
+        "team": "NE"
     },
     {
         "name": "Nikko Remigio",
         "playerId": "2570692",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Brenden Rice",
         "playerId": "2572480",
         "pos": "WR",
-        "nflTeam": "LAC"
+        "team": "LAC"
     },
     {
         "name": "Marcus Riley",
         "playerId": "2572711",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Allen Robinson",
         "playerId": "2543509",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Tayvion Robinson",
         "playerId": "2572633",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Marcus Rosemy-Jacksaint",
         "playerId": "2573611",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "John Ross",
         "playerId": "2558010",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Justyn Ross",
         "playerId": "2568432",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Wayne Ruby",
         "playerId": "2573707",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sean Ryan",
         "playerId": "2570413",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Braylon Sanders",
         "playerId": "2569038",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Joseph Scates",
         "playerId": "2573710",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Anthony Schwartz",
         "playerId": "2565986",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Ty Scott",
         "playerId": "2570737",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Tyler Scott",
         "playerId": "2569630",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Zavier Scott",
         "playerId": "2570563",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Mathew Sexton",
         "playerId": "2565792",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tyrell Shavers",
         "playerId": "2571425",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Kyle Sheets",
         "playerId": "2573397",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sterling Shepard",
         "playerId": "2555295",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Trent Sherfield",
         "playerId": "2561272",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Justin Shorter",
         "playerId": "2569579",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "David Sills",
         "playerId": "2562732",
         "pos": "WR",
-        "nflTeam": "DEN"
+        "team": "DEN"
     },
     {
         "name": "Marcus Simms",
         "playerId": "2563340",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "Cam Sims",
         "playerId": "2561067",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Steven Sims",
         "playerId": "2563033",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Ben Skowronek",
         "playerId": "2566247",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Ainias Smith",
         "playerId": "2572393",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Brandon Smith",
         "playerId": "2566839",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Jeff Smith",
         "playerId": "2562845",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Shi Smith",
         "playerId": "2565908",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tre'Quan Smith",
         "playerId": "2560878",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Xavier Smith",
         "playerId": "2570002",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Ihmir Smith-Marsette",
         "playerId": "2566319",
         "pos": "WR",
-        "nflTeam": "NYG"
+        "team": "NYG"
     },
     {
         "name": "JuJu Smith-Schuster",
         "playerId": "2558149",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Willie Snead",
         "playerId": "2550256",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Equanimeous St. Brown",
         "playerId": "2560883",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Dimitri Stanley",
         "playerId": "2572802",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Rory Starkey",
         "playerId": "2573880",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Drake Stoops",
         "playerId": "2573746",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Mike Strachan",
         "playerId": "2565615",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Freddie Swain",
         "playerId": "2565195",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Malik Taylor",
         "playerId": "2562995",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Trent Taylor",
         "playerId": "2558202",
         "pos": "WR",
-        "nflTeam": "SF"
+        "team": "SF"
     },
     {
         "name": "Michael Thomas",
         "playerId": "2556370",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Thayer Thomas",
         "playerId": "2571213",
         "pos": "WR",
-        "nflTeam": "MIN"
+        "team": "MIN"
     },
     {
         "name": "Deven Thompkins",
         "playerId": "2569314",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Bryan Thompson",
         "playerId": "2571428",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Cody Thompson",
         "playerId": "2562759",
         "pos": "WR",
-        "nflTeam": "TB"
+        "team": "TB"
     },
     {
         "name": "Jamari Thrash",
         "playerId": "2571955",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Mitchell Tinsley",
         "playerId": "2571650",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Kadarius Toney",
         "playerId": "2566376",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Samori Toure",
         "playerId": "2567628",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Austin Trammell",
         "playerId": "2566728",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Laquon Treadwell",
         "playerId": "2555214",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Brycen Tremayne",
         "playerId": "2571665",
         "pos": "WR",
-        "nflTeam": "WAS"
+        "team": "WAS"
     },
     {
         "name": "Malik Turner",
         "playerId": "2561671",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Lincoln Victor",
         "playerId": "2573103",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jalen Virgil",
         "playerId": "2568756",
         "pos": "WR",
-        "nflTeam": "BUF"
+        "team": "BUF"
     },
     {
         "name": "Dayton Wade",
         "playerId": "2572645",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Devontez Walker",
         "playerId": "2571844",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "Tylan Wallace",
         "playerId": "2565857",
         "pos": "WR",
-        "nflTeam": "BAL"
+        "team": "BAL"
     },
     {
         "name": "David Wallis",
         "playerId": "2573865",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Greg Ward",
         "playerId": "2559278",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Casey Washington",
         "playerId": "2571820",
         "pos": "WR",
-        "nflTeam": "ATL"
+        "team": "ATL"
     },
     {
         "name": "Isaiah Washington",
         "playerId": "2572651",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "James Washington",
         "playerId": "2560920",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Malik Washington",
         "playerId": "2572255",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Montrell Washington",
         "playerId": "2567538",
         "pos": "WR",
-        "nflTeam": "KC"
+        "team": "KC"
     },
     {
         "name": "Scotty Washington",
         "playerId": "2563743",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Tahj Washington",
         "playerId": "2572258",
         "pos": "WR",
-        "nflTeam": "MIA"
+        "team": "MIA"
     },
     {
         "name": "Austin Watkins Jr.",
         "playerId": "2567091",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Quez Watkins",
         "playerId": "2564880",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Duece Watts",
         "playerId": "2570506",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jalen Wayne",
         "playerId": "2570774",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Jared Wayne",
         "playerId": "2571017",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Xavier Weaver",
         "playerId": "2573412",
         "pos": "WR",
-        "nflTeam": "ARI"
+        "team": "ARI"
     },
     {
         "name": "Raleigh Webb",
         "playerId": "2568378",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Nsimba Webster",
         "playerId": "2563316",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Cody White",
         "playerId": "2564313",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     },
     {
         "name": "David White Jr.",
         "playerId": "2573202",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Xavier White",
         "playerId": "2573184",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Sam Wiglusz",
         "playerId": "2573752",
         "pos": "WR",
-        "nflTeam": "LAR"
+        "team": "LAR"
     },
     {
         "name": "Kristian Wilkerson",
         "playerId": "2565480",
         "pos": "WR",
-        "nflTeam": "LV"
+        "team": "LV"
     },
     {
         "name": "Isaiah Williams",
         "playerId": "2573154",
         "pos": "WR",
-        "nflTeam": "DET"
+        "team": "DET"
     },
     {
         "name": "Mike Williams",
         "playerId": "2558846",
         "pos": "WR",
-        "nflTeam": "NYJ"
+        "team": "NYJ"
     },
     {
         "name": "Seth Williams",
         "playerId": "2566052",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Johnny Wilson",
         "playerId": "2572399",
         "pos": "WR",
-        "nflTeam": "PHI"
+        "team": "PHI"
     },
     {
         "name": "Roman Wilson",
         "playerId": "2572459",
         "pos": "WR",
-        "nflTeam": "PIT"
+        "team": "PIT"
     },
     {
         "name": "Juwann Winfree",
         "playerId": "2562956",
         "pos": "WR",
-        "nflTeam": "IND"
+        "team": "IND"
     },
     {
         "name": "Isaiah Winstead",
         "playerId": "2571324",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Easop Winston",
         "playerId": "2564406",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Isaiah Wooden",
         "playerId": "2572899",
         "pos": "WR",
-        "nflTeam": "FA"
+        "team": "FA"
     },
     {
         "name": "Mike Woods",
         "playerId": "2567481",
         "pos": "WR",
-        "nflTeam": "CLE"
+        "team": "CLE"
     },
     {
         "name": "Robert Woods",
         "playerId": "2540169",
         "pos": "WR",
-        "nflTeam": "HOU"
+        "team": "HOU"
     },
     {
         "name": "Parker Washington",
         "playerId": "2569888",
         "pos": "WR",
-        "nflTeam": "JAX"
+        "team": "JAX"
     },
     {
         "name": "Rome Odunze",
         "playerId": "2571907",
         "pos": "WR",
-        "nflTeam": "CHI"
+        "team": "CHI"
     },
     {
         "name": "Charlie Jones",
         "playerId": "2569645",
         "pos": "WR",
-        "nflTeam": "CIN"
+        "team": "CIN"
     },
     {
         "name": "Cedrick Wilson Jr.",
         "playerId": "2560936",
         "pos": "WR",
-        "nflTeam": "NO"
+        "team": "NO"
     },
     {
         "name": "Dee Williams",
         "playerId": "2572789",
         "pos": "WR",
-        "nflTeam": "SEA"
+        "team": "SEA"
     }
 ]

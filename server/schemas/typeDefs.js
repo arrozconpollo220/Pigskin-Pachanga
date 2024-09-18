@@ -8,7 +8,9 @@ const typeDefs = `
     type Player {
         _id: ID
         name: String
-        team: String
+        playerId: String
+        pos: String
+        nflTeam: String
     }
 
     type Team {

@@ -7,6 +7,22 @@ const playerSchema = new Schema({
         unique: true,
         trim: true,
     },
+    playerId: {
+        type: String,
+        required: true,
+        unique: true,
+        trim: true,
+    },
+    pos: {
+        type: String,
+        required: true,
+        trim: true,
+    },
+    nflTeam: {
+        type: String,
+        required: true,
+        trim: true,
+    },
 });
 
 const Player = model('Player', playerSchema);
