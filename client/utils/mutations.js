@@ -40,6 +40,9 @@ export const ADD_NEW_TEAM = gql`
             players {
                 _id
                 name
+                pos
+                nflTeam
+                playerId
             }
         }
     }
