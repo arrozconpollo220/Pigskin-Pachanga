@@ -2,7 +2,14 @@ const typeDefs = `
     type Profile {
         _id: ID
         name: String
+        email: String
+        password: String
         teams: [Team]
+    }
+    
+    type Auth {
+        token: ID!
+        profile: Profile
     }
     
     type Player {
@@ -39,6 +46,9 @@ const typeDefs = `
     }
 
     type Mutation {
+        addProfile(name: String!, email: String!, password: String!): Auth
+        login(email: String!, password: String!): Auth
+
         addNewTeam(name: String!): Team
         addNewLeague(name: String!, commissioner: String!): League
 
