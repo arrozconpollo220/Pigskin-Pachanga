@@ -1,4 +1,5 @@
 const { Profile, Player, Team, League } = require('../models');
+const { signToken, AuthenticationError } = require('../utils/auth');
 
 const resolvers = {
     Query: {
@@ -20,33 +21,57 @@ const resolvers = {
         },
 
         // View single entries
-        profile: async(parent, { profileId }) => {
+        profile: async (parent, { profileId }) => {
             return Profile.findOne({ _id: profileId }).populate('teams');
         },
-        player: async(parent, { playerId }) => {
+        player: async (parent, { playerId }) => {
             return Player.findOne({ _id: playerId });
         },
-        team: async(parent, { teamId }) => {
+        team: async (parent, { teamId }) => {
             return Team.findOne({ _id: teamId }).populate('players');
         },
-        league: async(parent, { leagueId }) => {
+        league: async (parent, { leagueId }) => {
             return League.findOne({ _id: leagueId }).populate('teams');
         },
     },
 
     Mutation: {
+        // JWT items
+        addProfile: async (parent, { name, email, password }) => {
+            const profile = await Profile.create({ name, email, password });
+            const token = signToken(profile);
+
+            return { token, profile };
+        },
+        login: async (parent, { email, password }) => {
+            const profile = await Profile.findOne({ email });
+
+            if (!profile) {
+                throw AuthenticationError
+            }
+
+            const correctPw = await profile.isCorrectPassword(password);
+
+            if (!correctPw) {
+                throw AuthenticationError
+            }
+
+            const token = signToken(profile);
+            return { token, profile };
+        },
+
         // Creating new items
         addNewTeam: async (parent, { name }) => {
-            return Team.create({name});
+            return Team.create({ name });
         },
         addNewLeague: async (parent, { name, commissioner }) => {
-            return League.create({name, commissioner});
+            return League.create({ name, commissioner });
         },
 
         // Updating existing items
         addPlayerToTeam: async (parent, { teamId, playerId }) => {
             return Team.findOneAndUpdate(
-                { _id: teamId},
+                { _id: teamId },
                 {
                     $addToSet: { players: playerId }
                 },
@@ -58,7 +83,7 @@ const resolvers = {
         },
         removePlayerFromTeam: async (parent, { teamId, playerId }) => {
             return Team.findOneAndUpdate(
-                { _id: teamId},
+                { _id: teamId },
                 {
                     $pull: { players: playerId }
                 },
@@ -70,7 +95,7 @@ const resolvers = {
         },
         addTeamToLeague: async (parent, { leagueId, teamId }) => {
             return League.findOneAndUpdate(
-                { _id: leagueId},
+                { _id: leagueId },
                 {
                     $addToSet: { teams: teamId }
                 },
@@ -82,7 +107,7 @@ const resolvers = {
         },
         removeTeamFromLeague: async (parent, { leagueId, teamId }) => {
             return League.findOneAndUpdate(
-                { _id: leagueId},
+                { _id: leagueId },
                 {
                     $pull: { teams: teamId }
                 },
@@ -94,7 +119,7 @@ const resolvers = {
         },
         updateTeam: async (parent, { teamId, teamName }) => {
             return Team.findOneAndUpdate(
-                { _id: teamId},
+                { _id: teamId },
                 {
                     $set: { name: teamName }
                 },
@@ -106,9 +131,9 @@ const resolvers = {
         },
         updateLeague: async (parent, { leagueId, leagueName, leagueComm }) => {
             return League.findOneAndUpdate(
-                { _id: leagueId},
+                { _id: leagueId },
                 {
-                    $set: { 
+                    $set: {
                         name: leagueName,
                         commissioner: leagueComm,
                     }
@@ -121,10 +146,10 @@ const resolvers = {
         },
 
         // Deleting existing items
-        removeTeam: async (parent,  { teamId }) => {
+        removeTeam: async (parent, { teamId }) => {
             return Team.findOneAndDelete({ _id: teamId });
         },
-        removeLeague: async (parent,  { leagueId }) => {
+        removeLeague: async (parent, { leagueId }) => {
             return League.findOneAndDelete({ _id: leagueId }).populate('teams');
         },
     }
