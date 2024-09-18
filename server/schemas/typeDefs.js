@@ -2,7 +2,7 @@ const typeDefs = `
     type Profile {
         _id: ID
         name: String
-        teams: [String]
+        teams: [Team]
     }
     
     type Player {
@@ -16,14 +16,14 @@ const typeDefs = `
     type Team {
         _id: ID
         name: String
-        players: [String]
+        players: [Player]
     }
 
     type League {
         _id: ID
         name: String
         commissioner: String
-        teams: [String]
+        teams: [Team]
     }
 
     type Query {
