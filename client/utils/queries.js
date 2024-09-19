@@ -9,6 +9,7 @@ export const QUERY_LEAGUES = gql`
             teams {
                 _id
                 name
+                owner
             }
         }
     }
@@ -19,6 +20,7 @@ export const QUERY_TEAMS = gql`
         teams {
             _id
             name
+            owner
             players {
                 _id
                 name
@@ -41,6 +43,7 @@ export const QUERY_PLAYERS = gql`
             team {
                 _id
                 name
+                owner
             }
         }
     }
@@ -51,7 +54,12 @@ export const QUERY_PROFILES = gql`
         profiles {
             _id
             name
-            teams
+            email
+            teams {
+                _id
+                name
+                owner
+            }
         }
     }
 `;
@@ -61,9 +69,11 @@ export const QUERY_PROFILE = gql`
         profile(profileId: $profileId) {
             _id
             name
+            email
             teams {
                 _id
                 name
+                owner
             }
         }
     }
@@ -74,8 +84,14 @@ export const QUERY_PLAYER = gql`
         player(playerId: $playerId) {
             _id
             name
+            playerId
             pos
             nflTeam
+            team {
+                _id
+                name
+                owner
+            }
         }
     }
 `;
@@ -85,6 +101,7 @@ export const QUERY_TEAM = gql`
         team(teamId: $teamId) {
             _id
             name
+            owner
             players {
                 _id
                 name
@@ -105,6 +122,24 @@ export const QUERY_LEAGUE = gql`
             teams {
                 _id
                 name
+                owner
+            }
+        }
+    }
+`;
+
+export const QUERY_AUTH = gql`
+    query getAuth {
+        auth {
+            token
+            profile {
+                _id
+                name
+                email
+                teams {
+                    _id
+                    name
+                }
             }
         }
     }
