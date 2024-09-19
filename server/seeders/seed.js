@@ -14,9 +14,9 @@ db.once('open', async () => {
       await cleanDB('Profile', 'profiles');
 
       await Player.create(playerSeeds);
-      await Team.create(teamSeeds);
+      // await Team.create(teamSeeds);
       await League.create(leagueSeeds);
-      await Profile.create(profileSeeds);
+      // await Profile.create(profileSeeds);
   
       console.log('all done!');
       process.exit(0);

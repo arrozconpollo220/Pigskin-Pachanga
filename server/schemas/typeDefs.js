@@ -22,7 +22,8 @@ const typeDefs = `
 
     type Team {
         _id: ID
-        name: String
+        name: String!
+        owner: String!
         players: [Player]
     }
 
@@ -49,7 +50,7 @@ const typeDefs = `
         addProfile(name: String!, email: String!, password: String!): Auth
         login(email: String!, password: String!): Auth
 
-        addNewTeam(name: String!): Team
+        createNewTeamInLeague(leagueId: ID!, teamName: String!): League
         addNewLeague(name: String!, commissioner: String!): League
 
         addPlayerToTeam (teamId: ID!, playerId: ID! ): Team
