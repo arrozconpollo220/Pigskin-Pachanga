@@ -1,18 +1,50 @@
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { useMutation } from '@apollo/client';
+import { LOGIN_USER } from '../utils/mutations';
 import { AiFillEye, AiFillEyeInvisible } from 'react-icons/ai';
+import Auth from '../utils/auth';
 import './login.css';
 
 const Login = (props) => {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const [formState, setFormState] = useState({ email: '', password: '' });
+  const [login, { error, data }] = useMutation(LOGIN_USER);
   const [emailError, setEmailError] = useState('');
   const [passwordError, setPasswordError] = useState('');
   const [showPassword, setShowPassword] = useState(false);
 
-  
+  // update state based on form input changes
+  const handleChange = (event) => {
+    const { name, value } = event.target;
 
-  const onButtonClick = () => {
+    setFormState({
+      ...formState,
+      [name]: value,
+    });
+  };
+
+  // submit form
+  const handleFormSubmit = async (event) => {
+    event.preventDefault();
+    console.log(formState);
+    try {
+      const { data } = await login({
+        variables: { ...formState },
+      });
+
+      Auth.login(data.login.token);
+    } catch (e) {
+      console.error(e);
+    }
+
+    // clear form values
+    setFormState({
+      email: '',
+      password: '',
+    });
+  };
+
+    const onButtonClick = () => {
     setEmailError('');
     setPasswordError('');
 
@@ -35,8 +67,6 @@ const Login = (props) => {
       setPasswordError('The password must be 8 characters or longer');
       return;
     }
-
-    // Authentication calls will be made here...
   };
 
   const toggleShowPassword = () => {
@@ -44,42 +74,71 @@ const Login = (props) => {
   };
 
   return (
-    <div className='mainContainer'>
-      <div className='titleContainer'>
-        <div>Login</div>
+    <main className="mainContainer">
+      <div className="col-12 col-lg-10">
+        <div className="titleContainer">
+          <h4>Login</h4>
+        </div>
+          <div className="">
+            {data ? (
+              <p>
+                Success! You may now head{' '}
+                <Link to="/">back to the homepage.</Link>
+              </p>
+            ) : (
+              <form onSubmit={handleFormSubmit}>
+                <div className='inputContainer'>
+                  <input
+                    value={formState.email}
+                    placeholder="Enter your email here"
+                    className="inputBox"
+                    onChange={handleChange}
+                    name="email"
+                    type="email"
+                  />
+                  <label className='errorLabel'>{emailError}</label>
+                </div>
+
+                <div className='inputContainer'>
+                <input
+                  type={showPassword ? 'text' : 'password'}
+                  value={formState.password}
+                  placeholder="Enter your password here"
+                  onChange={handleChange}
+                  className="inputBox"
+                  name="password"
+                  />
+                  <span
+                    className='eyeIcon'
+                    onClick={toggleShowPassword}
+                  >
+                    {showPassword ? <AiFillEyeInvisible /> : <AiFillEye />}
+                  </span>
+                  <label className='errorLabel'>{passwordError}</label>
+                </div>
+
+                <div className='inputContainer'>
+                  <button
+                    className="inputButton"
+                    type="submit"
+                    onClick={onButtonClick}
+                    style={{ cursor: 'pointer' }}
+                    
+                  >
+                    Log In
+                  </button>
+                </div>
+              </form>
+            )}
+
+            {error && (
+              <div className="my-3 p-3 bg-danger text-white">
+                {error.message}
+              </div>
+            )}
+          </div>
       </div>
-      <br />
-      <div className='inputContainer'>
-        <input
-          value={email}
-          placeholder="Enter your email here"
-          onChange={(ev) => setEmail(ev.target.value)}
-          className='inputBox'
-        />
-        <label className='errorLabel'>{emailError}</label>
-      </div>
-      <br />
-      <div className='inputContainer'>
-        <input
-          type={showPassword ? 'text' : 'password'}
-          value={password}
-          placeholder="Enter your password here"
-          onChange={(ev) => setPassword(ev.target.value)}
-          className='inputBox'
-        />
-        <span
-          className='eyeIcon'
-          onClick={toggleShowPassword}
-        >
-          {showPassword ? <AiFillEyeInvisible /> : <AiFillEye />}
-        </span>
-        <label className='errorLabel'>{passwordError}</label>
-      </div>
-      <br />
-      <div className='inputContainer'>
-        <input className='inputButton' type='button' onClick={onButtonClick} value='Log in' />
-      </div>
-    </div>
+    </main>
   );
 };
 
