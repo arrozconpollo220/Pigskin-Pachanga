@@ -7,6 +7,11 @@ const teamSchema = new Schema({
         unique: true,
         trim: true,
     },
+    owner: {
+        type: Schema.Types.ObjectId,
+        ref: 'Profile',
+        required: true,
+    },
     players: {
         type: [
             {
