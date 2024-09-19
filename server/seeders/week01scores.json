@@ -1,0 +1,9650 @@
+[
+    {
+      "_id": 1,
+      "PlayerName": "Chris Boswell",
+      "PlayerId": 2550545,
+      "Pos": "K",
+      "Team": "PIT",
+      "Rank": 1,
+      "TotalPoints": 26
+    },
+    {
+      "_id": 2,
+      "PlayerName": "Jake Moody",
+      "PlayerId": 2570308,
+      "Pos": "K",
+      "Team": "SF",
+      "Rank": 2,
+      "TotalPoints": 26
+    },
+    {
+      "_id": 3,
+      "PlayerName": "Blake Grupe",
+      "PlayerId": 2571234,
+      "Pos": "K",
+      "Team": "NO",
+      "Rank": 3,
+      "TotalPoints": 22
+    },
+    {
+      "_id": 4,
+      "PlayerName": "Brandon Aubrey",
+      "PlayerId": 2571750,
+      "Pos": "K",
+      "Team": "DAL",
+      "Rank": 4,
+      "TotalPoints": 21
+    },
+    {
+      "_id": 5,
+      "PlayerName": "Ka'imi Fairbairn",
+      "PlayerId": 2556521,
+      "Pos": "K",
+      "Team": "HOU",
+      "Rank": 5,
+      "TotalPoints": 17
+    },
+    {
+      "_id": 6,
+      "PlayerName": "Chase McLaughlin",
+      "PlayerId": 2563203,
+      "Pos": "K",
+      "Team": "TB",
+      "Rank": 6,
+      "TotalPoints": 15
+    },
+    {
+      "_id": 7,
+      "PlayerName": "Cairo Santos",
+      "PlayerId": 2550636,
+      "Pos": "K",
+      "Team": "CHI",
+      "Rank": 7,
+      "TotalPoints": 13
+    },
+    {
+      "_id": 8,
+      "PlayerName": "Cameron Dicker",
+      "PlayerId": 2568435,
+      "Pos": "K",
+      "Team": "LAC",
+      "Rank": 8,
+      "TotalPoints": 12
+    },
+    {
+      "_id": 9,
+      "PlayerName": "Wil Lutz",
+      "PlayerId": 2556601,
+      "Pos": "K",
+      "Team": "DEN",
+      "Rank": 9,
+      "TotalPoints": 11
+    },
+    {
+      "_id": 10,
+      "PlayerName": "Brayden Narveson",
+      "PlayerId": 2573470,
+      "Pos": "K",
+      "Team": "GB",
+      "Rank": 10,
+      "TotalPoints": 11
+    },
+    {
+      "_id": 11,
+      "PlayerName": "Tyler Bass",
+      "PlayerId": 2563596,
+      "Pos": "K",
+      "Team": "BUF",
+      "Rank": 11,
+      "TotalPoints": 10
+    },
+    {
+      "_id": 12,
+      "PlayerName": "Jake Elliott",
+      "PlayerId": 2558172,
+      "Pos": "K",
+      "Team": "PHI",
+      "Rank": 12,
+      "TotalPoints": 10
+    },
+    {
+      "_id": 13,
+      "PlayerName": "Jason Myers",
+      "PlayerId": 2553112,
+      "Pos": "K",
+      "Team": "SEA",
+      "Rank": 13,
+      "TotalPoints": 10
+    },
+    {
+      "_id": 14,
+      "PlayerName": "Jason Sanders",
+      "PlayerId": 2561153,
+      "Pos": "K",
+      "Team": "MIA",
+      "Rank": 14,
+      "TotalPoints": 10
+    },
+    {
+      "_id": 15,
+      "PlayerName": "Joey Slye",
+      "PlayerId": 2563132,
+      "Pos": "K",
+      "Team": "NE",
+      "Rank": 15,
+      "TotalPoints": 10
+    },
+    {
+      "_id": 16,
+      "PlayerName": "Harrison Butker",
+      "PlayerId": 2558245,
+      "Pos": "K",
+      "Team": "KC",
+      "Rank": 16,
+      "TotalPoints": 9
+    },
+    {
+      "_id": 17,
+      "PlayerName": "Joshua Karty",
+      "PlayerId": 2572201,
+      "Pos": "K",
+      "Team": "LAR",
+      "Rank": 17,
+      "TotalPoints": 9
+    },
+    {
+      "_id": 18,
+      "PlayerName": "Jake Bates",
+      "PlayerId": 2571759,
+      "Pos": "K",
+      "Team": "DET",
+      "Rank": 18,
+      "TotalPoints": 8
+    },
+    {
+      "_id": 19,
+      "PlayerName": "Graham Gano",
+      "PlayerId": 71309,
+      "Pos": "K",
+      "Team": "NYG",
+      "Rank": 19,
+      "TotalPoints": 8
+    },
+    {
+      "_id": 20,
+      "PlayerName": "Matt Prater",
+      "PlayerId": 2506677,
+      "Pos": "K",
+      "Team": "ARI",
+      "Rank": 20,
+      "TotalPoints": 8
+    },
+    {
+      "_id": 21,
+      "PlayerName": "Justin Tucker",
+      "PlayerId": 2536340,
+      "Pos": "K",
+      "Team": "BAL",
+      "Rank": 21,
+      "TotalPoints": 8
+    },
+    {
+      "_id": 22,
+      "PlayerName": "Dustin Hopkins",
+      "PlayerId": 2539227,
+      "Pos": "K",
+      "Team": "CLE",
+      "Rank": 22,
+      "TotalPoints": 7
+    },
+    {
+      "_id": 23,
+      "PlayerName": "Cam Little",
+      "PlayerId": 2572147,
+      "Pos": "K",
+      "Team": "JAX",
+      "Rank": 23,
+      "TotalPoints": 7
+    },
+    {
+      "_id": 24,
+      "PlayerName": "Nick Folk",
+      "PlayerId": 2507225,
+      "Pos": "K",
+      "Team": "TEN",
+      "Rank": 24,
+      "TotalPoints": 6
+    },
+    {
+      "_id": 25,
+      "PlayerName": "Evan McPherson",
+      "PlayerId": 2565953,
+      "Pos": "K",
+      "Team": "CIN",
+      "Rank": 25,
+      "TotalPoints": 6
+    },
+    {
+      "_id": 26,
+      "PlayerName": "Eddy Pineiro",
+      "PlayerId": 2560842,
+      "Pos": "K",
+      "Team": "CAR",
+      "Rank": 26,
+      "TotalPoints": 5
+    },
+    {
+      "_id": 27,
+      "PlayerName": "Daniel Carlson",
+      "PlayerId": 2560993,
+      "Pos": "K",
+      "Team": "LV",
+      "Rank": 27,
+      "TotalPoints": 4
+    },
+    {
+      "_id": 28,
+      "PlayerName": "Younghoe Koo",
+      "PlayerId": 2559205,
+      "Pos": "K",
+      "Team": "ATL",
+      "Rank": 28,
+      "TotalPoints": 4
+    },
+    {
+      "_id": 29,
+      "PlayerName": "Will Reichard",
+      "PlayerId": 2572273,
+      "Pos": "K",
+      "Team": "MIN",
+      "Rank": 29,
+      "TotalPoints": 4
+    },
+    {
+      "_id": 30,
+      "PlayerName": "Spencer Shrader",
+      "PlayerId": 2573175,
+      "Pos": "K",
+      "Team": "IND",
+      "Rank": 30,
+      "TotalPoints": 3
+    },
+    {
+      "_id": 31,
+      "PlayerName": "Cade York",
+      "PlayerId": 2567487,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 31,
+      "TotalPoints": 2
+    },
+    {
+      "_id": 32,
+      "PlayerName": "Greg Zuerlein",
+      "PlayerId": 2534797,
+      "Pos": "K",
+      "Team": "NYJ",
+      "Rank": 32,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 33,
+      "PlayerName": "Ramiz Ahmed",
+      "PlayerId": 2563692,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 33,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 34,
+      "PlayerName": "Mike Badgley",
+      "PlayerId": 2560965,
+      "Pos": "K",
+      "Team": "DET",
+      "Rank": 34,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 35,
+      "PlayerName": "Tanner Brown",
+      "PlayerId": 2569984,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 35,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 36,
+      "PlayerName": "Anders Carlson",
+      "PlayerId": 2569750,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 36,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 37,
+      "PlayerName": "Matt Gay",
+      "PlayerId": 2562271,
+      "Pos": "K",
+      "Team": "IND",
+      "Rank": 37,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 38,
+      "PlayerName": "Alex Hale",
+      "PlayerId": 2573890,
+      "Pos": "K",
+      "Team": "GB",
+      "Rank": 38,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 39,
+      "PlayerName": "Lucas Havrisik",
+      "PlayerId": 2569534,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 39,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 40,
+      "PlayerName": "Greg Joseph",
+      "PlayerId": 2561534,
+      "Pos": "K",
+      "Team": "DET",
+      "Rank": 40,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 41,
+      "PlayerName": "Brett Maher",
+      "PlayerId": 2540243,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 41,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 42,
+      "PlayerName": "Jude McAtamney",
+      "PlayerId": 2573503,
+      "Pos": "K",
+      "Team": "NYG",
+      "Rank": 42,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 43,
+      "PlayerName": "Brandon McManus",
+      "PlayerId": 2541556,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 43,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 44,
+      "PlayerName": "Harrison Mevis",
+      "PlayerId": 2572932,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 44,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 45,
+      "PlayerName": "Riley Patterson",
+      "PlayerId": 2567013,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 45,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 46,
+      "PlayerName": "Jack Podlesny",
+      "PlayerId": 2571174,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 46,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 47,
+      "PlayerName": "John Parker Romo",
+      "PlayerId": 2569101,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 47,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 48,
+      "PlayerName": "Chad Ryland",
+      "PlayerId": 2570125,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 48,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 49,
+      "PlayerName": "Austin Seibert",
+      "PlayerId": 2562729,
+      "Pos": "K",
+      "Team": "WAS",
+      "Rank": 49,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 50,
+      "PlayerName": "Charlie Smyth",
+      "PlayerId": 2572330,
+      "Pos": "K",
+      "Team": "NO",
+      "Rank": 50,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 51,
+      "PlayerName": "James Turner",
+      "PlayerId": 2573148,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 51,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 52,
+      "PlayerName": "Matthew Wright",
+      "PlayerId": 2562968,
+      "Pos": "K",
+      "Team": "FA",
+      "Rank": 52,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 53,
+      "PlayerName": "Josh Allen",
+      "PlayerId": 2560955,
+      "Pos": "QB",
+      "Team": "BUF",
+      "Rank": 1,
+      "TotalPoints": 31.18
+    },
+    {
+      "_id": 54,
+      "PlayerName": "Baker Mayfield",
+      "PlayerId": 2560800,
+      "Pos": "QB",
+      "Team": "TB",
+      "Rank": 2,
+      "TotalPoints": 29.66
+    },
+    {
+      "_id": 55,
+      "PlayerName": "Anthony Richardson",
+      "PlayerId": 2569864,
+      "Pos": "QB",
+      "Team": "IND",
+      "Rank": 3,
+      "TotalPoints": 26.08
+    },
+    {
+      "_id": 56,
+      "PlayerName": "Lamar Jackson",
+      "PlayerId": 2560757,
+      "Pos": "QB",
+      "Team": "BAL",
+      "Rank": 4,
+      "TotalPoints": 25.12
+    },
+    {
+      "_id": 57,
+      "PlayerName": "Jayden Daniels",
+      "PlayerId": 2572564,
+      "Pos": "QB",
+      "Team": "WAS",
+      "Rank": 5,
+      "TotalPoints": 21.79
+    },
+    {
+      "_id": 58,
+      "PlayerName": "Derek Carr",
+      "PlayerId": 2543499,
+      "Pos": "QB",
+      "Team": "NO",
+      "Rank": 6,
+      "TotalPoints": 21.3
+    },
+    {
+      "_id": 59,
+      "PlayerName": "C.J. Stroud",
+      "PlayerId": 2569819,
+      "Pos": "QB",
+      "Team": "HOU",
+      "Rank": 7,
+      "TotalPoints": 18.66
+    },
+    {
+      "_id": 60,
+      "PlayerName": "Tua Tagovailoa",
+      "PlayerId": 2564499,
+      "Pos": "QB",
+      "Team": "MIA",
+      "Rank": 8,
+      "TotalPoints": 18.62
+    },
+    {
+      "_id": 61,
+      "PlayerName": "Geno Smith",
+      "PlayerId": 2539335,
+      "Pos": "QB",
+      "Team": "SEA",
+      "Rank": 9,
+      "TotalPoints": 17.84
+    },
+    {
+      "_id": 62,
+      "PlayerName": "Jordan Love",
+      "PlayerId": 2564007,
+      "Pos": "QB",
+      "Team": "GB",
+      "Rank": 10,
+      "TotalPoints": 16.4
+    },
+    {
+      "_id": 63,
+      "PlayerName": "Matthew Stafford",
+      "PlayerId": 79860,
+      "Pos": "QB",
+      "Team": "LAR",
+      "Rank": 11,
+      "TotalPoints": 14.68
+    },
+    {
+      "_id": 64,
+      "PlayerName": "Patrick Mahomes",
+      "PlayerId": 2558125,
+      "Pos": "QB",
+      "Team": "KC",
+      "Rank": 12,
+      "TotalPoints": 14.64
+    },
+    {
+      "_id": 65,
+      "PlayerName": "Sam Darnold",
+      "PlayerId": 2561036,
+      "Pos": "QB",
+      "Team": "MIN",
+      "Rank": 13,
+      "TotalPoints": 14.62
+    },
+    {
+      "_id": 66,
+      "PlayerName": "Kyler Murray",
+      "PlayerId": 2562382,
+      "Pos": "QB",
+      "Team": "ARI",
+      "Rank": 14,
+      "TotalPoints": 14.18
+    },
+    {
+      "_id": 67,
+      "PlayerName": "Jalen Hurts",
+      "PlayerId": 2564832,
+      "Pos": "QB",
+      "Team": "PHI",
+      "Rank": 15,
+      "TotalPoints": 14.15
+    },
+    {
+      "_id": 68,
+      "PlayerName": "Jared Goff",
+      "PlayerId": 2555334,
+      "Pos": "QB",
+      "Team": "DET",
+      "Rank": 16,
+      "TotalPoints": 11.38
+    },
+    {
+      "_id": 69,
+      "PlayerName": "Trevor Lawrence",
+      "PlayerId": 2566163,
+      "Pos": "QB",
+      "Team": "JAX",
+      "Rank": 17,
+      "TotalPoints": 11.28
+    },
+    {
+      "_id": 70,
+      "PlayerName": "Bo Nix",
+      "PlayerId": 2572003,
+      "Pos": "QB",
+      "Team": "DEN",
+      "Rank": 18,
+      "TotalPoints": 11.02
+    },
+    {
+      "_id": 71,
+      "PlayerName": "Justin Fields",
+      "PlayerId": 2565920,
+      "Pos": "QB",
+      "Team": "PIT",
+      "Rank": 19,
+      "TotalPoints": 10.94
+    },
+    {
+      "_id": 72,
+      "PlayerName": "Gardner Minshew",
+      "PlayerId": 2562796,
+      "Pos": "QB",
+      "Team": "LV",
+      "Rank": 20,
+      "TotalPoints": 10.78
+    },
+    {
+      "_id": 73,
+      "PlayerName": "Justin Herbert",
+      "PlayerId": 2565045,
+      "Pos": "QB",
+      "Team": "LAC",
+      "Rank": 21,
+      "TotalPoints": 10.36
+    },
+    {
+      "_id": 74,
+      "PlayerName": "Brock Purdy",
+      "PlayerId": 2568216,
+      "Pos": "QB",
+      "Team": "SF",
+      "Rank": 22,
+      "TotalPoints": 10.34
+    },
+    {
+      "_id": 75,
+      "PlayerName": "Bryce Young",
+      "PlayerId": 2569606,
+      "Pos": "QB",
+      "Team": "CAR",
+      "Rank": 23,
+      "TotalPoints": 9.64
+    },
+    {
+      "_id": 76,
+      "PlayerName": "Dak Prescott",
+      "PlayerId": 2555260,
+      "Pos": "QB",
+      "Team": "DAL",
+      "Rank": 24,
+      "TotalPoints": 9.46
+    },
+    {
+      "_id": 77,
+      "PlayerName": "Deshaun Watson",
+      "PlayerId": 2558063,
+      "Pos": "QB",
+      "Team": "CLE",
+      "Rank": 25,
+      "TotalPoints": 8.66
+    },
+    {
+      "_id": 78,
+      "PlayerName": "Aaron Rodgers",
+      "PlayerId": 2506363,
+      "Pos": "QB",
+      "Team": "NYJ",
+      "Rank": 26,
+      "TotalPoints": 8.58
+    },
+    {
+      "_id": 79,
+      "PlayerName": "Jacoby Brissett",
+      "PlayerId": 2555261,
+      "Pos": "QB",
+      "Team": "NE",
+      "Rank": 27,
+      "TotalPoints": 8.04
+    },
+    {
+      "_id": 80,
+      "PlayerName": "Joe Burrow",
+      "PlayerId": 2563722,
+      "Pos": "QB",
+      "Team": "CIN",
+      "Rank": 28,
+      "TotalPoints": 7.06
+    },
+    {
+      "_id": 81,
+      "PlayerName": "Will Levis",
+      "PlayerId": 2569798,
+      "Pos": "QB",
+      "Team": "TEN",
+      "Rank": 29,
+      "TotalPoints": 6.68
+    },
+    {
+      "_id": 82,
+      "PlayerName": "Caleb Williams",
+      "PlayerId": 2571913,
+      "Pos": "QB",
+      "Team": "CHI",
+      "Rank": 30,
+      "TotalPoints": 6.22
+    },
+    {
+      "_id": 83,
+      "PlayerName": "Kirk Cousins",
+      "PlayerId": 2532820,
+      "Pos": "QB",
+      "Team": "ATL",
+      "Rank": 31,
+      "TotalPoints": 6.2
+    },
+    {
+      "_id": 84,
+      "PlayerName": "Tyrod Taylor",
+      "PlayerId": 2495240,
+      "Pos": "QB",
+      "Team": "NYJ",
+      "Rank": 32,
+      "TotalPoints": 6.14
+    },
+    {
+      "_id": 85,
+      "PlayerName": "Daniel Jones",
+      "PlayerId": 2562299,
+      "Pos": "QB",
+      "Team": "NYG",
+      "Rank": 33,
+      "TotalPoints": 4.94
+    },
+    {
+      "_id": 86,
+      "PlayerName": "Kyle Allen",
+      "PlayerId": 2561177,
+      "Pos": "QB",
+      "Team": "PIT",
+      "Rank": 34,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 87,
+      "PlayerName": "Zack Annexstad",
+      "PlayerId": 2573548,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 35,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 88,
+      "PlayerName": "Tyson Bagent",
+      "PlayerId": 2570467,
+      "Pos": "QB",
+      "Team": "CHI",
+      "Rank": 36,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 89,
+      "PlayerName": "Casey Bauman",
+      "PlayerId": 2573779,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 37,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 90,
+      "PlayerName": "Jason Bean",
+      "PlayerId": 2573169,
+      "Pos": "QB",
+      "Team": "IND",
+      "Rank": 38,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 91,
+      "PlayerName": "C.J. Beathard",
+      "PlayerId": 2557922,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 39,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 92,
+      "PlayerName": "Stetson Bennett",
+      "PlayerId": 2569939,
+      "Pos": "QB",
+      "Team": "LAR",
+      "Rank": 40,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 93,
+      "PlayerName": "Ian Book",
+      "PlayerId": 2566352,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 41,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 94,
+      "PlayerName": "Tim Boyle",
+      "PlayerId": 2561187,
+      "Pos": "QB",
+      "Team": "MIA",
+      "Rank": 42,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 95,
+      "PlayerName": "Carter Bradley",
+      "PlayerId": 2573208,
+      "Pos": "QB",
+      "Team": "LV",
+      "Rank": 43,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 96,
+      "PlayerName": "Anthony Brown",
+      "PlayerId": 2568363,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 44,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 97,
+      "PlayerName": "Jake Browning",
+      "PlayerId": 2562634,
+      "Pos": "QB",
+      "Team": "CIN",
+      "Rank": 45,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 98,
+      "PlayerName": "Ben Bryant",
+      "PlayerId": 2573882,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 46,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 99,
+      "PlayerName": "Shane Buechele",
+      "PlayerId": 2566983,
+      "Pos": "QB",
+      "Team": "BUF",
+      "Rank": 47,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 100,
+      "PlayerName": "Sean Clifford",
+      "PlayerId": 2569762,
+      "Pos": "QB",
+      "Team": "GB",
+      "Rank": 48,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 101,
+      "PlayerName": "Chevan Cordeiro",
+      "PlayerId": 2572756,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 49,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 102,
+      "PlayerName": "Matt Corral",
+      "PlayerId": 2567349,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 50,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 103,
+      "PlayerName": "Malik Cunningham",
+      "PlayerId": 2571222,
+      "Pos": "QB",
+      "Team": "BAL",
+      "Rank": 51,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 104,
+      "PlayerName": "Andy Dalton",
+      "PlayerId": 2495143,
+      "Pos": "QB",
+      "Team": "CAR",
+      "Rank": 52,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 105,
+      "PlayerName": "Tommy DeVito",
+      "PlayerId": 2570578,
+      "Pos": "QB",
+      "Team": "NYG",
+      "Rank": 53,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 106,
+      "PlayerName": "Ben DiNucci",
+      "PlayerId": 2563839,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 54,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 107,
+      "PlayerName": "Joshua Dobbs",
+      "PlayerId": 2558167,
+      "Pos": "QB",
+      "Team": "SF",
+      "Rank": 55,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 108,
+      "PlayerName": "Jeff Driskel",
+      "PlayerId": 2555262,
+      "Pos": "QB",
+      "Team": "WAS",
+      "Rank": 56,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 109,
+      "PlayerName": "Max Duggan",
+      "PlayerId": 2570278,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 57,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 110,
+      "PlayerName": "Jacob Eason",
+      "PlayerId": 2564115,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 58,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 111,
+      "PlayerName": "Sam Ehlinger",
+      "PlayerId": 2566142,
+      "Pos": "QB",
+      "Team": "IND",
+      "Rank": 59,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 112,
+      "PlayerName": "Joe Flacco",
+      "PlayerId": 382,
+      "Pos": "QB",
+      "Team": "IND",
+      "Rank": 60,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 113,
+      "PlayerName": "Jake Fromm",
+      "PlayerId": 2563608,
+      "Pos": "QB",
+      "Team": "DET",
+      "Rank": 61,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 114,
+      "PlayerName": "Jimmy Garoppolo",
+      "PlayerId": 2543801,
+      "Pos": "QB",
+      "Team": "LAR",
+      "Rank": 62,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 115,
+      "PlayerName": "Will Grier",
+      "PlayerId": 2562404,
+      "Pos": "QB",
+      "Team": "PHI",
+      "Rank": 63,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 116,
+      "PlayerName": "Jake Haener",
+      "PlayerId": 2570131,
+      "Pos": "QB",
+      "Team": "NO",
+      "Rank": 64,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 117,
+      "PlayerName": "Jaren Hall",
+      "PlayerId": 2570083,
+      "Pos": "QB",
+      "Team": "SEA",
+      "Rank": 65,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 118,
+      "PlayerName": "Gavin Hardison",
+      "PlayerId": 2573262,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 66,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 119,
+      "PlayerName": "Sam Hartman",
+      "PlayerId": 2573599,
+      "Pos": "QB",
+      "Team": "WAS",
+      "Rank": 67,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 120,
+      "PlayerName": "Taylor Heinicke",
+      "PlayerId": 2553656,
+      "Pos": "QB",
+      "Team": "LAC",
+      "Rank": 68,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 121,
+      "PlayerName": "Hendon Hooker",
+      "PlayerId": 2569744,
+      "Pos": "QB",
+      "Team": "DET",
+      "Rank": 69,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 122,
+      "PlayerName": "Sam Howell",
+      "PlayerId": 2568333,
+      "Pos": "QB",
+      "Team": "SEA",
+      "Rank": 70,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 123,
+      "PlayerName": "Tyler Huntley",
+      "PlayerId": 2563560,
+      "Pos": "QB",
+      "Team": "BAL",
+      "Rank": 71,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 124,
+      "PlayerName": "Peewee Jarrett",
+      "PlayerId": 2572690,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 72,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 125,
+      "PlayerName": "Josh Johnson",
+      "PlayerId": 264,
+      "Pos": "QB",
+      "Team": "BAL",
+      "Rank": 73,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 126,
+      "PlayerName": "Emory Jones",
+      "PlayerId": 2572796,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 74,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 127,
+      "PlayerName": "Mac Jones",
+      "PlayerId": 2566334,
+      "Pos": "QB",
+      "Team": "JAX",
+      "Rank": 75,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 128,
+      "PlayerName": "Case Keenum",
+      "PlayerId": 2532888,
+      "Pos": "QB",
+      "Team": "HOU",
+      "Rank": 76,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 129,
+      "PlayerName": "Trey Lance",
+      "PlayerId": 2566532,
+      "Pos": "QB",
+      "Team": "DAL",
+      "Rank": 77,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 130,
+      "PlayerName": "Devin Leary",
+      "PlayerId": 2571832,
+      "Pos": "QB",
+      "Team": "BAL",
+      "Rank": 78,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 131,
+      "PlayerName": "Drew Lock",
+      "PlayerId": 2562305,
+      "Pos": "QB",
+      "Team": "NYG",
+      "Rank": 79,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 132,
+      "PlayerName": "Rocky Lombardi",
+      "PlayerId": 2573001,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 80,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 133,
+      "PlayerName": "Jake Luton",
+      "PlayerId": 2564205,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 81,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 134,
+      "PlayerName": "Marcus Mariota",
+      "PlayerId": 2552466,
+      "Pos": "QB",
+      "Team": "WAS",
+      "Rank": 82,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 135,
+      "PlayerName": "Adrian Martinez",
+      "PlayerId": 2570984,
+      "Pos": "QB",
+      "Team": "NYJ",
+      "Rank": 83,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 136,
+      "PlayerName": "Drake Maye",
+      "PlayerId": 2572294,
+      "Pos": "QB",
+      "Team": "NE",
+      "Rank": 84,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 137,
+      "PlayerName": "J.J. McCarthy",
+      "PlayerId": 2572270,
+      "Pos": "QB",
+      "Team": "MIN",
+      "Rank": 85,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 138,
+      "PlayerName": "Alex McGough",
+      "PlayerId": 2561148,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 86,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 139,
+      "PlayerName": "Tanner McKee",
+      "PlayerId": 2570206,
+      "Pos": "QB",
+      "Team": "PHI",
+      "Rank": 87,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 140,
+      "PlayerName": "Trace McSorley",
+      "PlayerId": 2562403,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 88,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 141,
+      "PlayerName": "Davis Mills",
+      "PlayerId": 2566136,
+      "Pos": "QB",
+      "Team": "HOU",
+      "Rank": 89,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 142,
+      "PlayerName": "Joe Milton III",
+      "PlayerId": 2572297,
+      "Pos": "QB",
+      "Team": "NE",
+      "Rank": 90,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 143,
+      "PlayerName": "Kellen Mond",
+      "PlayerId": 2566310,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 91,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 144,
+      "PlayerName": "Tanner Mordecai",
+      "PlayerId": 2573533,
+      "Pos": "QB",
+      "Team": "SF",
+      "Rank": 92,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 145,
+      "PlayerName": "Nick Mullens",
+      "PlayerId": 2558979,
+      "Pos": "QB",
+      "Team": "MIN",
+      "Rank": 93,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 146,
+      "PlayerName": "Aidan O'Connell",
+      "PlayerId": 2570044,
+      "Pos": "QB",
+      "Team": "LV",
+      "Rank": 94,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 147,
+      "PlayerName": "Chris Oladokun",
+      "PlayerId": 2568153,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 95,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 148,
+      "PlayerName": "John Paddock",
+      "PlayerId": 2572878,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 96,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 149,
+      "PlayerName": "Andrew Peasley",
+      "PlayerId": 2572859,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 97,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 150,
+      "PlayerName": "Michael Penix Jr.",
+      "PlayerId": 2571814,
+      "Pos": "QB",
+      "Team": "ATL",
+      "Rank": 98,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 151,
+      "PlayerName": "Luis Perez",
+      "PlayerId": 2561124,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 99,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 152,
+      "PlayerName": "E.J. Perry",
+      "PlayerId": 2567769,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 100,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 153,
+      "PlayerName": "Nathan Peterman",
+      "PlayerId": 2558191,
+      "Pos": "QB",
+      "Team": "ATL",
+      "Rank": 101,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 154,
+      "PlayerName": "Kenny Pickett",
+      "PlayerId": 2568162,
+      "Pos": "QB",
+      "Team": "PHI",
+      "Rank": 102,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 155,
+      "PlayerName": "John Rhys Plumlee",
+      "PlayerId": 2573518,
+      "Pos": "QB",
+      "Team": "JAX",
+      "Rank": 103,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 156,
+      "PlayerName": "Jack Plummer",
+      "PlayerId": 2572941,
+      "Pos": "QB",
+      "Team": "CAR",
+      "Rank": 104,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 157,
+      "PlayerName": "Michael Pratt",
+      "PlayerId": 2572054,
+      "Pos": "QB",
+      "Team": "TB",
+      "Rank": 105,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 158,
+      "PlayerName": "Spencer Rattler",
+      "PlayerId": 2572327,
+      "Pos": "QB",
+      "Team": "NO",
+      "Rank": 106,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 159,
+      "PlayerName": "Austin Reed",
+      "PlayerId": 2572971,
+      "Pos": "QB",
+      "Team": "CHI",
+      "Rank": 107,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 160,
+      "PlayerName": "Desmond Ridder",
+      "PlayerId": 2567256,
+      "Pos": "QB",
+      "Team": "ARI",
+      "Rank": 108,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 161,
+      "PlayerName": "Nathan Rourke",
+      "PlayerId": 2569885,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 109,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 162,
+      "PlayerName": "Mason Rudolph",
+      "PlayerId": 2560860,
+      "Pos": "QB",
+      "Team": "TEN",
+      "Rank": 110,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 163,
+      "PlayerName": "Brett Rypien",
+      "PlayerId": 2562718,
+      "Pos": "QB",
+      "Team": "MIN",
+      "Rank": 111,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 164,
+      "PlayerName": "Jacob Sirmon",
+      "PlayerId": 2573677,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 112,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 165,
+      "PlayerName": "Kedon Slovis",
+      "PlayerId": 2573178,
+      "Pos": "QB",
+      "Team": "HOU",
+      "Rank": 113,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 166,
+      "PlayerName": "Easton Stick",
+      "PlayerId": 2562745,
+      "Pos": "QB",
+      "Team": "LAC",
+      "Rank": 114,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 167,
+      "PlayerName": "Jarrett Stidham",
+      "PlayerId": 2562746,
+      "Pos": "QB",
+      "Team": "DEN",
+      "Rank": 115,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 168,
+      "PlayerName": "Nate Sudfeld",
+      "PlayerId": 2555427,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 116,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 169,
+      "PlayerName": "Colby Suits",
+      "PlayerId": 2572862,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 117,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 170,
+      "PlayerName": "Ryan Tannehill",
+      "PlayerId": 2532956,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 118,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 171,
+      "PlayerName": "Skylar Thompson",
+      "PlayerId": 2567895,
+      "Pos": "QB",
+      "Team": "MIA",
+      "Rank": 119,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 172,
+      "PlayerName": "Dorian Thompson-Robinson",
+      "PlayerId": 2569672,
+      "Pos": "QB",
+      "Team": "CLE",
+      "Rank": 120,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 173,
+      "PlayerName": "Jordan Travis",
+      "PlayerId": 2572372,
+      "Pos": "QB",
+      "Team": "NYJ",
+      "Rank": 121,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 174,
+      "PlayerName": "Mitchell Trubisky",
+      "PlayerId": 2558008,
+      "Pos": "QB",
+      "Team": "BUF",
+      "Rank": 122,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 175,
+      "PlayerName": "Clayton Tune",
+      "PlayerId": 2570236,
+      "Pos": "QB",
+      "Team": "ARI",
+      "Rank": 123,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 176,
+      "PlayerName": "PJ Walker",
+      "PlayerId": 2558904,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 124,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 177,
+      "PlayerName": "Carson Wentz",
+      "PlayerId": 2555259,
+      "Pos": "QB",
+      "Team": "KC",
+      "Rank": 125,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 178,
+      "PlayerName": "Mike White",
+      "PlayerId": 2560929,
+      "Pos": "QB",
+      "Team": "BUF",
+      "Rank": 126,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 179,
+      "PlayerName": "Malik Willis",
+      "PlayerId": 2567667,
+      "Pos": "QB",
+      "Team": "GB",
+      "Rank": 127,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 180,
+      "PlayerName": "Russell Wilson",
+      "PlayerId": 2532975,
+      "Pos": "QB",
+      "Team": "PIT",
+      "Rank": 128,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 181,
+      "PlayerName": "Zach Wilson",
+      "PlayerId": 2566391,
+      "Pos": "QB",
+      "Team": "DEN",
+      "Rank": 129,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 182,
+      "PlayerName": "Dresser Winn",
+      "PlayerId": 2569990,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 130,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 183,
+      "PlayerName": "Jameis Winston",
+      "PlayerId": 2552033,
+      "Pos": "QB",
+      "Team": "CLE",
+      "Rank": 131,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 184,
+      "PlayerName": "John Wolford",
+      "PlayerId": 2561718,
+      "Pos": "QB",
+      "Team": "FA",
+      "Rank": 132,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 185,
+      "PlayerName": "Logan Woodside",
+      "PlayerId": 2560942,
+      "Pos": "QB",
+      "Team": "CIN",
+      "Rank": 133,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 186,
+      "PlayerName": "Bailey Zappe",
+      "PlayerId": 2567961,
+      "Pos": "QB",
+      "Team": "KC",
+      "Rank": 134,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 187,
+      "PlayerName": "Brandon Allen",
+      "PlayerId": 2555365,
+      "Pos": "QB",
+      "Team": "SF",
+      "Rank": 135,
+      "TotalPoints": -0.1
+    },
+    {
+      "_id": 188,
+      "PlayerName": "Cooper Rush",
+      "PlayerId": 2559242,
+      "Pos": "QB",
+      "Team": "DAL",
+      "Rank": 136,
+      "TotalPoints": -0.1
+    },
+    {
+      "_id": 189,
+      "PlayerName": "Kyle Trask",
+      "PlayerId": 2566571,
+      "Pos": "QB",
+      "Team": "TB",
+      "Rank": 137,
+      "TotalPoints": -0.2
+    },
+    {
+      "_id": 190,
+      "PlayerName": "Saquon Barkley",
+      "PlayerId": 2560968,
+      "Pos": "RB",
+      "Team": "PHI",
+      "Rank": 1,
+      "TotalPoints": 33.2
+    },
+    {
+      "_id": 191,
+      "PlayerName": "Joe Mixon",
+      "PlayerId": 2557976,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 2,
+      "TotalPoints": 25.3
+    },
+    {
+      "_id": 192,
+      "PlayerName": "Jordan Mason",
+      "PlayerId": 2569257,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 3,
+      "TotalPoints": 21.7
+    },
+    {
+      "_id": 193,
+      "PlayerName": "J.K. Dobbins",
+      "PlayerId": 2563548,
+      "Pos": "RB",
+      "Team": "LAC",
+      "Rank": 4,
+      "TotalPoints": 21.4
+    },
+    {
+      "_id": 194,
+      "PlayerName": "De'Von Achane",
+      "PlayerId": 2570062,
+      "Pos": "RB",
+      "Team": "MIA",
+      "Rank": 5,
+      "TotalPoints": 19.5
+    },
+    {
+      "_id": 195,
+      "PlayerName": "Alvin Kamara",
+      "PlayerId": 2558019,
+      "Pos": "RB",
+      "Team": "NO",
+      "Rank": 6,
+      "TotalPoints": 19.5
+    },
+    {
+      "_id": 196,
+      "PlayerName": "Rhamondre Stevenson",
+      "PlayerId": 2566343,
+      "Pos": "RB",
+      "Team": "NE",
+      "Rank": 7,
+      "TotalPoints": 19.1
+    },
+    {
+      "_id": 197,
+      "PlayerName": "Aaron Jones",
+      "PlayerId": 2558116,
+      "Pos": "RB",
+      "Team": "MIN",
+      "Rank": 8,
+      "TotalPoints": 17.9
+    },
+    {
+      "_id": 198,
+      "PlayerName": "Kenneth Walker III",
+      "PlayerId": 2568282,
+      "Pos": "RB",
+      "Team": "SEA",
+      "Rank": 9,
+      "TotalPoints": 17.9
+    },
+    {
+      "_id": 199,
+      "PlayerName": "James Conner",
+      "PlayerId": 2557978,
+      "Pos": "RB",
+      "Team": "ARI",
+      "Rank": 10,
+      "TotalPoints": 17.8
+    },
+    {
+      "_id": 200,
+      "PlayerName": "Tony Pollard",
+      "PlayerId": 2562699,
+      "Pos": "RB",
+      "Team": "TEN",
+      "Rank": 11,
+      "TotalPoints": 16.9
+    },
+    {
+      "_id": 201,
+      "PlayerName": "Brian Robinson",
+      "PlayerId": 2568348,
+      "Pos": "RB",
+      "Team": "WAS",
+      "Rank": 12,
+      "TotalPoints": 16.4
+    },
+    {
+      "_id": 202,
+      "PlayerName": "Jerome Ford",
+      "PlayerId": 2567469,
+      "Pos": "RB",
+      "Team": "CLE",
+      "Rank": 13,
+      "TotalPoints": 15.9
+    },
+    {
+      "_id": 203,
+      "PlayerName": "Breece Hall",
+      "PlayerId": 2568030,
+      "Pos": "RB",
+      "Team": "NYJ",
+      "Rank": 14,
+      "TotalPoints": 15.8
+    },
+    {
+      "_id": 204,
+      "PlayerName": "David Montgomery",
+      "PlayerId": 2562502,
+      "Pos": "RB",
+      "Team": "DET",
+      "Rank": 15,
+      "TotalPoints": 15.8
+    },
+    {
+      "_id": 205,
+      "PlayerName": "Jahmyr Gibbs",
+      "PlayerId": 2569747,
+      "Pos": "RB",
+      "Team": "DET",
+      "Rank": 16,
+      "TotalPoints": 15.4
+    },
+    {
+      "_id": 206,
+      "PlayerName": "Isiah Pacheco",
+      "PlayerId": 2567808,
+      "Pos": "RB",
+      "Team": "KC",
+      "Rank": 17,
+      "TotalPoints": 14.8
+    },
+    {
+      "_id": 207,
+      "PlayerName": "Alexander Mattison",
+      "PlayerId": 2562682,
+      "Pos": "RB",
+      "Team": "LV",
+      "Rank": 18,
+      "TotalPoints": 14.2
+    },
+    {
+      "_id": 208,
+      "PlayerName": "Zack Moss",
+      "PlayerId": 2563617,
+      "Pos": "RB",
+      "Team": "CIN",
+      "Rank": 19,
+      "TotalPoints": 13.7
+    },
+    {
+      "_id": 209,
+      "PlayerName": "Bijan Robinson",
+      "PlayerId": 2569558,
+      "Pos": "RB",
+      "Team": "ATL",
+      "Rank": 20,
+      "TotalPoints": 13.6
+    },
+    {
+      "_id": 210,
+      "PlayerName": "Rachaad White",
+      "PlayerId": 2568315,
+      "Pos": "RB",
+      "Team": "TB",
+      "Rank": 21,
+      "TotalPoints": 13.6
+    },
+    {
+      "_id": 211,
+      "PlayerName": "Kyren Williams",
+      "PlayerId": 2567862,
+      "Pos": "RB",
+      "Team": "LAR",
+      "Rank": 22,
+      "TotalPoints": 12.9
+    },
+    {
+      "_id": 212,
+      "PlayerName": "Zach Charbonnet",
+      "PlayerId": 2570335,
+      "Pos": "RB",
+      "Team": "SEA",
+      "Rank": 23,
+      "TotalPoints": 12.6
+    },
+    {
+      "_id": 213,
+      "PlayerName": "Ezekiel Elliott",
+      "PlayerId": 2555224,
+      "Pos": "RB",
+      "Team": "DAL",
+      "Rank": 24,
+      "TotalPoints": 11.9
+    },
+    {
+      "_id": 214,
+      "PlayerName": "James Cook",
+      "PlayerId": 2567328,
+      "Pos": "RB",
+      "Team": "BUF",
+      "Rank": 25,
+      "TotalPoints": 11.8
+    },
+    {
+      "_id": 215,
+      "PlayerName": "Jamaal Williams",
+      "PlayerId": 2558204,
+      "Pos": "RB",
+      "Team": "NO",
+      "Rank": 26,
+      "TotalPoints": 11.6
+    },
+    {
+      "_id": 216,
+      "PlayerName": "Travis Etienne",
+      "PlayerId": 2566157,
+      "Pos": "RB",
+      "Team": "JAX",
+      "Rank": 27,
+      "TotalPoints": 10.9
+    },
+    {
+      "_id": 217,
+      "PlayerName": "Jonathan Taylor",
+      "PlayerId": 2564148,
+      "Pos": "RB",
+      "Team": "IND",
+      "Rank": 28,
+      "TotalPoints": 10.8
+    },
+    {
+      "_id": 218,
+      "PlayerName": "Derrick Henry",
+      "PlayerId": 2556075,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 29,
+      "TotalPoints": 10.6
+    },
+    {
+      "_id": 219,
+      "PlayerName": "Josh Jacobs",
+      "PlayerId": 2562377,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 30,
+      "TotalPoints": 9.4
+    },
+    {
+      "_id": 220,
+      "PlayerName": "Bucky Irving",
+      "PlayerId": 2572546,
+      "Pos": "RB",
+      "Team": "TB",
+      "Rank": 31,
+      "TotalPoints": 8.6
+    },
+    {
+      "_id": 221,
+      "PlayerName": "Justice Hill",
+      "PlayerId": 2562407,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 32,
+      "TotalPoints": 8.5
+    },
+    {
+      "_id": 222,
+      "PlayerName": "Najee Harris",
+      "PlayerId": 2566448,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 33,
+      "TotalPoints": 8.4
+    },
+    {
+      "_id": 223,
+      "PlayerName": "Austin Ekeler",
+      "PlayerId": 2559169,
+      "Pos": "RB",
+      "Team": "WAS",
+      "Rank": 34,
+      "TotalPoints": 8.2
+    },
+    {
+      "_id": 224,
+      "PlayerName": "Tank Bigsby",
+      "PlayerId": 2569882,
+      "Pos": "RB",
+      "Team": "JAX",
+      "Rank": 35,
+      "TotalPoints": 7.3
+    },
+    {
+      "_id": 225,
+      "PlayerName": "Devin Singletary",
+      "PlayerId": 2562734,
+      "Pos": "RB",
+      "Team": "NYG",
+      "Rank": 36,
+      "TotalPoints": 7.2
+    },
+    {
+      "_id": 226,
+      "PlayerName": "Pierre Strong",
+      "PlayerId": 2567952,
+      "Pos": "RB",
+      "Team": "CLE",
+      "Rank": 37,
+      "TotalPoints": 7
+    },
+    {
+      "_id": 227,
+      "PlayerName": "DeeJay Dallas",
+      "PlayerId": 2565144,
+      "Pos": "RB",
+      "Team": "ARI",
+      "Rank": 38,
+      "TotalPoints": 6
+    },
+    {
+      "_id": 228,
+      "PlayerName": "Emanuel Wilson",
+      "PlayerId": 2570912,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 39,
+      "TotalPoints": 5.8
+    },
+    {
+      "_id": 229,
+      "PlayerName": "Ty Chandler",
+      "PlayerId": 2567907,
+      "Pos": "RB",
+      "Team": "MIN",
+      "Rank": 40,
+      "TotalPoints": 5.7
+    },
+    {
+      "_id": 230,
+      "PlayerName": "Tyjae Spears",
+      "PlayerId": 2569795,
+      "Pos": "RB",
+      "Team": "TEN",
+      "Rank": 41,
+      "TotalPoints": 5.2
+    },
+    {
+      "_id": 231,
+      "PlayerName": "Kyle Juszczyk",
+      "PlayerId": 2540230,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 42,
+      "TotalPoints": 5
+    },
+    {
+      "_id": 232,
+      "PlayerName": "D'Andre Swift",
+      "PlayerId": 2563965,
+      "Pos": "RB",
+      "Team": "CHI",
+      "Rank": 43,
+      "TotalPoints": 5
+    },
+    {
+      "_id": 233,
+      "PlayerName": "Chase Brown",
+      "PlayerId": 2569642,
+      "Pos": "RB",
+      "Team": "CIN",
+      "Rank": 44,
+      "TotalPoints": 3.8
+    },
+    {
+      "_id": 234,
+      "PlayerName": "Rico Dowdle",
+      "PlayerId": 2565295,
+      "Pos": "RB",
+      "Team": "DAL",
+      "Rank": 45,
+      "TotalPoints": 3.7
+    },
+    {
+      "_id": 235,
+      "PlayerName": "Emari Demercado",
+      "PlayerId": 2571065,
+      "Pos": "RB",
+      "Team": "ARI",
+      "Rank": 46,
+      "TotalPoints": 3.6
+    },
+    {
+      "_id": 236,
+      "PlayerName": "Zamir White",
+      "PlayerId": 2567883,
+      "Pos": "RB",
+      "Team": "LV",
+      "Rank": 47,
+      "TotalPoints": 3.6
+    },
+    {
+      "_id": 237,
+      "PlayerName": "Gus Edwards",
+      "PlayerId": 2561324,
+      "Pos": "RB",
+      "Team": "LAC",
+      "Rank": 48,
+      "TotalPoints": 3.3
+    },
+    {
+      "_id": 238,
+      "PlayerName": "Jaleel McLaughlin",
+      "PlayerId": 2570942,
+      "Pos": "RB",
+      "Team": "DEN",
+      "Rank": 49,
+      "TotalPoints": 3.3
+    },
+    {
+      "_id": 239,
+      "PlayerName": "Ray Davis",
+      "PlayerId": 2571862,
+      "Pos": "RB",
+      "Team": "BUF",
+      "Rank": 50,
+      "TotalPoints": 3.2
+    },
+    {
+      "_id": 240,
+      "PlayerName": "Jaylen Warren",
+      "PlayerId": 2568493,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 51,
+      "TotalPoints": 3
+    },
+    {
+      "_id": 241,
+      "PlayerName": "Raheem Mostert",
+      "PlayerId": 2553728,
+      "Pos": "RB",
+      "Team": "MIA",
+      "Rank": 52,
+      "TotalPoints": 2.9
+    },
+    {
+      "_id": 242,
+      "PlayerName": "Hunter Luepke",
+      "PlayerId": 2570882,
+      "Pos": "RB",
+      "Team": "DAL",
+      "Rank": 53,
+      "TotalPoints": 2.8
+    },
+    {
+      "_id": 243,
+      "PlayerName": "Javonte Williams",
+      "PlayerId": 2566049,
+      "Pos": "RB",
+      "Team": "DEN",
+      "Rank": 54,
+      "TotalPoints": 2.8
+    },
+    {
+      "_id": 244,
+      "PlayerName": "Jeff Wilson",
+      "PlayerId": 2560938,
+      "Pos": "RB",
+      "Team": "MIA",
+      "Rank": 55,
+      "TotalPoints": 2.6
+    },
+    {
+      "_id": 245,
+      "PlayerName": "Travis Homer",
+      "PlayerId": 2562665,
+      "Pos": "RB",
+      "Team": "CHI",
+      "Rank": 56,
+      "TotalPoints": 2.5
+    },
+    {
+      "_id": 246,
+      "PlayerName": "Trey Benson",
+      "PlayerId": 2572405,
+      "Pos": "RB",
+      "Team": "ARI",
+      "Rank": 57,
+      "TotalPoints": 2.3
+    },
+    {
+      "_id": 247,
+      "PlayerName": "Braelon Allen",
+      "PlayerId": 2572354,
+      "Pos": "RB",
+      "Team": "NYJ",
+      "Rank": 58,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 248,
+      "PlayerName": "Ty Johnson",
+      "PlayerId": 2562293,
+      "Pos": "RB",
+      "Team": "BUF",
+      "Rank": 59,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 249,
+      "PlayerName": "Ronnie Rivers",
+      "PlayerId": 2569185,
+      "Pos": "RB",
+      "Team": "LAR",
+      "Rank": 60,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 250,
+      "PlayerName": "Miles Sanders",
+      "PlayerId": 2562722,
+      "Pos": "RB",
+      "Team": "CAR",
+      "Rank": 61,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 251,
+      "PlayerName": "Tyler Allgeier",
+      "PlayerId": 2567232,
+      "Pos": "RB",
+      "Team": "ATL",
+      "Rank": 62,
+      "TotalPoints": 2.1
+    },
+    {
+      "_id": 252,
+      "PlayerName": "Eric Gray",
+      "PlayerId": 2570158,
+      "Pos": "RB",
+      "Team": "NYG",
+      "Rank": 63,
+      "TotalPoints": 2
+    },
+    {
+      "_id": 253,
+      "PlayerName": "Antonio Gibson",
+      "PlayerId": 2565276,
+      "Pos": "RB",
+      "Team": "NE",
+      "Rank": 64,
+      "TotalPoints": 1.8
+    },
+    {
+      "_id": 254,
+      "PlayerName": "Kenneth Gainwell",
+      "PlayerId": 2566397,
+      "Pos": "RB",
+      "Team": "PHI",
+      "Rank": 65,
+      "TotalPoints": 1.7
+    },
+    {
+      "_id": 255,
+      "PlayerName": "Dameon Pierce",
+      "PlayerId": 2567685,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 66,
+      "TotalPoints": 1.6
+    },
+    {
+      "_id": 256,
+      "PlayerName": "British Brooks",
+      "PlayerId": 2573686,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 67,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 257,
+      "PlayerName": "Tyreik McAllister",
+      "PlayerId": 2568744,
+      "Pos": "RB",
+      "Team": "LV",
+      "Rank": 68,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 258,
+      "PlayerName": "Jeremy McNichols",
+      "PlayerId": 2557977,
+      "Pos": "RB",
+      "Team": "WAS",
+      "Rank": 69,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 259,
+      "PlayerName": "Samaje Perine",
+      "PlayerId": 2558138,
+      "Pos": "RB",
+      "Team": "KC",
+      "Rank": 70,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 260,
+      "PlayerName": "Will Shipley",
+      "PlayerId": 2572390,
+      "Pos": "RB",
+      "Team": "PHI",
+      "Rank": 71,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 261,
+      "PlayerName": "Michael Burton",
+      "PlayerId": 2552636,
+      "Pos": "RB",
+      "Team": "DEN",
+      "Rank": 72,
+      "TotalPoints": 1.4
+    },
+    {
+      "_id": 262,
+      "PlayerName": "Chuba Hubbard",
+      "PlayerId": 2565899,
+      "Pos": "RB",
+      "Team": "CAR",
+      "Rank": 73,
+      "TotalPoints": 1.4
+    },
+    {
+      "_id": 263,
+      "PlayerName": "Cordarrelle Patterson",
+      "PlayerId": 2540145,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 74,
+      "TotalPoints": 1.3
+    },
+    {
+      "_id": 264,
+      "PlayerName": "Tyrone Tracy Jr.",
+      "PlayerId": 2572351,
+      "Pos": "RB",
+      "Team": "NYG",
+      "Rank": 75,
+      "TotalPoints": 1.2
+    },
+    {
+      "_id": 265,
+      "PlayerName": "Jordan Mims",
+      "PlayerId": 2570768,
+      "Pos": "RB",
+      "Team": "NO",
+      "Rank": 76,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 266,
+      "PlayerName": "Julius Chestnut",
+      "PlayerId": 2568804,
+      "Pos": "RB",
+      "Team": "TEN",
+      "Rank": 77,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 267,
+      "PlayerName": "Khalil Herbert",
+      "PlayerId": 2565926,
+      "Pos": "RB",
+      "Team": "CHI",
+      "Rank": 78,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 268,
+      "PlayerName": "Alec Ingold",
+      "PlayerId": 2562288,
+      "Pos": "RB",
+      "Team": "MIA",
+      "Rank": 79,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 269,
+      "PlayerName": "Dare Ogunbowale",
+      "PlayerId": 2559362,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 80,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 270,
+      "PlayerName": "Mike Boone",
+      "PlayerId": 2561099,
+      "Pos": "RB",
+      "Team": "CAR",
+      "Rank": 81,
+      "TotalPoints": 0.7
+    },
+    {
+      "_id": 271,
+      "PlayerName": "Blake Corum",
+      "PlayerId": 2572189,
+      "Pos": "RB",
+      "Team": "LAR",
+      "Rank": 82,
+      "TotalPoints": 0.6
+    },
+    {
+      "_id": 272,
+      "PlayerName": "Isaac Guerendo",
+      "PlayerId": 2572498,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 83,
+      "TotalPoints": 0.6
+    },
+    {
+      "_id": 273,
+      "PlayerName": "Deuce Vaughn",
+      "PlayerId": 2569699,
+      "Pos": "RB",
+      "Team": "DAL",
+      "Rank": 84,
+      "TotalPoints": 0.4
+    },
+    {
+      "_id": 274,
+      "PlayerName": "Carson Steele",
+      "PlayerId": 2572847,
+      "Pos": "RB",
+      "Team": "KC",
+      "Rank": 85,
+      "TotalPoints": 0.3
+    },
+    {
+      "_id": 275,
+      "PlayerName": "C.J. Ham",
+      "PlayerId": 2556803,
+      "Pos": "RB",
+      "Team": "MIN",
+      "Rank": 86,
+      "TotalPoints": 0.1
+    },
+    {
+      "_id": 276,
+      "PlayerName": "Israel Abanikanda",
+      "PlayerId": 2570188,
+      "Pos": "RB",
+      "Team": "NYJ",
+      "Rank": 87,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 277,
+      "PlayerName": "Ameer Abdullah",
+      "PlayerId": 2552374,
+      "Pos": "RB",
+      "Team": "LV",
+      "Rank": 88,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 278,
+      "PlayerName": "Salvon Ahmed",
+      "PlayerId": 2565090,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 89,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 279,
+      "PlayerName": "Cam Akers",
+      "PlayerId": 2564319,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 90,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 280,
+      "PlayerName": "Rasheen Ali",
+      "PlayerId": 2571823,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 91,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 281,
+      "PlayerName": "Tyler Badie",
+      "PlayerId": 2567265,
+      "Pos": "RB",
+      "Team": "DEN",
+      "Rank": 92,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 282,
+      "PlayerName": "Emani Bailey",
+      "PlayerId": 2572805,
+      "Pos": "RB",
+      "Team": "KC",
+      "Rank": 93,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 283,
+      "PlayerName": "Nick Bawden",
+      "PlayerId": 2560972,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 94,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 284,
+      "PlayerName": "Andrew Beck",
+      "PlayerId": 2562626,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 95,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 285,
+      "PlayerName": "Raheem Blackshear",
+      "PlayerId": 2569477,
+      "Pos": "RB",
+      "Team": "CAR",
+      "Rank": 96,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 286,
+      "PlayerName": "Khari Blasingame",
+      "PlayerId": 2562869,
+      "Pos": "RB",
+      "Team": "CHI",
+      "Rank": 97,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 287,
+      "PlayerName": "Brandon Bolden",
+      "PlayerId": 2532797,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 98,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 288,
+      "PlayerName": "Matt Breida",
+      "PlayerId": 2558918,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 99,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 289,
+      "PlayerName": "Gary Brightwell",
+      "PlayerId": 2566364,
+      "Pos": "RB",
+      "Team": "CLE",
+      "Rank": 100,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 290,
+      "PlayerName": "Chris Brooks",
+      "PlayerId": 2571114,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 101,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 291,
+      "PlayerName": "Jonathon Brooks",
+      "PlayerId": 2571883,
+      "Pos": "RB",
+      "Team": "CAR",
+      "Rank": 102,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 292,
+      "PlayerName": "Brittain Brown",
+      "PlayerId": 2567868,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 103,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 293,
+      "PlayerName": "Spencer Brown",
+      "PlayerId": 2565558,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 104,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 294,
+      "PlayerName": "Robert Burns",
+      "PlayerId": 2570449,
+      "Pos": "RB",
+      "Team": "ATL",
+      "Rank": 105,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 295,
+      "PlayerName": "Noah Cain",
+      "PlayerId": 2572986,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 106,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 296,
+      "PlayerName": "Michael Carter",
+      "PlayerId": 2566382,
+      "Pos": "RB",
+      "Team": "ARI",
+      "Rank": 107,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 297,
+      "PlayerName": "Nick Chubb",
+      "PlayerId": 2561021,
+      "Pos": "RB",
+      "Team": "CLE",
+      "Rank": 108,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 298,
+      "PlayerName": "Tarik Cohen",
+      "PlayerId": 2558250,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 109,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 299,
+      "PlayerName": "Jack Colletto",
+      "PlayerId": 2571312,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 110,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 300,
+      "PlayerName": "Chris Collier",
+      "PlayerId": 2572600,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 111,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 301,
+      "PlayerName": "Elijah Collins",
+      "PlayerId": 2573856,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 112,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 302,
+      "PlayerName": "Snoop Conner",
+      "PlayerId": 2567730,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 113,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 303,
+      "PlayerName": "Dalvin Cook",
+      "PlayerId": 2557991,
+      "Pos": "RB",
+      "Team": "DAL",
+      "Rank": 114,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 304,
+      "PlayerName": "Jashaun Corbin",
+      "PlayerId": 2569125,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 115,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 305,
+      "PlayerName": "Isaiah Davis",
+      "PlayerId": 2572360,
+      "Pos": "RB",
+      "Team": "NYJ",
+      "Rank": 116,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 306,
+      "PlayerName": "Malik Davis",
+      "PlayerId": 2568672,
+      "Pos": "RB",
+      "Team": "DAL",
+      "Rank": 117,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 307,
+      "PlayerName": "Tyrion Davis-Price",
+      "PlayerId": 2568207,
+      "Pos": "RB",
+      "Team": "PHI",
+      "Rank": 118,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 308,
+      "PlayerName": "AJ Dillon",
+      "PlayerId": 2563986,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 119,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 309,
+      "PlayerName": "Gerrid Doaks",
+      "PlayerId": 2566277,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 120,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 310,
+      "PlayerName": "Elijah Dotson",
+      "PlayerId": 2571536,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 121,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 311,
+      "PlayerName": "Chase Edmonds",
+      "PlayerId": 2560711,
+      "Pos": "RB",
+      "Team": "TB",
+      "Rank": 122,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 312,
+      "PlayerName": "Daijun Edwards",
+      "PlayerId": 2573515,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 123,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 313,
+      "PlayerName": "Clyde Edwards-Helaire",
+      "PlayerId": 2564271,
+      "Pos": "RB",
+      "Team": "KC",
+      "Rank": 124,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 314,
+      "PlayerName": "Chris Evans",
+      "PlayerId": 2565944,
+      "Pos": "RB",
+      "Team": "CIN",
+      "Rank": 125,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 315,
+      "PlayerName": "Darrynton Evans",
+      "PlayerId": 2564043,
+      "Pos": "RB",
+      "Team": "BUF",
+      "Rank": 126,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 316,
+      "PlayerName": "Zach Evans",
+      "PlayerId": 2569963,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 127,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 317,
+      "PlayerName": "Demetric Felton",
+      "PlayerId": 2565968,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 128,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 318,
+      "PlayerName": "DeShaun Fenwick",
+      "PlayerId": 2573331,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 129,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 319,
+      "PlayerName": "D'Onta Foreman",
+      "PlayerId": 2557994,
+      "Pos": "RB",
+      "Team": "CLE",
+      "Rank": 130,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 320,
+      "PlayerName": "Royce Freeman",
+      "PlayerId": 2560733,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 131,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 321,
+      "PlayerName": "Jake Funk",
+      "PlayerId": 2566208,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 132,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 322,
+      "PlayerName": "Reggie Gilliam",
+      "PlayerId": 2565378,
+      "Pos": "RB",
+      "Team": "BUF",
+      "Rank": 133,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 323,
+      "PlayerName": "Tyler Goodson",
+      "PlayerId": 2567595,
+      "Pos": "RB",
+      "Team": "IND",
+      "Rank": 134,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 324,
+      "PlayerName": "Derrick Gore",
+      "PlayerId": 2563347,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 135,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 325,
+      "PlayerName": "Frank Gore Jr.",
+      "PlayerId": 2572908,
+      "Pos": "RB",
+      "Team": "BUF",
+      "Rank": 136,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 326,
+      "PlayerName": "Troy Hairston",
+      "PlayerId": 2568867,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 137,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 327,
+      "PlayerName": "Hassan Hall",
+      "PlayerId": 2570861,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 138,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 328,
+      "PlayerName": "Kevin Harris",
+      "PlayerId": 2567934,
+      "Pos": "RB",
+      "Team": "NE",
+      "Rank": 139,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 329,
+      "PlayerName": "Hassan Haskins",
+      "PlayerId": 2567649,
+      "Pos": "RB",
+      "Team": "LAC",
+      "Rank": 140,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 330,
+      "PlayerName": "JaMycal Hasty",
+      "PlayerId": 2565108,
+      "Pos": "RB",
+      "Team": "NE",
+      "Rank": 141,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 331,
+      "PlayerName": "Nyheim Hines",
+      "PlayerId": 2560742,
+      "Pos": "RB",
+      "Team": "CLE",
+      "Rank": 142,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 332,
+      "PlayerName": "George Holani",
+      "PlayerId": 2572768,
+      "Pos": "RB",
+      "Team": "SEA",
+      "Rank": 143,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 333,
+      "PlayerName": "Zander Horvath",
+      "PlayerId": 2568174,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 144,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 334,
+      "PlayerName": "Jarveon Howard",
+      "PlayerId": 2572663,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 145,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 335,
+      "PlayerName": "Evan Hull",
+      "PlayerId": 2569846,
+      "Pos": "RB",
+      "Team": "IND",
+      "Rank": 146,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 336,
+      "PlayerName": "Mohamed Ibrahim",
+      "PlayerId": 2570975,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 147,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 337,
+      "PlayerName": "Godwin Igwebuike",
+      "PlayerId": 2560749,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 148,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 338,
+      "PlayerName": "Keaontay Ingram",
+      "PlayerId": 2568108,
+      "Pos": "RB",
+      "Team": "KC",
+      "Rank": 149,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 339,
+      "PlayerName": "Deon Jackson",
+      "PlayerId": 2565603,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 150,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 340,
+      "PlayerName": "Jalen Jackson",
+      "PlayerId": 2573695,
+      "Pos": "RB",
+      "Team": "JAX",
+      "Rank": 151,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 341,
+      "PlayerName": "Jermar Jefferson",
+      "PlayerId": 2566058,
+      "Pos": "RB",
+      "Team": "DET",
+      "Rank": 152,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 342,
+      "PlayerName": "Ramon Jefferson",
+      "PlayerId": 2573841,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 153,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 343,
+      "PlayerName": "Terrell Jennings",
+      "PlayerId": 2573767,
+      "Pos": "RB",
+      "Team": "NE",
+      "Rank": 154,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 344,
+      "PlayerName": "D'Ernest Johnson",
+      "PlayerId": 2563327,
+      "Pos": "RB",
+      "Team": "JAX",
+      "Rank": 155,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 345,
+      "PlayerName": "Dillon Johnson",
+      "PlayerId": 2573464,
+      "Pos": "RB",
+      "Team": "CAR",
+      "Rank": 156,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 346,
+      "PlayerName": "Jakob Johnson",
+      "PlayerId": 2562890,
+      "Pos": "RB",
+      "Team": "NYG",
+      "Rank": 157,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 347,
+      "PlayerName": "Roschon Johnson",
+      "PlayerId": 2569615,
+      "Pos": "RB",
+      "Team": "CHI",
+      "Rank": 158,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 348,
+      "PlayerName": "Austin Jones",
+      "PlayerId": 2573602,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 159,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 349,
+      "PlayerName": "Tony Jones",
+      "PlayerId": 2564679,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 160,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 350,
+      "PlayerName": "Jawhar Jordan",
+      "PlayerId": 2572099,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 161,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 351,
+      "PlayerName": "Joshua Kelley",
+      "PlayerId": 2565054,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 162,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 352,
+      "PlayerName": "John Kelly",
+      "PlayerId": 2560777,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 163,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 353,
+      "PlayerName": "Jacob Kibodi",
+      "PlayerId": 2573385,
+      "Pos": "RB",
+      "Team": "NO",
+      "Rank": 164,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 354,
+      "PlayerName": "Bam Knight",
+      "PlayerId": 2568036,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 165,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 355,
+      "PlayerName": "Patrick Laird",
+      "PlayerId": 2563296,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 166,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 356,
+      "PlayerName": "Dylan Laube",
+      "PlayerId": 2572231,
+      "Pos": "RB",
+      "Team": "LV",
+      "Rank": 167,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 357,
+      "PlayerName": "Kobe Lewis",
+      "PlayerId": 2572777,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 168,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 358,
+      "PlayerName": "Lorenzo Lingard",
+      "PlayerId": 2573701,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 169,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 359,
+      "PlayerName": "MarShawn Lloyd",
+      "PlayerId": 2572042,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 170,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 360,
+      "PlayerName": "DeWayne McBride",
+      "PlayerId": 2570077,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 171,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 361,
+      "PlayerName": "Christian McCaffrey",
+      "PlayerId": 2557997,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 172,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 362,
+      "PlayerName": "Jase McClellan",
+      "PlayerId": 2571808,
+      "Pos": "RB",
+      "Team": "ATL",
+      "Rank": 173,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 363,
+      "PlayerName": "Sincere McCormick",
+      "PlayerId": 2568984,
+      "Pos": "RB",
+      "Team": "LV",
+      "Rank": 174,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 364,
+      "PlayerName": "Nate McCrary",
+      "PlayerId": 2566617,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 175,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 365,
+      "PlayerName": "Anthony McFarland",
+      "PlayerId": 2564994,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 176,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 366,
+      "PlayerName": "Kenny McIntosh",
+      "PlayerId": 2570314,
+      "Pos": "RB",
+      "Team": "SEA",
+      "Rank": 177,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 367,
+      "PlayerName": "Ellis Merriweather",
+      "PlayerId": 2571683,
+      "Pos": "RB",
+      "Team": "GB",
+      "Rank": 178,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 368,
+      "PlayerName": "Dante Miller",
+      "PlayerId": 2572336,
+      "Pos": "RB",
+      "Team": "NYG",
+      "Rank": 179,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 369,
+      "PlayerName": "Kendre Miller",
+      "PlayerId": 2570149,
+      "Pos": "RB",
+      "Team": "NO",
+      "Rank": 180,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 370,
+      "PlayerName": "Kendall Milton",
+      "PlayerId": 2572741,
+      "Pos": "RB",
+      "Team": "CIN",
+      "Rank": 181,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 371,
+      "PlayerName": "Elijah Mitchell",
+      "PlayerId": 2566538,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 182,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 372,
+      "PlayerName": "Keaton Mitchell",
+      "PlayerId": 2570428,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 183,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 373,
+      "PlayerName": "Lew Nichols III",
+      "PlayerId": 2569771,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 184,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 374,
+      "PlayerName": "Kene Nwangwu",
+      "PlayerId": 2566313,
+      "Pos": "RB",
+      "Team": "NYJ",
+      "Rank": 185,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 375,
+      "PlayerName": "Jacques Patrick",
+      "PlayerId": 2563737,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 186,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 376,
+      "PlayerName": "Jaret Patterson",
+      "PlayerId": 2567160,
+      "Pos": "RB",
+      "Team": "LAC",
+      "Rank": 187,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 377,
+      "PlayerName": "Nathaniel Peat",
+      "PlayerId": 2573624,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 188,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 378,
+      "PlayerName": "Trent Pennix",
+      "PlayerId": 2573172,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 189,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 379,
+      "PlayerName": "Rashaad Penny",
+      "PlayerId": 2560835,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 190,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 380,
+      "PlayerName": "La'Mical Perine",
+      "PlayerId": 2564808,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 191,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 381,
+      "PlayerName": "Ricky Person",
+      "PlayerId": 2568372,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 192,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 382,
+      "PlayerName": "Adam Prentice",
+      "PlayerId": 2566872,
+      "Pos": "RB",
+      "Team": "NO",
+      "Rank": 193,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 383,
+      "PlayerName": "Deneric Prince",
+      "PlayerId": 2570707,
+      "Pos": "RB",
+      "Team": "MIA",
+      "Rank": 194,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 384,
+      "PlayerName": "Louis Rees-Zammit",
+      "PlayerId": 2572177,
+      "Pos": "RB",
+      "Team": "JAX",
+      "Rank": 195,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 385,
+      "PlayerName": "Craig Reynolds",
+      "PlayerId": 2562834,
+      "Pos": "RB",
+      "Team": "DET",
+      "Rank": 196,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 386,
+      "PlayerName": "Patrick Ricard",
+      "PlayerId": 2558990,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 197,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 387,
+      "PlayerName": "Aidan Robbins",
+      "PlayerId": 2573034,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 198,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 388,
+      "PlayerName": "James Robinson",
+      "PlayerId": 2564223,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 199,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 389,
+      "PlayerName": "Kairee Robinson",
+      "PlayerId": 2573886,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 200,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 390,
+      "PlayerName": "Keilan Robinson",
+      "PlayerId": 2572156,
+      "Pos": "RB",
+      "Team": "JAX",
+      "Rank": 201,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 391,
+      "PlayerName": "Chris Rodriguez Jr.",
+      "PlayerId": 2570386,
+      "Pos": "RB",
+      "Team": "WAS",
+      "Rank": 202,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 392,
+      "PlayerName": "Jacob Saylors",
+      "PlayerId": 2570840,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 203,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 393,
+      "PlayerName": "Sam Schnee",
+      "PlayerId": 2573476,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 204,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 394,
+      "PlayerName": "Cody Schrader",
+      "PlayerId": 2573545,
+      "Pos": "RB",
+      "Team": "LAR",
+      "Rank": 205,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 395,
+      "PlayerName": "Boston Scott",
+      "PlayerId": 2561146,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 206,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 396,
+      "PlayerName": "Trey Sermon",
+      "PlayerId": 2566544,
+      "Pos": "RB",
+      "Team": "IND",
+      "Rank": 207,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 397,
+      "PlayerName": "Aaron Shampklin",
+      "PlayerId": 2568708,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 208,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 398,
+      "PlayerName": "Jaden Shirden",
+      "PlayerId": 2572950,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 209,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 399,
+      "PlayerName": "Jabari Small",
+      "PlayerId": 2573479,
+      "Pos": "RB",
+      "Team": "TEN",
+      "Rank": 210,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 400,
+      "PlayerName": "Isaiah Spiller",
+      "PlayerId": 2568189,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 211,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 401,
+      "PlayerName": "Markese Stepp",
+      "PlayerId": 2573826,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 212,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 402,
+      "PlayerName": "J.J. Taylor",
+      "PlayerId": 2564640,
+      "Pos": "RB",
+      "Team": "HOU",
+      "Rank": 213,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 403,
+      "PlayerName": "Patrick Taylor",
+      "PlayerId": 2564040,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 214,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 404,
+      "PlayerName": "SaRodorick Thompson Jr.",
+      "PlayerId": 2571237,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 215,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 405,
+      "PlayerName": "Sean Tucker",
+      "PlayerId": 2571629,
+      "Pos": "RB",
+      "Team": "TB",
+      "Rank": 216,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 406,
+      "PlayerName": "Sione Vaki",
+      "PlayerId": 2572021,
+      "Pos": "RB",
+      "Team": "DET",
+      "Rank": 217,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 407,
+      "PlayerName": "Xazavian Valladay",
+      "PlayerId": 2571014,
+      "Pos": "RB",
+      "Team": "NYJ",
+      "Rank": 218,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 408,
+      "PlayerName": "Ke'Shawn Vaughn",
+      "PlayerId": 2565258,
+      "Pos": "RB",
+      "Team": "SF",
+      "Rank": 219,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 409,
+      "PlayerName": "Kimani Vidal",
+      "PlayerId": 2572486,
+      "Pos": "RB",
+      "Team": "LAC",
+      "Rank": 220,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 410,
+      "PlayerName": "Austin Walter",
+      "PlayerId": 2563138,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 221,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 411,
+      "PlayerName": "Jonathan Ward",
+      "PlayerId": 2564949,
+      "Pos": "RB",
+      "Team": "PIT",
+      "Rank": 222,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 412,
+      "PlayerName": "Carlos Washington",
+      "PlayerId": 2570756,
+      "Pos": "RB",
+      "Team": "ATL",
+      "Rank": 223,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 413,
+      "PlayerName": "Dwayne Washington",
+      "PlayerId": 2556118,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 224,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 414,
+      "PlayerName": "Blake Watson",
+      "PlayerId": 2573106,
+      "Pos": "RB",
+      "Team": "DEN",
+      "Rank": 225,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 415,
+      "PlayerName": "Ian Wheeler",
+      "PlayerId": 2572977,
+      "Pos": "RB",
+      "Team": "CHI",
+      "Rank": 226,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 416,
+      "PlayerName": "Michael Wiley",
+      "PlayerId": 2573614,
+      "Pos": "RB",
+      "Team": "WAS",
+      "Rank": 227,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 417,
+      "PlayerName": "Avery Williams",
+      "PlayerId": 2565833,
+      "Pos": "RB",
+      "Team": "ATL",
+      "Rank": 228,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 418,
+      "PlayerName": "D.J. Williams",
+      "PlayerId": 2573590,
+      "Pos": "RB",
+      "Team": "TB",
+      "Rank": 229,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 419,
+      "PlayerName": "TaMerik Williams",
+      "PlayerId": 2572792,
+      "Pos": "RB",
+      "Team": "FA",
+      "Rank": 230,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 420,
+      "PlayerName": "Trayveon Williams",
+      "PlayerId": 2562600,
+      "Pos": "RB",
+      "Team": "CIN",
+      "Rank": 231,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 421,
+      "PlayerName": "Jaylen Wright",
+      "PlayerId": 2572261,
+      "Pos": "RB",
+      "Team": "MIA",
+      "Rank": 232,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 422,
+      "PlayerName": "Owen Wright",
+      "PlayerId": 2570425,
+      "Pos": "RB",
+      "Team": "BAL",
+      "Rank": 233,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 423,
+      "PlayerName": "Colson Yankoff",
+      "PlayerId": 2573620,
+      "Pos": "RB",
+      "Team": "WAS",
+      "Rank": 234,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 424,
+      "PlayerName": "Myles Gaskin",
+      "PlayerId": 2562270,
+      "Pos": "RB",
+      "Team": "MIN",
+      "Rank": 235,
+      "TotalPoints": -0.3
+    },
+    {
+      "_id": 425,
+      "PlayerName": "Audric Estimé",
+      "PlayerId": 2571994,
+      "Pos": "RB",
+      "Team": "DEN",
+      "Rank": 236,
+      "TotalPoints": -0.6
+    },
+    {
+      "_id": 426,
+      "PlayerName": "Isaiah Likely",
+      "PlayerId": 2567283,
+      "Pos": "TE",
+      "Team": "BAL",
+      "Rank": 1,
+      "TotalPoints": 21.6
+    },
+    {
+      "_id": 427,
+      "PlayerName": "Foster Moreau",
+      "PlayerId": 2562317,
+      "Pos": "TE",
+      "Team": "NO",
+      "Rank": 2,
+      "TotalPoints": 12.3
+    },
+    {
+      "_id": 428,
+      "PlayerName": "Chig Okonkwo",
+      "PlayerId": 2567658,
+      "Pos": "TE",
+      "Team": "TEN",
+      "Rank": 3,
+      "TotalPoints": 11.5
+    },
+    {
+      "_id": 429,
+      "PlayerName": "Kyle Pitts",
+      "PlayerId": 2565830,
+      "Pos": "TE",
+      "Team": "ATL",
+      "Rank": 4,
+      "TotalPoints": 10.1
+    },
+    {
+      "_id": 430,
+      "PlayerName": "Juwan Johnson",
+      "PlayerId": 2564676,
+      "Pos": "TE",
+      "Team": "NO",
+      "Rank": 5,
+      "TotalPoints": 9.6
+    },
+    {
+      "_id": 431,
+      "PlayerName": "Brock Bowers",
+      "PlayerId": 2572219,
+      "Pos": "TE",
+      "Team": "LV",
+      "Rank": 6,
+      "TotalPoints": 8.8
+    },
+    {
+      "_id": 432,
+      "PlayerName": "David Njoku",
+      "PlayerId": 2557986,
+      "Pos": "TE",
+      "Team": "CLE",
+      "Rank": 7,
+      "TotalPoints": 7.9
+    },
+    {
+      "_id": 433,
+      "PlayerName": "Colby Parkinson",
+      "PlayerId": 2565180,
+      "Pos": "TE",
+      "Team": "LAR",
+      "Rank": 8,
+      "TotalPoints": 6.7
+    },
+    {
+      "_id": 434,
+      "PlayerName": "Sam LaPorta",
+      "PlayerId": 2569726,
+      "Pos": "TE",
+      "Team": "DET",
+      "Rank": 9,
+      "TotalPoints": 6.5
+    },
+    {
+      "_id": 435,
+      "PlayerName": "George Kittle",
+      "PlayerId": 2558266,
+      "Pos": "TE",
+      "Team": "SF",
+      "Rank": 10,
+      "TotalPoints": 6
+    },
+    {
+      "_id": 436,
+      "PlayerName": "Trey McBride",
+      "PlayerId": 2568117,
+      "Pos": "TE",
+      "Team": "ARI",
+      "Rank": 11,
+      "TotalPoints": 5.5
+    },
+    {
+      "_id": 437,
+      "PlayerName": "Noah Gray",
+      "PlayerId": 2566178,
+      "Pos": "TE",
+      "Team": "KC",
+      "Rank": 12,
+      "TotalPoints": 5.2
+    },
+    {
+      "_id": 438,
+      "PlayerName": "Josh Oliver",
+      "PlayerId": 2562693,
+      "Pos": "TE",
+      "Team": "MIN",
+      "Rank": 13,
+      "TotalPoints": 5.2
+    },
+    {
+      "_id": 439,
+      "PlayerName": "Dallas Goedert",
+      "PlayerId": 2560995,
+      "Pos": "TE",
+      "Team": "PHI",
+      "Rank": 14,
+      "TotalPoints": 5.1
+    },
+    {
+      "_id": 440,
+      "PlayerName": "Travis Kelce",
+      "PlayerId": 2540258,
+      "Pos": "TE",
+      "Team": "KC",
+      "Rank": 15,
+      "TotalPoints": 4.9
+    },
+    {
+      "_id": 441,
+      "PlayerName": "Pat Freiermuth",
+      "PlayerId": 2566442,
+      "Pos": "TE",
+      "Team": "PIT",
+      "Rank": 16,
+      "TotalPoints": 4.7
+    },
+    {
+      "_id": 442,
+      "PlayerName": "Tucker Kraft",
+      "PlayerId": 2569768,
+      "Pos": "TE",
+      "Team": "GB",
+      "Rank": 17,
+      "TotalPoints": 4.7
+    },
+    {
+      "_id": 443,
+      "PlayerName": "Zach Ertz",
+      "PlayerId": 2540158,
+      "Pos": "TE",
+      "Team": "WAS",
+      "Rank": 18,
+      "TotalPoints": 4.3
+    },
+    {
+      "_id": 444,
+      "PlayerName": "Hayden Hurst",
+      "PlayerId": 2560747,
+      "Pos": "TE",
+      "Team": "LAC",
+      "Rank": 19,
+      "TotalPoints": 4.3
+    },
+    {
+      "_id": 445,
+      "PlayerName": "Jordan Akins",
+      "PlayerId": 2560951,
+      "Pos": "TE",
+      "Team": "CLE",
+      "Rank": 20,
+      "TotalPoints": 4.2
+    },
+    {
+      "_id": 446,
+      "PlayerName": "Taysom Hill",
+      "PlayerId": 2558954,
+      "Pos": "TE",
+      "Team": "NO",
+      "Rank": 21,
+      "TotalPoints": 4.1
+    },
+    {
+      "_id": 447,
+      "PlayerName": "Austin Hooper",
+      "PlayerId": 2555415,
+      "Pos": "TE",
+      "Team": "NE",
+      "Rank": 22,
+      "TotalPoints": 4.1
+    },
+    {
+      "_id": 448,
+      "PlayerName": "Mike Gesicki",
+      "PlayerId": 2560994,
+      "Pos": "TE",
+      "Team": "CIN",
+      "Rank": 23,
+      "TotalPoints": 3.3
+    },
+    {
+      "_id": 449,
+      "PlayerName": "Dalton Schultz",
+      "PlayerId": 2560866,
+      "Pos": "TE",
+      "Team": "HOU",
+      "Rank": 24,
+      "TotalPoints": 3.1
+    },
+    {
+      "_id": 450,
+      "PlayerName": "Jake Ferguson",
+      "PlayerId": 2567496,
+      "Pos": "TE",
+      "Team": "DAL",
+      "Rank": 25,
+      "TotalPoints": 3
+    },
+    {
+      "_id": 451,
+      "PlayerName": "Hunter Henry",
+      "PlayerId": 2555341,
+      "Pos": "TE",
+      "Team": "NE",
+      "Rank": 26,
+      "TotalPoints": 2.8
+    },
+    {
+      "_id": 452,
+      "PlayerName": "Dawson Knox",
+      "PlayerId": 2562681,
+      "Pos": "TE",
+      "Team": "BUF",
+      "Rank": 27,
+      "TotalPoints": 2.8
+    },
+    {
+      "_id": 453,
+      "PlayerName": "Feleipe Franks",
+      "PlayerId": 2566683,
+      "Pos": "TE",
+      "Team": "CAR",
+      "Rank": 28,
+      "TotalPoints": 2.5
+    },
+    {
+      "_id": 454,
+      "PlayerName": "Johnny Mundt",
+      "PlayerId": 2558875,
+      "Pos": "TE",
+      "Team": "MIN",
+      "Rank": 29,
+      "TotalPoints": 2.5
+    },
+    {
+      "_id": 455,
+      "PlayerName": "Mark Andrews",
+      "PlayerId": 2560957,
+      "Pos": "TE",
+      "Team": "BAL",
+      "Rank": 30,
+      "TotalPoints": 2.4
+    },
+    {
+      "_id": 456,
+      "PlayerName": "Theo Johnson",
+      "PlayerId": 2572333,
+      "Pos": "TE",
+      "Team": "NYG",
+      "Rank": 31,
+      "TotalPoints": 2.3
+    },
+    {
+      "_id": 457,
+      "PlayerName": "Greg Dulcich",
+      "PlayerId": 2567520,
+      "Pos": "TE",
+      "Team": "DEN",
+      "Rank": 32,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 458,
+      "PlayerName": "Elijah Higgins",
+      "PlayerId": 2570068,
+      "Pos": "TE",
+      "Team": "ARI",
+      "Rank": 33,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 459,
+      "PlayerName": "Noah Fant",
+      "PlayerId": 2562383,
+      "Pos": "TE",
+      "Team": "SEA",
+      "Rank": 34,
+      "TotalPoints": 2.1
+    },
+    {
+      "_id": 460,
+      "PlayerName": "Nick Vannett",
+      "PlayerId": 2555289,
+      "Pos": "TE",
+      "Team": "TEN",
+      "Rank": 35,
+      "TotalPoints": 2.1
+    },
+    {
+      "_id": 461,
+      "PlayerName": "Will Dissly",
+      "PlayerId": 2561046,
+      "Pos": "TE",
+      "Team": "LAC",
+      "Rank": 36,
+      "TotalPoints": 1.8
+    },
+    {
+      "_id": 462,
+      "PlayerName": "Grant Calcaterra",
+      "PlayerId": 2568063,
+      "Pos": "TE",
+      "Team": "PHI",
+      "Rank": 37,
+      "TotalPoints": 1.6
+    },
+    {
+      "_id": 463,
+      "PlayerName": "Dalton Kincaid",
+      "PlayerId": 2569594,
+      "Pos": "TE",
+      "Team": "BUF",
+      "Rank": 38,
+      "TotalPoints": 1.6
+    },
+    {
+      "_id": 464,
+      "PlayerName": "Tanner Conner",
+      "PlayerId": 2569017,
+      "Pos": "TE",
+      "Team": "MIA",
+      "Rank": 39,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 465,
+      "PlayerName": "Luke Farrell",
+      "PlayerId": 2566160,
+      "Pos": "TE",
+      "Team": "JAX",
+      "Rank": 40,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 466,
+      "PlayerName": "Kylen Granson",
+      "PlayerId": 2566145,
+      "Pos": "TE",
+      "Team": "IND",
+      "Rank": 41,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 467,
+      "PlayerName": "Brady Russell",
+      "PlayerId": 2570635,
+      "Pos": "TE",
+      "Team": "SEA",
+      "Rank": 42,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 468,
+      "PlayerName": "MyCole Pruitt",
+      "PlayerId": 2552401,
+      "Pos": "TE",
+      "Team": "PIT",
+      "Rank": 43,
+      "TotalPoints": 1.4
+    },
+    {
+      "_id": 469,
+      "PlayerName": "Michael Mayer",
+      "PlayerId": 2570032,
+      "Pos": "TE",
+      "Team": "LV",
+      "Rank": 44,
+      "TotalPoints": 1.3
+    },
+    {
+      "_id": 470,
+      "PlayerName": "Jonnu Smith",
+      "PlayerId": 2558207,
+      "Pos": "TE",
+      "Team": "MIA",
+      "Rank": 45,
+      "TotalPoints": 1.2
+    },
+    {
+      "_id": 471,
+      "PlayerName": "Tyler Conklin",
+      "PlayerId": 2561027,
+      "Pos": "TE",
+      "Team": "NYJ",
+      "Rank": 46,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 472,
+      "PlayerName": "Julian Hill",
+      "PlayerId": 2571129,
+      "Pos": "TE",
+      "Team": "MIA",
+      "Rank": 47,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 473,
+      "PlayerName": "Adam Trautman",
+      "PlayerId": 2564703,
+      "Pos": "TE",
+      "Team": "DEN",
+      "Rank": 48,
+      "TotalPoints": 1.07
+    },
+    {
+      "_id": 474,
+      "PlayerName": "Evan Engram",
+      "PlayerId": 2557858,
+      "Pos": "TE",
+      "Team": "JAX",
+      "Rank": 49,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 475,
+      "PlayerName": "Cade Otton",
+      "PlayerId": 2568312,
+      "Pos": "TE",
+      "Team": "TB",
+      "Rank": 50,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 476,
+      "PlayerName": "Darnell Washington",
+      "PlayerId": 2570257,
+      "Pos": "TE",
+      "Team": "PIT",
+      "Rank": 51,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 477,
+      "PlayerName": "Cole Kmet",
+      "PlayerId": 2563704,
+      "Pos": "TE",
+      "Team": "CHI",
+      "Rank": 52,
+      "TotalPoints": 0.9
+    },
+    {
+      "_id": 478,
+      "PlayerName": "Ja'Tavion Sanders",
+      "PlayerId": 2571892,
+      "Pos": "TE",
+      "Team": "CAR",
+      "Rank": 53,
+      "TotalPoints": 0.9
+    },
+    {
+      "_id": 479,
+      "PlayerName": "Charlie Woerner",
+      "PlayerId": 2565129,
+      "Pos": "TE",
+      "Team": "ATL",
+      "Rank": 54,
+      "TotalPoints": 0.9
+    },
+    {
+      "_id": 480,
+      "PlayerName": "Daniel Bellinger",
+      "PlayerId": 2567985,
+      "Pos": "TE",
+      "Team": "NYG",
+      "Rank": 55,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 481,
+      "PlayerName": "Tanner Hudson",
+      "PlayerId": 2561215,
+      "Pos": "TE",
+      "Team": "CIN",
+      "Rank": 56,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 482,
+      "PlayerName": "Brevin Jordan",
+      "PlayerId": 2566130,
+      "Pos": "TE",
+      "Team": "HOU",
+      "Rank": 57,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 483,
+      "PlayerName": "Brock Wright",
+      "PlayerId": 2567221,
+      "Pos": "TE",
+      "Team": "DET",
+      "Rank": 58,
+      "TotalPoints": 0.7
+    },
+    {
+      "_id": 484,
+      "PlayerName": "Gerald Everett",
+      "PlayerId": 2557889,
+      "Pos": "TE",
+      "Team": "CHI",
+      "Rank": 59,
+      "TotalPoints": 0.4
+    },
+    {
+      "_id": 485,
+      "PlayerName": "Nate Adkins",
+      "PlayerId": 2570930,
+      "Pos": "TE",
+      "Team": "DEN",
+      "Rank": 60,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 486,
+      "PlayerName": "Mo Alie-Cox",
+      "PlayerId": 2558832,
+      "Pos": "TE",
+      "Team": "IND",
+      "Rank": 61,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 487,
+      "PlayerName": "Erick All",
+      "PlayerId": 2571916,
+      "Pos": "TE",
+      "Team": "CIN",
+      "Rank": 62,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 488,
+      "PlayerName": "Davis Allen",
+      "PlayerId": 2570017,
+      "Pos": "TE",
+      "Team": "LAR",
+      "Rank": 63,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 489,
+      "PlayerName": "AJ Barner",
+      "PlayerId": 2572513,
+      "Pos": "TE",
+      "Team": "SEA",
+      "Rank": 64,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 490,
+      "PlayerName": "Brenden Bates",
+      "PlayerId": 2572953,
+      "Pos": "TE",
+      "Team": "NYJ",
+      "Rank": 65,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 491,
+      "PlayerName": "John Bates",
+      "PlayerId": 2566580,
+      "Pos": "TE",
+      "Team": "WAS",
+      "Rank": 66,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 492,
+      "PlayerName": "Jaheim Bell",
+      "PlayerId": 2572288,
+      "Pos": "TE",
+      "Team": "NE",
+      "Rank": 67,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 493,
+      "PlayerName": "Luke Benson",
+      "PlayerId": 2573782,
+      "Pos": "TE",
+      "Team": "LAC",
+      "Rank": 68,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 494,
+      "PlayerName": "Shawn Bowman",
+      "PlayerId": 2573689,
+      "Pos": "TE",
+      "Team": "JAX",
+      "Rank": 69,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 495,
+      "PlayerName": "Pharaoh Brown",
+      "PlayerId": 2559018,
+      "Pos": "TE",
+      "Team": "SEA",
+      "Rank": 70,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 496,
+      "PlayerName": "Harrison Bryant",
+      "PlayerId": 2563767,
+      "Pos": "TE",
+      "Team": "LV",
+      "Rank": 71,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 497,
+      "PlayerName": "Lawrence Cager",
+      "PlayerId": 2565492,
+      "Pos": "TE",
+      "Team": "NYG",
+      "Rank": 72,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 498,
+      "PlayerName": "Sal Cannella",
+      "PlayerId": 2567197,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 73,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 499,
+      "PlayerName": "Stephen Carlson",
+      "PlayerId": 2563044,
+      "Pos": "TE",
+      "Team": "CHI",
+      "Rank": 74,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 500,
+      "PlayerName": "McCallan Castles",
+      "PlayerId": 2572732,
+      "Pos": "TE",
+      "Team": "PHI",
+      "Rank": 75,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 501,
+      "PlayerName": "Devin Culp",
+      "PlayerId": 2572543,
+      "Pos": "TE",
+      "Team": "TB",
+      "Rank": 76,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 502,
+      "PlayerName": "Baylor Cupp",
+      "PlayerId": 2572820,
+      "Pos": "TE",
+      "Team": "KC",
+      "Rank": 77,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 503,
+      "PlayerName": "Zach Davidson",
+      "PlayerId": 2566301,
+      "Pos": "TE",
+      "Team": "BUF",
+      "Rank": 78,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 504,
+      "PlayerName": "Tyler Davis",
+      "PlayerId": 2564178,
+      "Pos": "TE",
+      "Team": "GB",
+      "Rank": 79,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 505,
+      "PlayerName": "Josiah Deguara",
+      "PlayerId": 2563980,
+      "Pos": "TE",
+      "Team": "JAX",
+      "Rank": 80,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 506,
+      "PlayerName": "Payne Durham",
+      "PlayerId": 2570353,
+      "Pos": "TE",
+      "Team": "TB",
+      "Rank": 81,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 507,
+      "PlayerName": "Ross Dwelley",
+      "PlayerId": 2561060,
+      "Pos": "TE",
+      "Team": "ATL",
+      "Rank": 82,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 508,
+      "PlayerName": "Michael Ezeike",
+      "PlayerId": 2571303,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 83,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 509,
+      "PlayerName": "Mason Fairchild",
+      "PlayerId": 2573888,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 84,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 510,
+      "PlayerName": "Princeton Fant",
+      "PlayerId": 2570891,
+      "Pos": "TE",
+      "Team": "DAL",
+      "Rank": 85,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 511,
+      "PlayerName": "Anthony Firkser",
+      "PlayerId": 2558942,
+      "Pos": "TE",
+      "Team": "NYJ",
+      "Rank": 86,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 512,
+      "PlayerName": "Tucker Fisk",
+      "PlayerId": 2569324,
+      "Pos": "TE",
+      "Team": "LAC",
+      "Rank": 87,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 513,
+      "PlayerName": "John FitzPatrick",
+      "PlayerId": 2567241,
+      "Pos": "TE",
+      "Team": "ATL",
+      "Rank": 88,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 514,
+      "PlayerName": "Kevin Foelsch",
+      "PlayerId": 2573861,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 89,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 515,
+      "PlayerName": "Miller Forristall",
+      "PlayerId": 2566944,
+      "Pos": "TE",
+      "Team": "LAR",
+      "Rank": 90,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 516,
+      "PlayerName": "Joseph Fortson",
+      "PlayerId": 2563259,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 91,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 517,
+      "PlayerName": "Cole Fotheringham",
+      "PlayerId": 2568972,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 92,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 518,
+      "PlayerName": "Devon Garrison",
+      "PlayerId": 2573898,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 93,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 519,
+      "PlayerName": "Zach Gentry",
+      "PlayerId": 2562654,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 94,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 520,
+      "PlayerName": "Cam Grandy",
+      "PlayerId": 2572995,
+      "Pos": "TE",
+      "Team": "CIN",
+      "Rank": 95,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 521,
+      "PlayerName": "Jacob Harris",
+      "PlayerId": 2566220,
+      "Pos": "TE",
+      "Team": "PHI",
+      "Rank": 96,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 522,
+      "PlayerName": "Zach Heins",
+      "PlayerId": 2573424,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 97,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 523,
+      "PlayerName": "Peyton Hendershot",
+      "PlayerId": 2568690,
+      "Pos": "TE",
+      "Team": "KC",
+      "Rank": 98,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 524,
+      "PlayerName": "Parker Hesse",
+      "PlayerId": 2563272,
+      "Pos": "TE",
+      "Team": "DET",
+      "Rank": 99,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 525,
+      "PlayerName": "Connor Heyward",
+      "PlayerId": 2568138,
+      "Pos": "TE",
+      "Team": "PIT",
+      "Rank": 100,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 526,
+      "PlayerName": "Tyler Higbee",
+      "PlayerId": 2555364,
+      "Pos": "TE",
+      "Team": "LAR",
+      "Rank": 101,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 527,
+      "PlayerName": "T.J. Hockenson",
+      "PlayerId": 2562378,
+      "Pos": "TE",
+      "Team": "MIN",
+      "Rank": 102,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 528,
+      "PlayerName": "Curtis Hodges",
+      "PlayerId": 2568327,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 103,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 529,
+      "PlayerName": "Dallin Holker",
+      "PlayerId": 2573373,
+      "Pos": "TE",
+      "Team": "NO",
+      "Rank": 104,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 530,
+      "PlayerName": "Alec Holler",
+      "PlayerId": 2573049,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 105,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 531,
+      "PlayerName": "Jacob Hollister",
+      "PlayerId": 2558956,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 106,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 532,
+      "PlayerName": "Jesper Horsted",
+      "PlayerId": 2563270,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 107,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 533,
+      "PlayerName": "Tommy Hudson",
+      "PlayerId": 2565450,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 108,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 534,
+      "PlayerName": "Tyree Jackson",
+      "PlayerId": 2562435,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 109,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 535,
+      "PlayerName": "Michael Jacobson",
+      "PlayerId": 2567204,
+      "Pos": "TE",
+      "Team": "NO",
+      "Rank": 110,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 536,
+      "PlayerName": "E.J. Jenkins",
+      "PlayerId": 2570602,
+      "Pos": "TE",
+      "Team": "PHI",
+      "Rank": 111,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 537,
+      "PlayerName": "Neal Johnson",
+      "PlayerId": 2573719,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 112,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 538,
+      "PlayerName": "Nikola Kalinic",
+      "PlayerId": 2567706,
+      "Pos": "TE",
+      "Team": "LAR",
+      "Rank": 113,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 539,
+      "PlayerName": "Hunter Kampmoyer",
+      "PlayerId": 2566481,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 114,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 540,
+      "PlayerName": "Dalton Keene",
+      "PlayerId": 2564616,
+      "Pos": "TE",
+      "Team": "HOU",
+      "Rank": 115,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 541,
+      "PlayerName": "Ko Kieft",
+      "PlayerId": 2568306,
+      "Pos": "TE",
+      "Team": "TB",
+      "Rank": 116,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 542,
+      "PlayerName": "Trey Knox",
+      "PlayerId": 2573301,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 117,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 543,
+      "PlayerName": "Charlie Kolar",
+      "PlayerId": 2567280,
+      "Pos": "TE",
+      "Team": "BAL",
+      "Rank": 118,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 544,
+      "PlayerName": "Lucas Krull",
+      "PlayerId": 2569092,
+      "Pos": "TE",
+      "Team": "DEN",
+      "Rank": 119,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 545,
+      "PlayerName": "Zack Kuntz",
+      "PlayerId": 2570182,
+      "Pos": "TE",
+      "Team": "NYJ",
+      "Rank": 120,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 546,
+      "PlayerName": "Cameron Latu",
+      "PlayerId": 2570302,
+      "Pos": "TE",
+      "Team": "CLE",
+      "Rank": 121,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 547,
+      "PlayerName": "Dylan Leonard",
+      "PlayerId": 2573091,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 122,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 548,
+      "PlayerName": "Marcedes Lewis",
+      "PlayerId": 2495888,
+      "Pos": "TE",
+      "Team": "CHI",
+      "Rank": 123,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 549,
+      "PlayerName": "Hunter Long",
+      "PlayerId": 2566286,
+      "Pos": "TE",
+      "Team": "LAR",
+      "Rank": 124,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 550,
+      "PlayerName": "Tyler Mabry",
+      "PlayerId": 2565168,
+      "Pos": "TE",
+      "Team": "SEA",
+      "Rank": 125,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 551,
+      "PlayerName": "Will Mallory",
+      "PlayerId": 2569849,
+      "Pos": "TE",
+      "Team": "IND",
+      "Rank": 126,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 552,
+      "PlayerName": "Chris Manhertz",
+      "PlayerId": 2552622,
+      "Pos": "TE",
+      "Team": "NYG",
+      "Rank": 127,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 553,
+      "PlayerName": "David Martin-Robinson",
+      "PlayerId": 2573467,
+      "Pos": "TE",
+      "Team": "TEN",
+      "Rank": 128,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 554,
+      "PlayerName": "Ben Mason",
+      "PlayerId": 2565845,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 129,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 555,
+      "PlayerName": "Sean McKeon",
+      "PlayerId": 2563854,
+      "Pos": "TE",
+      "Team": "IND",
+      "Rank": 130,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 556,
+      "PlayerName": "Tre' McKitty",
+      "PlayerId": 2566490,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 131,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 557,
+      "PlayerName": "Tanner McLachlan",
+      "PlayerId": 2571937,
+      "Pos": "TE",
+      "Team": "CIN",
+      "Rank": 132,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 558,
+      "PlayerName": "James Mitchell",
+      "PlayerId": 2567556,
+      "Pos": "TE",
+      "Team": "DET",
+      "Rank": 133,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 559,
+      "PlayerName": "Zaire Mitchell-Paden",
+      "PlayerId": 2568654,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 134,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 560,
+      "PlayerName": "Quintin Morris",
+      "PlayerId": 2566641,
+      "Pos": "TE",
+      "Team": "BUF",
+      "Rank": 135,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 561,
+      "PlayerName": "Jordan Murray",
+      "PlayerId": 2571714,
+      "Pos": "TE",
+      "Team": "ARI",
+      "Rank": 136,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 562,
+      "PlayerName": "Patrick Murtagh",
+      "PlayerId": 2572150,
+      "Pos": "TE",
+      "Team": "JAX",
+      "Rank": 137,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 563,
+      "PlayerName": "Nick Muse",
+      "PlayerId": 2567922,
+      "Pos": "TE",
+      "Team": "MIN",
+      "Rank": 138,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 564,
+      "PlayerName": "Luke Musgrave",
+      "PlayerId": 2569780,
+      "Pos": "TE",
+      "Team": "GB",
+      "Rank": 139,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 565,
+      "PlayerName": "Chris Myarick",
+      "PlayerId": 2563210,
+      "Pos": "TE",
+      "Team": "HOU",
+      "Rank": 140,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 566,
+      "PlayerName": "Thomas Odukoya",
+      "PlayerId": 2568828,
+      "Pos": "TE",
+      "Team": "TEN",
+      "Rank": 141,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 567,
+      "PlayerName": "Kehinde Oginni Hassan",
+      "PlayerId": 2568426,
+      "Pos": "TE",
+      "Team": "ATL",
+      "Rank": 142,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 568,
+      "PlayerName": "Andrew Ogletree",
+      "PlayerId": 2567712,
+      "Pos": "TE",
+      "Team": "IND",
+      "Rank": 143,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 569,
+      "PlayerName": "Albert Okwuegbunam",
+      "PlayerId": 2563911,
+      "Pos": "TE",
+      "Team": "PHI",
+      "Rank": 144,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 570,
+      "PlayerName": "Donald Parham",
+      "PlayerId": 2562394,
+      "Pos": "TE",
+      "Team": "DEN",
+      "Rank": 145,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 571,
+      "PlayerName": "Henry Pearson",
+      "PlayerId": 2570512,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 146,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 572,
+      "PlayerName": "Josh Pederson",
+      "PlayerId": 2567085,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 147,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 573,
+      "PlayerName": "La'Michael Pettway",
+      "PlayerId": 2571764,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 148,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 574,
+      "PlayerName": "Chris Pierce",
+      "PlayerId": 2569182,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 149,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 575,
+      "PlayerName": "Mason Pline",
+      "PlayerId": 2573542,
+      "Pos": "TE",
+      "Team": "SF",
+      "Rank": 150,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 576,
+      "PlayerName": "Gerrit Prince",
+      "PlayerId": 2568960,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 151,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 577,
+      "PlayerName": "Teagan Quitoriano",
+      "PlayerId": 2567691,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 152,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 578,
+      "PlayerName": "Kevin Rader",
+      "PlayerId": 2561264,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 153,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 579,
+      "PlayerName": "Tip Reiman",
+      "PlayerId": 2572426,
+      "Pos": "TE",
+      "Team": "ARI",
+      "Rank": 154,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 580,
+      "PlayerName": "Isaac Rex",
+      "PlayerId": 2573142,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 155,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 581,
+      "PlayerName": "Sammis Reyes",
+      "PlayerId": 2565807,
+      "Pos": "TE",
+      "Team": "MIN",
+      "Rank": 156,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 582,
+      "PlayerName": "Giovanni Ricci",
+      "PlayerId": 2563668,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 157,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 583,
+      "PlayerName": "Mike Rigerman",
+      "PlayerId": 2572630,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 158,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 584,
+      "PlayerName": "Armani Rogers",
+      "PlayerId": 2568351,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 159,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 585,
+      "PlayerName": "Hayden Rucci",
+      "PlayerId": 2573764,
+      "Pos": "TE",
+      "Team": "MIA",
+      "Rank": 160,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 586,
+      "PlayerName": "Jeremy Ruckert",
+      "PlayerId": 2568042,
+      "Pos": "TE",
+      "Team": "NYJ",
+      "Rank": 161,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 587,
+      "PlayerName": "Drew Sample",
+      "PlayerId": 2562720,
+      "Pos": "TE",
+      "Team": "CIN",
+      "Rank": 162,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 588,
+      "PlayerName": "Eric Saubert",
+      "PlayerId": 2558023,
+      "Pos": "TE",
+      "Team": "SF",
+      "Rank": 163,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 589,
+      "PlayerName": "Luke Schoonmaker",
+      "PlayerId": 2569690,
+      "Pos": "TE",
+      "Team": "DAL",
+      "Rank": 164,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 590,
+      "PlayerName": "Lincoln Sefcik",
+      "PlayerId": 2572714,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 165,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 591,
+      "PlayerName": "Bernhard Seikovits",
+      "PlayerId": 2567076,
+      "Pos": "TE",
+      "Team": "ARI",
+      "Rank": 166,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 592,
+      "PlayerName": "Riley Sharp",
+      "PlayerId": 2572636,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 167,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 593,
+      "PlayerName": "John Shenker",
+      "PlayerId": 2571099,
+      "Pos": "TE",
+      "Team": "LV",
+      "Rank": 168,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 594,
+      "PlayerName": "Ben Sims",
+      "PlayerId": 2571198,
+      "Pos": "TE",
+      "Team": "GB",
+      "Rank": 169,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 595,
+      "PlayerName": "Ben Sinnott",
+      "PlayerId": 2572585,
+      "Pos": "TE",
+      "Team": "WAS",
+      "Rank": 170,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 596,
+      "PlayerName": "Stone Smartt",
+      "PlayerId": 2569227,
+      "Pos": "TE",
+      "Team": "LAC",
+      "Rank": 171,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 597,
+      "PlayerName": "Irv Smith",
+      "PlayerId": 2562738,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 172,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 598,
+      "PlayerName": "Durham Smythe",
+      "PlayerId": 2560880,
+      "Pos": "TE",
+      "Team": "MIA",
+      "Rank": 173,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 599,
+      "PlayerName": "Matt Sokol",
+      "PlayerId": 2562980,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 174,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 600,
+      "PlayerName": "Brevyn Spann-Ford",
+      "PlayerId": 2573064,
+      "Pos": "TE",
+      "Team": "DAL",
+      "Rank": 175,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 601,
+      "PlayerName": "Geor'Quarius Spivey",
+      "PlayerId": 2573887,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 176,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 602,
+      "PlayerName": "John Stephens Jr.",
+      "PlayerId": 2570894,
+      "Pos": "TE",
+      "Team": "DAL",
+      "Rank": 177,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 603,
+      "PlayerName": "Steven Stilianos",
+      "PlayerId": 2573485,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 178,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 604,
+      "PlayerName": "Austin Stogner",
+      "PlayerId": 2572893,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 179,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 605,
+      "PlayerName": "Jack Stoll",
+      "PlayerId": 2567061,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 180,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 606,
+      "PlayerName": "Cade Stover",
+      "PlayerId": 2572105,
+      "Pos": "TE",
+      "Team": "HOU",
+      "Rank": 181,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 607,
+      "PlayerName": "Brenton Strange",
+      "PlayerId": 2569912,
+      "Pos": "TE",
+      "Team": "JAX",
+      "Rank": 182,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 608,
+      "PlayerName": "Stephen Sullivan",
+      "PlayerId": 2565192,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 183,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 609,
+      "PlayerName": "Sage Surratt",
+      "PlayerId": 2566911,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 184,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 610,
+      "PlayerName": "Tommy Sweeney",
+      "PlayerId": 2562750,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 185,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 611,
+      "PlayerName": "Messiah Swinson",
+      "PlayerId": 2572675,
+      "Pos": "TE",
+      "Team": "CAR",
+      "Rank": 186,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 612,
+      "PlayerName": "Tanner Taula",
+      "PlayerId": 2571587,
+      "Pos": "TE",
+      "Team": "TB",
+      "Rank": 187,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 613,
+      "PlayerName": "Ian Thomas",
+      "PlayerId": 2560894,
+      "Pos": "TE",
+      "Team": "CAR",
+      "Rank": 188,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 614,
+      "PlayerName": "Jordan Thomas",
+      "PlayerId": 2560896,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 189,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 615,
+      "PlayerName": "Logan Thomas",
+      "PlayerId": 2543767,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 190,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 616,
+      "PlayerName": "Noah Togiai",
+      "PlayerId": 2564865,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 191,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 617,
+      "PlayerName": "Eric Tomlinson",
+      "PlayerId": 2553744,
+      "Pos": "TE",
+      "Team": "LAC",
+      "Rank": 192,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 618,
+      "PlayerName": "Jake Tonges",
+      "PlayerId": 2567439,
+      "Pos": "TE",
+      "Team": "SF",
+      "Rank": 193,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 619,
+      "PlayerName": "Robert Tonyan",
+      "PlayerId": 2559270,
+      "Pos": "TE",
+      "Team": "MIN",
+      "Rank": 194,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 620,
+      "PlayerName": "Tommy Tremble",
+      "PlayerId": 2565914,
+      "Pos": "TE",
+      "Team": "CAR",
+      "Rank": 195,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 621,
+      "PlayerName": "Cole Turner",
+      "PlayerId": 2568354,
+      "Pos": "TE",
+      "Team": "WAS",
+      "Rank": 196,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 622,
+      "PlayerName": "C.J. Uzomah",
+      "PlayerId": 2552559,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 197,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 623,
+      "PlayerName": "Travis Vokolek",
+      "PlayerId": 2570431,
+      "Pos": "TE",
+      "Team": "ARI",
+      "Rank": 198,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 624,
+      "PlayerName": "Darren Waller",
+      "PlayerId": 2552408,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 199,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 625,
+      "PlayerName": "Jacob Warren",
+      "PlayerId": 2573355,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 200,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 626,
+      "PlayerName": "Treyton Welch",
+      "PlayerId": 2573040,
+      "Pos": "TE",
+      "Team": "NO",
+      "Rank": 201,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 627,
+      "PlayerName": "David Wells",
+      "PlayerId": 2560925,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 202,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 628,
+      "PlayerName": "Jack Westover",
+      "PlayerId": 2572786,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 203,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 629,
+      "PlayerName": "Blake Whiteheart",
+      "PlayerId": 2571077,
+      "Pos": "TE",
+      "Team": "CLE",
+      "Rank": 204,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 630,
+      "PlayerName": "Josh Whyle",
+      "PlayerId": 2569810,
+      "Pos": "TE",
+      "Team": "TEN",
+      "Rank": 205,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 631,
+      "PlayerName": "Mitchell Wilcox",
+      "PlayerId": 2563749,
+      "Pos": "TE",
+      "Team": "NE",
+      "Rank": 206,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 632,
+      "PlayerName": "Jared Wiley",
+      "PlayerId": 2572183,
+      "Pos": "TE",
+      "Team": "KC",
+      "Rank": 207,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 633,
+      "PlayerName": "Rod Williams",
+      "PlayerId": 2569366,
+      "Pos": "TE",
+      "Team": "PIT",
+      "Rank": 208,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 634,
+      "PlayerName": "Brayden Willis",
+      "PlayerId": 2570293,
+      "Pos": "TE",
+      "Team": "SF",
+      "Rank": 209,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 635,
+      "PlayerName": "Joel Wilson",
+      "PlayerId": 2571724,
+      "Pos": "TE",
+      "Team": "FA",
+      "Rank": 210,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 636,
+      "PlayerName": "Jelani Woods",
+      "PlayerId": 2567724,
+      "Pos": "TE",
+      "Team": "IND",
+      "Rank": 211,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 637,
+      "PlayerName": "Thomas Yassmin",
+      "PlayerId": 2573109,
+      "Pos": "TE",
+      "Team": "DEN",
+      "Rank": 212,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 638,
+      "PlayerName": "Kenny Yeboah",
+      "PlayerId": 2565768,
+      "Pos": "TE",
+      "Team": "NYJ",
+      "Rank": 213,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 639,
+      "PlayerName": "Shane Zylstra",
+      "PlayerId": 2567172,
+      "Pos": "TE",
+      "Team": "DET",
+      "Rank": 214,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 640,
+      "PlayerName": "Jayden Reed",
+      "PlayerId": 2569765,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 1,
+      "TotalPoints": 31.1
+    },
+    {
+      "_id": 641,
+      "PlayerName": "Cooper Kupp",
+      "PlayerId": 2557898,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 2,
+      "TotalPoints": 25
+    },
+    {
+      "_id": 642,
+      "PlayerName": "Allen Lazard",
+      "PlayerId": 2560787,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 3,
+      "TotalPoints": 23.9
+    },
+    {
+      "_id": 643,
+      "PlayerName": "Tyreek Hill",
+      "PlayerId": 2556214,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 4,
+      "TotalPoints": 22.5
+    },
+    {
+      "_id": 644,
+      "PlayerName": "Jameson Williams",
+      "PlayerId": 2567565,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 5,
+      "TotalPoints": 21.9
+    },
+    {
+      "_id": 645,
+      "PlayerName": "Mike Evans",
+      "PlayerId": 2543468,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 6,
+      "TotalPoints": 20.6
+    },
+    {
+      "_id": 646,
+      "PlayerName": "A.J. Brown",
+      "PlayerId": 2562238,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 7,
+      "TotalPoints": 20.4
+    },
+    {
+      "_id": 647,
+      "PlayerName": "Alec Pierce",
+      "PlayerId": 2567715,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 8,
+      "TotalPoints": 20
+    },
+    {
+      "_id": 648,
+      "PlayerName": "Xavier Worthy",
+      "PlayerId": 2572186,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 9,
+      "TotalPoints": 19.8
+    },
+    {
+      "_id": 649,
+      "PlayerName": "Stefon Diggs",
+      "PlayerId": 2552608,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 10,
+      "TotalPoints": 18.9
+    },
+    {
+      "_id": 650,
+      "PlayerName": "Chris Godwin",
+      "PlayerId": 2558105,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 11,
+      "TotalPoints": 18.3
+    },
+    {
+      "_id": 651,
+      "PlayerName": "Deebo Samuel Sr.",
+      "PlayerId": 2562721,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 12,
+      "TotalPoints": 16.2
+    },
+    {
+      "_id": 652,
+      "PlayerName": "Rashee Rice",
+      "PlayerId": 2569921,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 13,
+      "TotalPoints": 15.3
+    },
+    {
+      "_id": 653,
+      "PlayerName": "Rashid Shaheed",
+      "PlayerId": 2569110,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 14,
+      "TotalPoints": 14.8
+    },
+    {
+      "_id": 654,
+      "PlayerName": "Nico Collins",
+      "PlayerId": 2566127,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 15,
+      "TotalPoints": 14.7
+    },
+    {
+      "_id": 655,
+      "PlayerName": "Justin Jefferson",
+      "PlayerId": 2564556,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 16,
+      "TotalPoints": 13.9
+    },
+    {
+      "_id": 656,
+      "PlayerName": "Jaylen Waddle",
+      "PlayerId": 2566292,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 17,
+      "TotalPoints": 13.7
+    },
+    {
+      "_id": 657,
+      "PlayerName": "DeVonta Smith",
+      "PlayerId": 2566409,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 18,
+      "TotalPoints": 13.4
+    },
+    {
+      "_id": 658,
+      "PlayerName": "Brian Thomas Jr.",
+      "PlayerId": 2572162,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 19,
+      "TotalPoints": 12.7
+    },
+    {
+      "_id": 659,
+      "PlayerName": "Brandin Cooks",
+      "PlayerId": 2543498,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 20,
+      "TotalPoints": 12.5
+    },
+    {
+      "_id": 660,
+      "PlayerName": "Ladd McConkey",
+      "PlayerId": 2572477,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 21,
+      "TotalPoints": 12.4
+    },
+    {
+      "_id": 661,
+      "PlayerName": "Ashton Dulin",
+      "PlayerId": 2562646,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 22,
+      "TotalPoints": 11.9
+    },
+    {
+      "_id": 662,
+      "PlayerName": "Khalil Shakir",
+      "PlayerId": 2567334,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 23,
+      "TotalPoints": 11.7
+    },
+    {
+      "_id": 663,
+      "PlayerName": "CeeDee Lamb",
+      "PlayerId": 2563848,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 24,
+      "TotalPoints": 11.1
+    },
+    {
+      "_id": 664,
+      "PlayerName": "Ja'Marr Chase",
+      "PlayerId": 2565941,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 25,
+      "TotalPoints": 10.7
+    },
+    {
+      "_id": 665,
+      "PlayerName": "Tyler Lockett",
+      "PlayerId": 2552430,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 26,
+      "TotalPoints": 10.7
+    },
+    {
+      "_id": 666,
+      "PlayerName": "George Pickens",
+      "PlayerId": 2568159,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 27,
+      "TotalPoints": 10.5
+    },
+    {
+      "_id": 667,
+      "PlayerName": "Tyler Johnson",
+      "PlayerId": 2565225,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 28,
+      "TotalPoints": 10.4
+    },
+    {
+      "_id": 668,
+      "PlayerName": "Mack Hollins",
+      "PlayerId": 2558262,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 29,
+      "TotalPoints": 10.1
+    },
+    {
+      "_id": 669,
+      "PlayerName": "Jerry Jeudy",
+      "PlayerId": 2563896,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 30,
+      "TotalPoints": 10
+    },
+    {
+      "_id": 670,
+      "PlayerName": "Jalen McMillan",
+      "PlayerId": 2572552,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 31,
+      "TotalPoints": 9.7
+    },
+    {
+      "_id": 671,
+      "PlayerName": "Malik Nabers",
+      "PlayerId": 2572342,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 32,
+      "TotalPoints": 9.1
+    },
+    {
+      "_id": 672,
+      "PlayerName": "Garrett Wilson",
+      "PlayerId": 2568048,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 33,
+      "TotalPoints": 9
+    },
+    {
+      "_id": 673,
+      "PlayerName": "Jauan Jennings",
+      "PlayerId": 2565114,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 34,
+      "TotalPoints": 8.9
+    },
+    {
+      "_id": 674,
+      "PlayerName": "Wan'Dale Robinson",
+      "PlayerId": 2568012,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 35,
+      "TotalPoints": 8.8
+    },
+    {
+      "_id": 675,
+      "PlayerName": "Christian Watson",
+      "PlayerId": 2567637,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 36,
+      "TotalPoints": 8.8
+    },
+    {
+      "_id": 676,
+      "PlayerName": "Jalen Nailor",
+      "PlayerId": 2567925,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 37,
+      "TotalPoints": 8.6
+    },
+    {
+      "_id": 677,
+      "PlayerName": "Davante Adams",
+      "PlayerId": 2543495,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 38,
+      "TotalPoints": 8.4
+    },
+    {
+      "_id": 678,
+      "PlayerName": "Greg Dortch",
+      "PlayerId": 2562645,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 39,
+      "TotalPoints": 8.1
+    },
+    {
+      "_id": 679,
+      "PlayerName": "Zay Flowers",
+      "PlayerId": 2569573,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 40,
+      "TotalPoints": 8.1
+    },
+    {
+      "_id": 680,
+      "PlayerName": "Jakobi Meyers",
+      "PlayerId": 2562492,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 41,
+      "TotalPoints": 7.9
+    },
+    {
+      "_id": 681,
+      "PlayerName": "Adam Thielen",
+      "PlayerId": 2541785,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 42,
+      "TotalPoints": 7.9
+    },
+    {
+      "_id": 682,
+      "PlayerName": "Devaughn Vele",
+      "PlayerId": 2572006,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 43,
+      "TotalPoints": 7.9
+    },
+    {
+      "_id": 683,
+      "PlayerName": "Gabe Davis",
+      "PlayerId": 2563602,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 44,
+      "TotalPoints": 7.7
+    },
+    {
+      "_id": 684,
+      "PlayerName": "DJ Moore",
+      "PlayerId": 2560813,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 45,
+      "TotalPoints": 7.5
+    },
+    {
+      "_id": 685,
+      "PlayerName": "Tank Dell",
+      "PlayerId": 2569813,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 46,
+      "TotalPoints": 7.4
+    },
+    {
+      "_id": 686,
+      "PlayerName": "Courtland Sutton",
+      "PlayerId": 2560888,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 47,
+      "TotalPoints": 7.3
+    },
+    {
+      "_id": 687,
+      "PlayerName": "Ray-Ray McCloud",
+      "PlayerId": 2560801,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 48,
+      "TotalPoints": 7.2
+    },
+    {
+      "_id": 688,
+      "PlayerName": "Keon Coleman",
+      "PlayerId": 2571859,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 49,
+      "TotalPoints": 7.1
+    },
+    {
+      "_id": 689,
+      "PlayerName": "Romeo Doubs",
+      "PlayerId": 2567586,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 50,
+      "TotalPoints": 7
+    },
+    {
+      "_id": 690,
+      "PlayerName": "Josh Reynolds",
+      "PlayerId": 2558194,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 51,
+      "TotalPoints": 7
+    },
+    {
+      "_id": 691,
+      "PlayerName": "Michael Wilson",
+      "PlayerId": 2570224,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 52,
+      "TotalPoints": 7
+    },
+    {
+      "_id": 692,
+      "PlayerName": "Calvin Ridley",
+      "PlayerId": 2560854,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 53,
+      "TotalPoints": 6.5
+    },
+    {
+      "_id": 693,
+      "PlayerName": "Rashod Bateman",
+      "PlayerId": 2565836,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 54,
+      "TotalPoints": 6.3
+    },
+    {
+      "_id": 694,
+      "PlayerName": "Puka Nacua",
+      "PlayerId": 2570026,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 55,
+      "TotalPoints": 6.2
+    },
+    {
+      "_id": 695,
+      "PlayerName": "Demarcus Robinson",
+      "PlayerId": 2555478,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 56,
+      "TotalPoints": 6.2
+    },
+    {
+      "_id": 696,
+      "PlayerName": "KaVontae Turpin",
+      "PlayerId": 2569509,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 57,
+      "TotalPoints": 6
+    },
+    {
+      "_id": 697,
+      "PlayerName": "Xavier Legette",
+      "PlayerId": 2571889,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 58,
+      "TotalPoints": 5.5
+    },
+    {
+      "_id": 698,
+      "PlayerName": "Jalen Brooks",
+      "PlayerId": 2569696,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 59,
+      "TotalPoints": 5.3
+    },
+    {
+      "_id": 699,
+      "PlayerName": "Quentin Johnston",
+      "PlayerId": 2570275,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 60,
+      "TotalPoints": 5.3
+    },
+    {
+      "_id": 700,
+      "PlayerName": "Michael Pittman",
+      "PlayerId": 2564136,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 61,
+      "TotalPoints": 5.1
+    },
+    {
+      "_id": 701,
+      "PlayerName": "Jordan Addison",
+      "PlayerId": 2570074,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 62,
+      "TotalPoints": 5
+    },
+    {
+      "_id": 702,
+      "PlayerName": "Keenan Allen",
+      "PlayerId": 2540154,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 63,
+      "TotalPoints": 4.9
+    },
+    {
+      "_id": 703,
+      "PlayerName": "DK Metcalf",
+      "PlayerId": 2562685,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 64,
+      "TotalPoints": 4.4
+    },
+    {
+      "_id": 704,
+      "PlayerName": "Jaxon Smith-Njigba",
+      "PlayerId": 2570341,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 65,
+      "TotalPoints": 4.4
+    },
+    {
+      "_id": 705,
+      "PlayerName": "Amon-Ra St. Brown",
+      "PlayerId": 2566073,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 66,
+      "TotalPoints": 4.3
+    },
+    {
+      "_id": 706,
+      "PlayerName": "Andrei Iosivas",
+      "PlayerId": 2569657,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 67,
+      "TotalPoints": 4.1
+    },
+    {
+      "_id": 707,
+      "PlayerName": "Elijah Moore",
+      "PlayerId": 2566385,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 68,
+      "TotalPoints": 3.9
+    },
+    {
+      "_id": 708,
+      "PlayerName": "Brandon Aiyuk",
+      "PlayerId": 2565093,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 69,
+      "TotalPoints": 3.8
+    },
+    {
+      "_id": 709,
+      "PlayerName": "Tyquan Thornton",
+      "PlayerId": 2567958,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 70,
+      "TotalPoints": 3.7
+    },
+    {
+      "_id": 710,
+      "PlayerName": "K.J. Osborn",
+      "PlayerId": 2564574,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 71,
+      "TotalPoints": 3.6
+    },
+    {
+      "_id": 711,
+      "PlayerName": "Christian Kirk",
+      "PlayerId": 2560781,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 72,
+      "TotalPoints": 3.5
+    },
+    {
+      "_id": 712,
+      "PlayerName": "David Moore",
+      "PlayerId": 2558856,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 73,
+      "TotalPoints": 3.4
+    },
+    {
+      "_id": 713,
+      "PlayerName": "Tyler Boyd",
+      "PlayerId": 2555466,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 74,
+      "TotalPoints": 3.3
+    },
+    {
+      "_id": 714,
+      "PlayerName": "Luke McCaffrey",
+      "PlayerId": 2572576,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 75,
+      "TotalPoints": 3.3
+    },
+    {
+      "_id": 715,
+      "PlayerName": "Jonathan Mingo",
+      "PlayerId": 2569597,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 76,
+      "TotalPoints": 3.3
+    },
+    {
+      "_id": 716,
+      "PlayerName": "Tre Tucker",
+      "PlayerId": 2570059,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 77,
+      "TotalPoints": 3.2
+    },
+    {
+      "_id": 717,
+      "PlayerName": "Justin Watson",
+      "PlayerId": 2560051,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 78,
+      "TotalPoints": 3
+    },
+    {
+      "_id": 718,
+      "PlayerName": "Nick Westbrook-Ikhine",
+      "PlayerId": 2565477,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 79,
+      "TotalPoints": 3
+    },
+    {
+      "_id": 719,
+      "PlayerName": "Dareke Young",
+      "PlayerId": 2568291,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 80,
+      "TotalPoints": 3
+    },
+    {
+      "_id": 720,
+      "PlayerName": "Diontae Johnson",
+      "PlayerId": 2562674,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 81,
+      "TotalPoints": 2.9
+    },
+    {
+      "_id": 721,
+      "PlayerName": "Terry McLaurin",
+      "PlayerId": 2562489,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 82,
+      "TotalPoints": 2.7
+    },
+    {
+      "_id": 722,
+      "PlayerName": "Jalen Tolbert",
+      "PlayerId": 2567508,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 83,
+      "TotalPoints": 2.7
+    },
+    {
+      "_id": 723,
+      "PlayerName": "Amari Cooper",
+      "PlayerId": 2552487,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 84,
+      "TotalPoints": 2.6
+    },
+    {
+      "_id": 724,
+      "PlayerName": "Drake London",
+      "PlayerId": 2567250,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 85,
+      "TotalPoints": 2.5
+    },
+    {
+      "_id": 725,
+      "PlayerName": "Josh Palmer",
+      "PlayerId": 2566502,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 86,
+      "TotalPoints": 2.5
+    },
+    {
+      "_id": 726,
+      "PlayerName": "Curtis Samuel",
+      "PlayerId": 2558066,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 87,
+      "TotalPoints": 2.5
+    },
+    {
+      "_id": 727,
+      "PlayerName": "Trey Palmer",
+      "PlayerId": 2570350,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 88,
+      "TotalPoints": 2.4
+    },
+    {
+      "_id": 728,
+      "PlayerName": "Marquez Valdes-Scantling",
+      "PlayerId": 2560907,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 89,
+      "TotalPoints": 2.4
+    },
+    {
+      "_id": 729,
+      "PlayerName": "Demario Douglas",
+      "PlayerId": 2570119,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 90,
+      "TotalPoints": 2.2
+    },
+    {
+      "_id": 730,
+      "PlayerName": "Chris Olave",
+      "PlayerId": 2567973,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 91,
+      "TotalPoints": 2.1
+    },
+    {
+      "_id": 731,
+      "PlayerName": "Laviska Shenault Jr.",
+      "PlayerId": 2564232,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 92,
+      "TotalPoints": 2.1
+    },
+    {
+      "_id": 732,
+      "PlayerName": "Darius Slayton",
+      "PlayerId": 2562736,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 93,
+      "TotalPoints": 2.1
+    },
+    {
+      "_id": 733,
+      "PlayerName": "Darnell Mooney",
+      "PlayerId": 2563707,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 94,
+      "TotalPoints": 2
+    },
+    {
+      "_id": 734,
+      "PlayerName": "DJ Turner",
+      "PlayerId": 2565666,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 95,
+      "TotalPoints": 2
+    },
+    {
+      "_id": 735,
+      "PlayerName": "Olamide Zaccheaus",
+      "PlayerId": 2562808,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 96,
+      "TotalPoints": 2
+    },
+    {
+      "_id": 736,
+      "PlayerName": "KhaDarel Hodge",
+      "PlayerId": 2561653,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 97,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 737,
+      "PlayerName": "Scott Miller",
+      "PlayerId": 2562865,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 98,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 738,
+      "PlayerName": "Jordan Whittington",
+      "PlayerId": 2572216,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 99,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 739,
+      "PlayerName": "Dontayvion Wicks",
+      "PlayerId": 2569759,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 100,
+      "TotalPoints": 1.5
+    },
+    {
+      "_id": 740,
+      "PlayerName": "DeAndre Hopkins",
+      "PlayerId": 2540165,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 101,
+      "TotalPoints": 1.3
+    },
+    {
+      "_id": 741,
+      "PlayerName": "Calvin Austin III",
+      "PlayerId": 2568132,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 102,
+      "TotalPoints": 1.2
+    },
+    {
+      "_id": 742,
+      "PlayerName": "Kalif Raymond",
+      "PlayerId": 2556661,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 103,
+      "TotalPoints": 1.2
+    },
+    {
+      "_id": 743,
+      "PlayerName": "Nelson Agholor",
+      "PlayerId": 2552600,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 104,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 744,
+      "PlayerName": "DeAndre Carter",
+      "PlayerId": 2553502,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 105,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 745,
+      "PlayerName": "Trenton Irwin",
+      "PlayerId": 2562900,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 106,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 746,
+      "PlayerName": "Ja'Lynn Polk",
+      "PlayerId": 2572300,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 107,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 747,
+      "PlayerName": "Mason Tipton",
+      "PlayerId": 2573403,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 108,
+      "TotalPoints": 1.1
+    },
+    {
+      "_id": 748,
+      "PlayerName": "Jamison Crowder",
+      "PlayerId": 2552415,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 109,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 749,
+      "PlayerName": "Bo Melton",
+      "PlayerId": 2568261,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 110,
+      "TotalPoints": 1
+    },
+    {
+      "_id": 750,
+      "PlayerName": "Derius Davis",
+      "PlayerId": 2570272,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 111,
+      "TotalPoints": 0.9
+    },
+    {
+      "_id": 751,
+      "PlayerName": "Marvin Harrison Jr.",
+      "PlayerId": 2572411,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 112,
+      "TotalPoints": 0.9
+    },
+    {
+      "_id": 752,
+      "PlayerName": "Treylon Burks",
+      "PlayerId": 2567643,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 113,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 753,
+      "PlayerName": "Xavier Hutchinson",
+      "PlayerId": 2569825,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 114,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 754,
+      "PlayerName": "Cedric Tillman",
+      "PlayerId": 2569681,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 115,
+      "TotalPoints": 0.8
+    },
+    {
+      "_id": 755,
+      "PlayerName": "Adonai Mitchell",
+      "PlayerId": 2572129,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 116,
+      "TotalPoints": 0.7
+    },
+    {
+      "_id": 756,
+      "PlayerName": "Van Jefferson",
+      "PlayerId": 2564358,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 117,
+      "TotalPoints": 0.6
+    },
+    {
+      "_id": 757,
+      "PlayerName": "Velus Jones Jr.",
+      "PlayerId": 2567409,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 118,
+      "TotalPoints": 0.4
+    },
+    {
+      "_id": 758,
+      "PlayerName": "Devin Duvernay",
+      "PlayerId": 2563551,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 119,
+      "TotalPoints": 0.3
+    },
+    {
+      "_id": 759,
+      "PlayerName": "Maurice Alexander",
+      "PlayerId": 2569528,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 120,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 760,
+      "PlayerName": "Josh Ali",
+      "PlayerId": 2569533,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 121,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 761,
+      "PlayerName": "Kazmeir Allen",
+      "PlayerId": 2571641,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 122,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 762,
+      "PlayerName": "Daniel Arias",
+      "PlayerId": 2571074,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 123,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 763,
+      "PlayerName": "Ayir Asante",
+      "PlayerId": 2573488,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 124,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 764,
+      "PlayerName": "Tutu Atwell",
+      "PlayerId": 2566196,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 125,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 765,
+      "PlayerName": "Kevin Austin Jr.",
+      "PlayerId": 2568954,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 126,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 766,
+      "PlayerName": "Andre Baccellia",
+      "PlayerId": 2564250,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 127,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 767,
+      "PlayerName": "Alex Bachman",
+      "PlayerId": 2563301,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 128,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 768,
+      "PlayerName": "Javon Baker",
+      "PlayerId": 2572285,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 129,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 769,
+      "PlayerName": "Jelani Baker",
+      "PlayerId": 2572588,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 130,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 770,
+      "PlayerName": "Kawaan Baker",
+      "PlayerId": 2566349,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 131,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 771,
+      "PlayerName": "Daylen Baldwin",
+      "PlayerId": 2569519,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 132,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 772,
+      "PlayerName": "Michael Bandy",
+      "PlayerId": 2567175,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 133,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 773,
+      "PlayerName": "Odell Beckham Jr.",
+      "PlayerId": 2543496,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 134,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 774,
+      "PlayerName": "David Bell",
+      "PlayerId": 2567460,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 135,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 775,
+      "PlayerName": "Ronnie Bell",
+      "PlayerId": 2570290,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 136,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 776,
+      "PlayerName": "Braxton Berrios",
+      "PlayerId": 2560975,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 137,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 777,
+      "PlayerName": "Tarik Black",
+      "PlayerId": 2565594,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 138,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 778,
+      "PlayerName": "Chris Blair",
+      "PlayerId": 2565588,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 139,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 779,
+      "PlayerName": "Jake Bobo",
+      "PlayerId": 2571378,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 140,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 780,
+      "PlayerName": "Kendrick Bourne",
+      "PlayerId": 2558914,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 141,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 781,
+      "PlayerName": "Kayshon Boutte",
+      "PlayerId": 2570092,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 142,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 782,
+      "PlayerName": "Miles Boykin",
+      "PlayerId": 2562631,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 143,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 783,
+      "PlayerName": "Phillip Brooks",
+      "PlayerId": 2572814,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 144,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 784,
+      "PlayerName": "Ahmarean Brown",
+      "PlayerId": 2573019,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 145,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 785,
+      "PlayerName": "Dyami Brown",
+      "PlayerId": 2566586,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 146,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 786,
+      "PlayerName": "Marquise Brown",
+      "PlayerId": 2562379,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 147,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 787,
+      "PlayerName": "Noah Brown",
+      "PlayerId": 2558091,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 148,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 788,
+      "PlayerName": "Reggie Brown",
+      "PlayerId": 2572817,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 149,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 789,
+      "PlayerName": "Jason Brownlee",
+      "PlayerId": 2570608,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 150,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 790,
+      "PlayerName": "Martavis Bryant",
+      "PlayerId": 2543572,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 151,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 791,
+      "PlayerName": "Cole Burgess",
+      "PlayerId": 2572983,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 152,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 792,
+      "PlayerName": "Deontay Burnett",
+      "PlayerId": 2560985,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 153,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 793,
+      "PlayerName": "Je'Quan Burton",
+      "PlayerId": 2573253,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 154,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 794,
+      "PlayerName": "Jermaine Burton",
+      "PlayerId": 2571922,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 155,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 795,
+      "PlayerName": "Hakeem Butler",
+      "PlayerId": 2562491,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 156,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 796,
+      "PlayerName": "Terrell Bynum",
+      "PlayerId": 2571569,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 157,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 797,
+      "PlayerName": "Damiere Byrd",
+      "PlayerId": 2553499,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 158,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 798,
+      "PlayerName": "Deon Cain",
+      "PlayerId": 2560987,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 159,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 799,
+      "PlayerName": "Jalon Calhoun",
+      "PlayerId": 2573112,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 160,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 800,
+      "PlayerName": "Marquez Callaway",
+      "PlayerId": 2565310,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 161,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 801,
+      "PlayerName": "Jalen Camp",
+      "PlayerId": 2566148,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 162,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 802,
+      "PlayerName": "Parris Campbell",
+      "PlayerId": 2562495,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 163,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 803,
+      "PlayerName": "Devin Carter",
+      "PlayerId": 2573883,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 164,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 804,
+      "PlayerName": "Joshua Cephus",
+      "PlayerId": 2573193,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 165,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 805,
+      "PlayerName": "Quintez Cephus",
+      "PlayerId": 2563926,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 166,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 806,
+      "PlayerName": "DJ Chark",
+      "PlayerId": 2561018,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 167,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 807,
+      "PlayerName": "Irvin Charles",
+      "PlayerId": 2568021,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 168,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 808,
+      "PlayerName": "Dan Chisena",
+      "PlayerId": 2564514,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 169,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 809,
+      "PlayerName": "Robbie Chosen",
+      "PlayerId": 2556462,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 170,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 810,
+      "PlayerName": "Chase Claypool",
+      "PlayerId": 2564970,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 171,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 811,
+      "PlayerName": "Tyrie Cleveland",
+      "PlayerId": 2563881,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 172,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 812,
+      "PlayerName": "Jalen Coker",
+      "PlayerId": 2572920,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 173,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 813,
+      "PlayerName": "Chris Conley",
+      "PlayerId": 2552652,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 174,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 814,
+      "PlayerName": "Elijah Cooks",
+      "PlayerId": 2571029,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 175,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 815,
+      "PlayerName": "Jacob Copeland",
+      "PlayerId": 2571473,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 176,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 816,
+      "PlayerName": "Malachi Corley",
+      "PlayerId": 2572357,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 177,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 817,
+      "PlayerName": "Chase Cota",
+      "PlayerId": 2570948,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 178,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 818,
+      "PlayerName": "Britain Covey",
+      "PlayerId": 2568066,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 179,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 819,
+      "PlayerName": "Jacob Cowing",
+      "PlayerId": 2572492,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 180,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 820,
+      "PlayerName": "River Cracraft",
+      "PlayerId": 2559485,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 181,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 821,
+      "PlayerName": "Corey Crooms",
+      "PlayerId": 2573043,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 182,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 822,
+      "PlayerName": "Frank Darby",
+      "PlayerId": 2565812,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 183,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 823,
+      "PlayerName": "Jaelon Darden",
+      "PlayerId": 2566562,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 184,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 824,
+      "PlayerName": "Daewood Davis",
+      "PlayerId": 2571168,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 185,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 825,
+      "PlayerName": "Davion Davis",
+      "PlayerId": 2562985,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 186,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 826,
+      "PlayerName": "Kaden Davis",
+      "PlayerId": 2568732,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 187,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 827,
+      "PlayerName": "Shaquan Davis",
+      "PlayerId": 2571255,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 188,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 828,
+      "PlayerName": "Phillip Dorsett",
+      "PlayerId": 2552424,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 189,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 829,
+      "PlayerName": "Keelan Doss",
+      "PlayerId": 2562393,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 190,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 830,
+      "PlayerName": "Jahan Dotson",
+      "PlayerId": 2568321,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 191,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 831,
+      "PlayerName": "Colton Dowell",
+      "PlayerId": 2569801,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 192,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 832,
+      "PlayerName": "Josh Downs",
+      "PlayerId": 2569861,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 193,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 833,
+      "PlayerName": "Dylan Drummond",
+      "PlayerId": 2571446,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 194,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 834,
+      "PlayerName": "Grant DuBose",
+      "PlayerId": 2569786,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 195,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 835,
+      "PlayerName": "David Durden",
+      "PlayerId": 2570876,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 196,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 836,
+      "PlayerName": "Brevin Easton",
+      "PlayerId": 2573692,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 197,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 837,
+      "PlayerName": "Hamze El-Zayat",
+      "PlayerId": 2573823,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 198,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 838,
+      "PlayerName": "D'Wayne Eskridge",
+      "PlayerId": 2566553,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 199,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 839,
+      "PlayerName": "Erik Ezukanma",
+      "PlayerId": 2567889,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 200,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 840,
+      "PlayerName": "Simi Fehoko",
+      "PlayerId": 2566004,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 201,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 841,
+      "PlayerName": "Ethan Fernea",
+      "PlayerId": 2568903,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 202,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 842,
+      "PlayerName": "Dez Fitzpatrick",
+      "PlayerId": 2566109,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 203,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 843,
+      "PlayerName": "Ryan Flournoy",
+      "PlayerId": 2571970,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 204,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 844,
+      "PlayerName": "Bryce Ford-Wheaton",
+      "PlayerId": 2570590,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 205,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 845,
+      "PlayerName": "Jeff Foreman",
+      "PlayerId": 2573214,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 206,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 846,
+      "PlayerName": "Daurice Fountain",
+      "PlayerId": 2559921,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 207,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 847,
+      "PlayerName": "Troy Franklin",
+      "PlayerId": 2571997,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 208,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 848,
+      "PlayerName": "Russell Gage",
+      "PlayerId": 2561061,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 209,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 849,
+      "PlayerName": "Michael Gallup",
+      "PlayerId": 2560735,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 210,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 850,
+      "PlayerName": "Izaiah Gathings",
+      "PlayerId": 2571530,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 211,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 851,
+      "PlayerName": "Jaelen Gill",
+      "PlayerId": 2573785,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 212,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 852,
+      "PlayerName": "Xavier Gipson",
+      "PlayerId": 2570614,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 213,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 853,
+      "PlayerName": "Anthony Gould",
+      "PlayerId": 2572120,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 214,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 854,
+      "PlayerName": "Jakeem Grant",
+      "PlayerId": 2556190,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 215,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 855,
+      "PlayerName": "Danny Gray",
+      "PlayerId": 2568210,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 216,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 856,
+      "PlayerName": "Antoine Green",
+      "PlayerId": 2569732,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 217,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 857,
+      "PlayerName": "Lideatrick Griffin",
+      "PlayerId": 2573630,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 218,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 858,
+      "PlayerName": "Jalen Guyton",
+      "PlayerId": 2562844,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 219,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 859,
+      "PlayerName": "Justin Hall",
+      "PlayerId": 2568978,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 220,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 860,
+      "PlayerName": "KJ Hamler",
+      "PlayerId": 2563890,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 221,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 861,
+      "PlayerName": "Mecole Hardman",
+      "PlayerId": 2562580,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 222,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 862,
+      "PlayerName": "DeAngelo Hardy",
+      "PlayerId": 2572615,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 223,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 863,
+      "PlayerName": "Mike Harley Jr.",
+      "PlayerId": 2568636,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 224,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 864,
+      "PlayerName": "Kelvin Harmon",
+      "PlayerId": 2562577,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 225,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 865,
+      "PlayerName": "Devron Harper",
+      "PlayerId": 2573292,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 226,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 866,
+      "PlayerName": "Tyler Harrell",
+      "PlayerId": 2572687,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 227,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 867,
+      "PlayerName": "Keilahn Harris",
+      "PlayerId": 2570753,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 228,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 868,
+      "PlayerName": "Tre'Shaun Harrison",
+      "PlayerId": 2571449,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 229,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 869,
+      "PlayerName": "N'Keal Harry",
+      "PlayerId": 2562659,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 230,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 870,
+      "PlayerName": "Deonte Harty",
+      "PlayerId": 2563155,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 231,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 871,
+      "PlayerName": "Hayden Hatten",
+      "PlayerId": 2572765,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 232,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 872,
+      "PlayerName": "Jaaron Hayek",
+      "PlayerId": 2572870,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 233,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 873,
+      "PlayerName": "Malik Heath",
+      "PlayerId": 2570518,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 234,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 874,
+      "PlayerName": "Griffin Hebert",
+      "PlayerId": 2571408,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 235,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 875,
+      "PlayerName": "Julian Hicks",
+      "PlayerId": 2572799,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 236,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 876,
+      "PlayerName": "Tee Higgins",
+      "PlayerId": 2563731,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 237,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 877,
+      "PlayerName": "OJ Hiliare",
+      "PlayerId": 2573858,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 238,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 878,
+      "PlayerName": "Isaiah Hodgins",
+      "PlayerId": 2563611,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 239,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 879,
+      "PlayerName": "Dennis Houston",
+      "PlayerId": 2568693,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 240,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 880,
+      "PlayerName": "Lil'Jordan Humphrey",
+      "PlayerId": 2562668,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 241,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 881,
+      "PlayerName": "Jalin Hyatt",
+      "PlayerId": 2570152,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 242,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 882,
+      "PlayerName": "Andy Isabella",
+      "PlayerId": 2562669,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 243,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 883,
+      "PlayerName": "Qadir Ismail",
+      "PlayerId": 2573857,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 244,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 884,
+      "PlayerName": "JaQuae Jackson",
+      "PlayerId": 2572875,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 245,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 885,
+      "PlayerName": "Jermaine Jackson",
+      "PlayerId": 2573376,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 246,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 886,
+      "PlayerName": "Jha'Quan Jackson",
+      "PlayerId": 2572069,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 247,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 887,
+      "PlayerName": "John Jackson",
+      "PlayerId": 2573843,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 248,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 888,
+      "PlayerName": "Kearis Jackson",
+      "PlayerId": 2571458,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 249,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 889,
+      "PlayerName": "Lucky Jackson",
+      "PlayerId": 2571730,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 250,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 890,
+      "PlayerName": "Shedrick Jackson",
+      "PlayerId": 2570828,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 251,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 891,
+      "PlayerName": "Trishton Jackson",
+      "PlayerId": 2564355,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 252,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 892,
+      "PlayerName": "Ty James",
+      "PlayerId": 2573295,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 253,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 893,
+      "PlayerName": "Jadon Janke",
+      "PlayerId": 2573157,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 254,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 894,
+      "PlayerName": "Jaxon Janke",
+      "PlayerId": 2573160,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 255,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 895,
+      "PlayerName": "Rakim Jarrett",
+      "PlayerId": 2571575,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 256,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 896,
+      "PlayerName": "Jaray Jenkins",
+      "PlayerId": 2571044,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 257,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 897,
+      "PlayerName": "John Jiles",
+      "PlayerId": 2573491,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 258,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 898,
+      "PlayerName": "Brandon Johnson",
+      "PlayerId": 2568738,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 259,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 899,
+      "PlayerName": "Cam Johnson",
+      "PlayerId": 2573052,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 260,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 900,
+      "PlayerName": "Cephus Johnson III",
+      "PlayerId": 2571219,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 261,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 901,
+      "PlayerName": "Collin Johnson",
+      "PlayerId": 2564202,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 262,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 902,
+      "PlayerName": "Cornelius Johnson",
+      "PlayerId": 2572474,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 263,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 903,
+      "PlayerName": "Jaylen Johnson",
+      "PlayerId": 2573791,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 264,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 904,
+      "PlayerName": "Johnny Johnson III",
+      "PlayerId": 2568879,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 265,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 905,
+      "PlayerName": "Kameron Johnson",
+      "PlayerId": 2573572,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 266,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 906,
+      "PlayerName": "Leon Johnson",
+      "PlayerId": 2573430,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 267,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 907,
+      "PlayerName": "Tyron Johnson",
+      "PlayerId": 2562932,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 268,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 908,
+      "PlayerName": "Xavier Johnson",
+      "PlayerId": 2572911,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 269,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 909,
+      "PlayerName": "Jeshaun Jones",
+      "PlayerId": 2573298,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 270,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 910,
+      "PlayerName": "Julio Jones",
+      "PlayerId": 2495454,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 271,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 911,
+      "PlayerName": "Latreal Jones",
+      "PlayerId": 2573578,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 272,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 912,
+      "PlayerName": "Tim Jones",
+      "PlayerId": 2565624,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 273,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 913,
+      "PlayerName": "Zay Jones",
+      "PlayerId": 2557863,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 274,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 914,
+      "PlayerName": "Tom Kennedy",
+      "PlayerId": 2563319,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 275,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 915,
+      "PlayerName": "Lawrence Keys",
+      "PlayerId": 2573650,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 276,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 916,
+      "PlayerName": "Ramel Keyton",
+      "PlayerId": 2573232,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 277,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 917,
+      "PlayerName": "Mason Kinsey",
+      "PlayerId": 2565459,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 278,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 918,
+      "PlayerName": "Jontre Kirklin",
+      "PlayerId": 2569173,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 279,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 919,
+      "PlayerName": "Keith Kirkwood",
+      "PlayerId": 2561224,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 280,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 920,
+      "PlayerName": "Malik Knowles",
+      "PlayerId": 2571216,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 281,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 921,
+      "PlayerName": "Tanner Knue",
+      "PlayerId": 2573581,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 282,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 922,
+      "PlayerName": "JJ Laap",
+      "PlayerId": 2573722,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 283,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 923,
+      "PlayerName": "Matt Landers",
+      "PlayerId": 2571351,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 284,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 924,
+      "PlayerName": "Kwamie Lassiter II",
+      "PlayerId": 2568606,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 285,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 925,
+      "PlayerName": "Peter LeBlanc",
+      "PlayerId": 2572965,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 286,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 926,
+      "PlayerName": "T.J. Luther",
+      "PlayerId": 2570599,
+      "Pos": "WR",
+      "Team": "GB",
+      "Rank": 287,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 927,
+      "PlayerName": "Austin Mack",
+      "PlayerId": 2564760,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 288,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 928,
+      "PlayerName": "Terrace Marshall Jr.",
+      "PlayerId": 2565902,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 289,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 929,
+      "PlayerName": "Tay Martin",
+      "PlayerId": 2569254,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 290,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 930,
+      "PlayerName": "Jesse Matthews",
+      "PlayerId": 2571011,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 291,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 931,
+      "PlayerName": "Jordan Matthews",
+      "PlayerId": 2543500,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 292,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 932,
+      "PlayerName": "Lance McCutcheon",
+      "PlayerId": 2567847,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 293,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 933,
+      "PlayerName": "Kyric McGowan",
+      "PlayerId": 2568459,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 294,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 934,
+      "PlayerName": "Isaiah McKenzie",
+      "PlayerId": 2558129,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 295,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 935,
+      "PlayerName": "Racey McMath",
+      "PlayerId": 2566112,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 296,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 936,
+      "PlayerName": "Bub Means",
+      "PlayerId": 2572324,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 297,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 937,
+      "PlayerName": "John Metchie III",
+      "PlayerId": 2567682,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 298,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 938,
+      "PlayerName": "Anthony Miller",
+      "PlayerId": 2560810,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 299,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 939,
+      "PlayerName": "Ryan Miller",
+      "PlayerId": 2571596,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 300,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 940,
+      "PlayerName": "Dax Milne",
+      "PlayerId": 2566601,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 301,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 941,
+      "PlayerName": "Denzel Mims",
+      "PlayerId": 2564802,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 302,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 942,
+      "PlayerName": "Marvin Mims Jr.",
+      "PlayerId": 2569717,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 303,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 943,
+      "PlayerName": "D.J. Montgomery",
+      "PlayerId": 2562827,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 304,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 944,
+      "PlayerName": "Chris Moore",
+      "PlayerId": 2555209,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 305,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 945,
+      "PlayerName": "Rondale Moore",
+      "PlayerId": 2566433,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 306,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 946,
+      "PlayerName": "Skyy Moore",
+      "PlayerId": 2567805,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 307,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 947,
+      "PlayerName": "Jalen Moreno-Cropper",
+      "PlayerId": 2570870,
+      "Pos": "WR",
+      "Team": "DAL",
+      "Rank": 308,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 948,
+      "PlayerName": "Stanley Morgan",
+      "PlayerId": 2562504,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 309,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 949,
+      "PlayerName": "Tre Mosley",
+      "PlayerId": 2573010,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 310,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 950,
+      "PlayerName": "Samson Nacua",
+      "PlayerId": 2568915,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 311,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 951,
+      "PlayerName": "Joseph Ngata",
+      "PlayerId": 2570638,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 312,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 952,
+      "PlayerName": "Praise Olatoke",
+      "PlayerId": 2573873,
+      "Pos": "WR",
+      "Team": "CAR",
+      "Rank": 313,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 953,
+      "PlayerName": "Bryce Oliver",
+      "PlayerId": 2573473,
+      "Pos": "WR",
+      "Team": "TEN",
+      "Rank": 314,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 954,
+      "PlayerName": "Gunner Olszewski",
+      "PlayerId": 2563329,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 315,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 955,
+      "PlayerName": "Terique Owens",
+      "PlayerId": 2573539,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 316,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 956,
+      "PlayerName": "Tejhaun Palmer",
+      "PlayerId": 2572423,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 317,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 957,
+      "PlayerName": "DeVante Parker",
+      "PlayerId": 2552409,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 318,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 958,
+      "PlayerName": "Zach Pascal",
+      "PlayerId": 2558877,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 319,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 959,
+      "PlayerName": "Tim Patrick",
+      "PlayerId": 2558985,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 320,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 960,
+      "PlayerName": "Ricky Pearsall",
+      "PlayerId": 2572507,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 321,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 961,
+      "PlayerName": "Donovan Peoples-Jones",
+      "PlayerId": 2563803,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 322,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 962,
+      "PlayerName": "A.T. Perry",
+      "PlayerId": 2570137,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 323,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 963,
+      "PlayerName": "Dante Pettis",
+      "PlayerId": 2560836,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 324,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 964,
+      "PlayerName": "Kyle Philips",
+      "PlayerId": 2567664,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 325,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 965,
+      "PlayerName": "Sam Pinckney",
+      "PlayerId": 2572938,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 326,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 966,
+      "PlayerName": "Thyrick Pitts",
+      "PlayerId": 2570464,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 327,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 967,
+      "PlayerName": "Brandon Powell",
+      "PlayerId": 2561261,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 328,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 968,
+      "PlayerName": "Cornell Powell",
+      "PlayerId": 2566187,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 329,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 969,
+      "PlayerName": "Byron Pringle",
+      "PlayerId": 2560844,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 330,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 970,
+      "PlayerName": "James Proche",
+      "PlayerId": 2563572,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 331,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 971,
+      "PlayerName": "Kendric Pryor",
+      "PlayerId": 2568612,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 332,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 972,
+      "PlayerName": "Jalen Reagor",
+      "PlayerId": 2564850,
+      "Pos": "WR",
+      "Team": "NE",
+      "Rank": 333,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 973,
+      "PlayerName": "Nikko Remigio",
+      "PlayerId": 2570692,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 334,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 974,
+      "PlayerName": "Brenden Rice",
+      "PlayerId": 2572480,
+      "Pos": "WR",
+      "Team": "LAC",
+      "Rank": 335,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 975,
+      "PlayerName": "Marcus Riley",
+      "PlayerId": 2572711,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 336,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 976,
+      "PlayerName": "Allen Robinson",
+      "PlayerId": 2543509,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 337,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 977,
+      "PlayerName": "Tayvion Robinson",
+      "PlayerId": 2572633,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 338,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 978,
+      "PlayerName": "Marcus Rosemy-Jacksaint",
+      "PlayerId": 2573611,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 339,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 979,
+      "PlayerName": "John Ross",
+      "PlayerId": 2558010,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 340,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 980,
+      "PlayerName": "Justyn Ross",
+      "PlayerId": 2568432,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 341,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 981,
+      "PlayerName": "Wayne Ruby",
+      "PlayerId": 2573707,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 342,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 982,
+      "PlayerName": "Sean Ryan",
+      "PlayerId": 2570413,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 343,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 983,
+      "PlayerName": "Braylon Sanders",
+      "PlayerId": 2569038,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 344,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 984,
+      "PlayerName": "Joseph Scates",
+      "PlayerId": 2573710,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 345,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 985,
+      "PlayerName": "Anthony Schwartz",
+      "PlayerId": 2565986,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 346,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 986,
+      "PlayerName": "Ty Scott",
+      "PlayerId": 2570737,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 347,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 987,
+      "PlayerName": "Tyler Scott",
+      "PlayerId": 2569630,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 348,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 988,
+      "PlayerName": "Zavier Scott",
+      "PlayerId": 2570563,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 349,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 989,
+      "PlayerName": "Mathew Sexton",
+      "PlayerId": 2565792,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 350,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 990,
+      "PlayerName": "Tyrell Shavers",
+      "PlayerId": 2571425,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 351,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 991,
+      "PlayerName": "Kyle Sheets",
+      "PlayerId": 2573397,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 352,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 992,
+      "PlayerName": "Sterling Shepard",
+      "PlayerId": 2555295,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 353,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 993,
+      "PlayerName": "Trent Sherfield",
+      "PlayerId": 2561272,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 354,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 994,
+      "PlayerName": "Justin Shorter",
+      "PlayerId": 2569579,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 355,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 995,
+      "PlayerName": "David Sills",
+      "PlayerId": 2562732,
+      "Pos": "WR",
+      "Team": "DEN",
+      "Rank": 356,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 996,
+      "PlayerName": "Marcus Simms",
+      "PlayerId": 2563340,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 357,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 997,
+      "PlayerName": "Cam Sims",
+      "PlayerId": 2561067,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 358,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 998,
+      "PlayerName": "Steven Sims",
+      "PlayerId": 2563033,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 359,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 999,
+      "PlayerName": "Ben Skowronek",
+      "PlayerId": 2566247,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 360,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1000,
+      "PlayerName": "Ainias Smith",
+      "PlayerId": 2572393,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 361,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1001,
+      "PlayerName": "Brandon Smith",
+      "PlayerId": 2566839,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 362,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1002,
+      "PlayerName": "Jeff Smith",
+      "PlayerId": 2562845,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 363,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1003,
+      "PlayerName": "Shi Smith",
+      "PlayerId": 2565908,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 364,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1004,
+      "PlayerName": "Tre'Quan Smith",
+      "PlayerId": 2560878,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 365,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1005,
+      "PlayerName": "Xavier Smith",
+      "PlayerId": 2570002,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 366,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1006,
+      "PlayerName": "Ihmir Smith-Marsette",
+      "PlayerId": 2566319,
+      "Pos": "WR",
+      "Team": "NYG",
+      "Rank": 367,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1007,
+      "PlayerName": "JuJu Smith-Schuster",
+      "PlayerId": 2558149,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 368,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1008,
+      "PlayerName": "Willie Snead",
+      "PlayerId": 2550256,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 369,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1009,
+      "PlayerName": "Equanimeous St. Brown",
+      "PlayerId": 2560883,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 370,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1010,
+      "PlayerName": "Dimitri Stanley",
+      "PlayerId": 2572802,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 371,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1011,
+      "PlayerName": "Rory Starkey",
+      "PlayerId": 2573880,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 372,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1012,
+      "PlayerName": "Drake Stoops",
+      "PlayerId": 2573746,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 373,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1013,
+      "PlayerName": "Mike Strachan",
+      "PlayerId": 2565615,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 374,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1014,
+      "PlayerName": "Freddie Swain",
+      "PlayerId": 2565195,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 375,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1015,
+      "PlayerName": "Malik Taylor",
+      "PlayerId": 2562995,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 376,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1016,
+      "PlayerName": "Trent Taylor",
+      "PlayerId": 2558202,
+      "Pos": "WR",
+      "Team": "SF",
+      "Rank": 377,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1017,
+      "PlayerName": "Michael Thomas",
+      "PlayerId": 2556370,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 378,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1018,
+      "PlayerName": "Thayer Thomas",
+      "PlayerId": 2571213,
+      "Pos": "WR",
+      "Team": "MIN",
+      "Rank": 379,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1019,
+      "PlayerName": "Deven Thompkins",
+      "PlayerId": 2569314,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 380,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1020,
+      "PlayerName": "Bryan Thompson",
+      "PlayerId": 2571428,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 381,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1021,
+      "PlayerName": "Cody Thompson",
+      "PlayerId": 2562759,
+      "Pos": "WR",
+      "Team": "TB",
+      "Rank": 382,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1022,
+      "PlayerName": "Jamari Thrash",
+      "PlayerId": 2571955,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 383,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1023,
+      "PlayerName": "Mitchell Tinsley",
+      "PlayerId": 2571650,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 384,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1024,
+      "PlayerName": "Kadarius Toney",
+      "PlayerId": 2566376,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 385,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1025,
+      "PlayerName": "Samori Toure",
+      "PlayerId": 2567628,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 386,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1026,
+      "PlayerName": "Austin Trammell",
+      "PlayerId": 2566728,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 387,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1027,
+      "PlayerName": "Laquon Treadwell",
+      "PlayerId": 2555214,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 388,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1028,
+      "PlayerName": "Brycen Tremayne",
+      "PlayerId": 2571665,
+      "Pos": "WR",
+      "Team": "WAS",
+      "Rank": 389,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1029,
+      "PlayerName": "Malik Turner",
+      "PlayerId": 2561671,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 390,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1030,
+      "PlayerName": "Lincoln Victor",
+      "PlayerId": 2573103,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 391,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1031,
+      "PlayerName": "Jalen Virgil",
+      "PlayerId": 2568756,
+      "Pos": "WR",
+      "Team": "BUF",
+      "Rank": 392,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1032,
+      "PlayerName": "Dayton Wade",
+      "PlayerId": 2572645,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 393,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1033,
+      "PlayerName": "Devontez Walker",
+      "PlayerId": 2571844,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 394,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1034,
+      "PlayerName": "Tylan Wallace",
+      "PlayerId": 2565857,
+      "Pos": "WR",
+      "Team": "BAL",
+      "Rank": 395,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1035,
+      "PlayerName": "David Wallis",
+      "PlayerId": 2573865,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 396,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1036,
+      "PlayerName": "Greg Ward",
+      "PlayerId": 2559278,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 397,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1037,
+      "PlayerName": "Casey Washington",
+      "PlayerId": 2571820,
+      "Pos": "WR",
+      "Team": "ATL",
+      "Rank": 398,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1038,
+      "PlayerName": "Isaiah Washington",
+      "PlayerId": 2572651,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 399,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1039,
+      "PlayerName": "James Washington",
+      "PlayerId": 2560920,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 400,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1040,
+      "PlayerName": "Malik Washington",
+      "PlayerId": 2572255,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 401,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1041,
+      "PlayerName": "Montrell Washington",
+      "PlayerId": 2567538,
+      "Pos": "WR",
+      "Team": "KC",
+      "Rank": 402,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1042,
+      "PlayerName": "Scotty Washington",
+      "PlayerId": 2563743,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 403,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1043,
+      "PlayerName": "Tahj Washington",
+      "PlayerId": 2572258,
+      "Pos": "WR",
+      "Team": "MIA",
+      "Rank": 404,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1044,
+      "PlayerName": "Austin Watkins Jr.",
+      "PlayerId": 2567091,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 405,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1045,
+      "PlayerName": "Quez Watkins",
+      "PlayerId": 2564880,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 406,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1046,
+      "PlayerName": "Duece Watts",
+      "PlayerId": 2570506,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 407,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1047,
+      "PlayerName": "Jalen Wayne",
+      "PlayerId": 2570774,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 408,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1048,
+      "PlayerName": "Jared Wayne",
+      "PlayerId": 2571017,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 409,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1049,
+      "PlayerName": "Xavier Weaver",
+      "PlayerId": 2573412,
+      "Pos": "WR",
+      "Team": "ARI",
+      "Rank": 410,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1050,
+      "PlayerName": "Raleigh Webb",
+      "PlayerId": 2568378,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 411,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1051,
+      "PlayerName": "Nsimba Webster",
+      "PlayerId": 2563316,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 412,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1052,
+      "PlayerName": "Cody White",
+      "PlayerId": 2564313,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 413,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1053,
+      "PlayerName": "David White Jr.",
+      "PlayerId": 2573202,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 414,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1054,
+      "PlayerName": "Xavier White",
+      "PlayerId": 2573184,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 415,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1055,
+      "PlayerName": "Sam Wiglusz",
+      "PlayerId": 2573752,
+      "Pos": "WR",
+      "Team": "LAR",
+      "Rank": 416,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1056,
+      "PlayerName": "Kristian Wilkerson",
+      "PlayerId": 2565480,
+      "Pos": "WR",
+      "Team": "LV",
+      "Rank": 417,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1057,
+      "PlayerName": "Isaiah Williams",
+      "PlayerId": 2573154,
+      "Pos": "WR",
+      "Team": "DET",
+      "Rank": 418,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1058,
+      "PlayerName": "Mike Williams",
+      "PlayerId": 2558846,
+      "Pos": "WR",
+      "Team": "NYJ",
+      "Rank": 419,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1059,
+      "PlayerName": "Seth Williams",
+      "PlayerId": 2566052,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 420,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1060,
+      "PlayerName": "Johnny Wilson",
+      "PlayerId": 2572399,
+      "Pos": "WR",
+      "Team": "PHI",
+      "Rank": 421,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1061,
+      "PlayerName": "Roman Wilson",
+      "PlayerId": 2572459,
+      "Pos": "WR",
+      "Team": "PIT",
+      "Rank": 422,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1062,
+      "PlayerName": "Juwann Winfree",
+      "PlayerId": 2562956,
+      "Pos": "WR",
+      "Team": "IND",
+      "Rank": 423,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1063,
+      "PlayerName": "Isaiah Winstead",
+      "PlayerId": 2571324,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 424,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1064,
+      "PlayerName": "Easop Winston",
+      "PlayerId": 2564406,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 425,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1065,
+      "PlayerName": "Isaiah Wooden",
+      "PlayerId": 2572899,
+      "Pos": "WR",
+      "Team": "FA",
+      "Rank": 426,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1066,
+      "PlayerName": "Mike Woods",
+      "PlayerId": 2567481,
+      "Pos": "WR",
+      "Team": "CLE",
+      "Rank": 427,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1067,
+      "PlayerName": "Robert Woods",
+      "PlayerId": 2540169,
+      "Pos": "WR",
+      "Team": "HOU",
+      "Rank": 428,
+      "TotalPoints": 0
+    },
+    {
+      "_id": 1068,
+      "PlayerName": "Parker Washington",
+      "PlayerId": 2569888,
+      "Pos": "WR",
+      "Team": "JAX",
+      "Rank": 429,
+      "TotalPoints": -0.2
+    },
+    {
+      "_id": 1069,
+      "PlayerName": "Rome Odunze",
+      "PlayerId": 2571907,
+      "Pos": "WR",
+      "Team": "CHI",
+      "Rank": 430,
+      "TotalPoints": -0.4
+    },
+    {
+      "_id": 1070,
+      "PlayerName": "Charlie Jones",
+      "PlayerId": 2569645,
+      "Pos": "WR",
+      "Team": "CIN",
+      "Rank": 431,
+      "TotalPoints": -1
+    },
+    {
+      "_id": 1071,
+      "PlayerName": "Cedrick Wilson Jr.",
+      "PlayerId": 2560936,
+      "Pos": "WR",
+      "Team": "NO",
+      "Rank": 432,
+      "TotalPoints": -1.4
+    },
+    {
+      "_id": 1072,
+      "PlayerName": "Dee Williams",
+      "PlayerId": 2572789,
+      "Pos": "WR",
+      "Team": "SEA",
+      "Rank": 433,
+      "TotalPoints": -2
+    }
+   ]
