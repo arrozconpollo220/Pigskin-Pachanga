@@ -7,6 +7,13 @@ const Home = (props) => {
 
   const onButtonClick = () => {
     // You'll update this function later
+    if (loggedIn) {
+      
+      onLogout();
+    } else {
+      
+      navigate('/login');
+    }
   }
 
   return (

@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p>Footer</p>
+      <p>MMDR Site 👾 </p>
     </footer>
   );
 }

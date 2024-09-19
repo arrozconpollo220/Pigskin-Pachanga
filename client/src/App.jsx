@@ -1,14 +1,16 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Footer from './pages/Footer';
 import Home from './pages/Home';
 import Login from './pages/Login'; 
 import './App.css';
 import Headers from './pages/Headers'
-function App() {
-  const [email, setEmail] = useState(""); // Asegúrate de definir el estado email
-  const [loggedIn, setLoggedIn] = useState(false);
 
+
+function App() {
+  const [loggedIn, setLoggedIn] = useState(false)
+  const [email, setEmail] = useState('')
+  
   return (
     <Router>
       <div>
