@@ -23,7 +23,7 @@ const typeDefs = `
     type Team {
         _id: ID
         name: String!
-        owner: String!
+        owner: Profile!
         players: [Player]
     }
 

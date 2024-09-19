@@ -13,7 +13,10 @@ const resolvers = {
         },
 
         teams: async () => {
-            return await Team.find().populate('players');
+            return await Team.find().populate('players').populate({
+                path: 'owner',
+                select: 'name email'
+            });
         },
 
         leagues: async () => {
@@ -62,15 +65,15 @@ const resolvers = {
 
         // Creating new items
         createNewTeamInLeague: async (parent, { leagueId, teamName }, context) => {
-            try {
-                // Requires user to be logged in to add a new team
-                if(!context.user) {
-                    throw new AuthenticationError('You need to log in to create a team.');
-                }
+            // Requires user to be logged in to add a new team
+            if (!context.user) {
+                throw AuthenticationError;
+            }
 
-                const newTeam = await Team.create({ 
+            try {
+                const newTeam = await Team.create({
                     name: teamName,
-                    owner: context.user._id,
+                    owner: context.user._id
                 });
 
                 const updatedLeague = await League.findOneAndUpdate(
@@ -82,7 +85,13 @@ const resolvers = {
                         new: true,
                         runValidators: true,
                     }
-                ).populate('teams');
+                ).populate({
+                    path: 'teams',
+                    populate: {
+                        path: 'owner',
+                        select: 'name email'
+                    }
+                });
 
                 return updatedLeague;
             } catch (error) {
@@ -97,12 +106,13 @@ const resolvers = {
         addPlayerToTeam: async (parent, { teamId, playerId }, context) => {
             try {
                 // Requires user to be logged in to add a player to the team
-                if(!context.user) {
-                    throw new AuthenticationError('You need to log in to create a team.');
+                if (!context.user) {
+                    throw AuthenticationError;
                 }
                 // Requires user to be the owner of the team to add players
-                if(team.owner.toString() !== context.user._id) {
-                    throw new AuthenticationError('Only the owner can add players to a team.');
+                const team = await Team.findById(teamId);
+                if (team.owner.toString() !== context.user._id.toString()) {
+                    throw AuthenticationError;
                 }
                 // Ensures the team is assigned to a league
                 const league = await League.findOne({ teams: teamId }).populate('teams');
@@ -124,7 +134,13 @@ const resolvers = {
                         new: true,
                         runValidators: true,
                     }
-                ).populate('players');
+                ).populate({
+                    path: 'players',
+                    select: 'name nflTeam playerId pos'
+                }).populate({
+                    path: 'owner',
+                    select: 'name email'
+                });
             } catch (error) {
                 throw new Error(error.message);
             }
