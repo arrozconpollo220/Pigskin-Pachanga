@@ -1,6 +1,6 @@
 import React from 'react';
 import Auth from '../utils/auth';
-
+import NavBar from './NavBar';
 function Header() {
 
   const loggedIn = Auth.loggedIn();
@@ -9,6 +9,7 @@ function Header() {
 
   return (
     <header>
+      <NavBar/>
       <h1>Chicharron de Puerco - Pachanga</h1>
       
       {loggedIn ? (
