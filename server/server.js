@@ -22,11 +22,9 @@ const startApolloServer = async () => {
   app.use(express.json());
 
   // Use CORS middleware
-  if (process.env.NODE_ENV !== 'production') {
     app.use(cors({
       origin: '*', // Allow requests from this origin
     }));
-  }
 
   if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.join(__dirname, '../client/dist')));
