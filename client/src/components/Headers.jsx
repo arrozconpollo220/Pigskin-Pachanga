@@ -5,7 +5,6 @@ function Header() {
 
   const loggedIn = Auth.loggedIn();
   const userName = loggedIn ? Auth.getProfile().data?.name : '';
-  console.log('USERNAME: ',userName);
 
   return (
     <header>

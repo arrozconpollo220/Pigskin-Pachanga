@@ -13,7 +13,7 @@ export const QUERY_LEAGUES = gql`
             }
         }
     }
-`;  
+`;
 
 export const QUERY_TEAMS = gql`
     query getTeams {
@@ -75,6 +75,16 @@ export const QUERY_PROFILE = gql`
                 name
                 owner
             }
+        }
+    }
+`;
+
+export const QUERY_ME = gql`
+    query me {
+        me {
+            _id
+            name
+            skills
         }
     }
 `;

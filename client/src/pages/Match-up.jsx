@@ -1,4 +1,4 @@
-export default function Match-up() {
+export default function Matchup() {
     return (
       <div>
         <h2>Match Up</h2>
