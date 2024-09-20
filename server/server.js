@@ -22,13 +22,11 @@ const startApolloServer = async () => {
   app.use(express.json());
 
   // Use CORS middleware
-  app.use(cors({
-    origin: 'http://localhost:5173', // Allow requests from this origin
-  }));
-
-  app.use('/graphql', expressMiddleware(server, {
-    context: authMiddleware
-  }))
+  if (process.env.NODE_ENV !== 'production') {
+    app.use(cors({
+      origin: '*', // Allow requests from this origin
+    }));
+  }
 
   if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.join(__dirname, '../client/dist')));
@@ -37,6 +35,10 @@ const startApolloServer = async () => {
       res.sendFile(path.join(__dirname, '../client/dist/index.html'));
     });
   }
+
+  app.use('/graphql', expressMiddleware(server, {
+    context: authMiddleware
+  }))
 
   db.once('open', () => {
     app.listen(PORT, () => {
