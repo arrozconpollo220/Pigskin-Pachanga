@@ -26,12 +26,12 @@ const Login = (props) => {
   // submit form
   const handleFormSubmit = async (event) => {
     event.preventDefault();
-    console.log(formState);
+    
     try {
       const { data } = await login({
         variables: { ...formState },
       });
-
+      console.log(data);
       Auth.login(data.login.token);
     } catch (e) {
       console.error(e);
@@ -79,7 +79,7 @@ const Login = (props) => {
         <div className="titleContainer">
           <h4>Login</h4>
         </div>
-          <div className="">
+          <div>
             {data ? (
               <p>
                 Success! You may now head{' '}
@@ -127,6 +127,7 @@ const Login = (props) => {
                   >
                     Log In
                   </button>
+                  <p>...or <a href="./signup">sign up</a>!</p>
                 </div>
               </form>
             )}

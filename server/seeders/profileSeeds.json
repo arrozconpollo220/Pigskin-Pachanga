@@ -1,27 +1,7 @@
 [
     {
-        "name": "Alex",
-        "email": "alex@meow.com",
-        "password": "$2b$10$SxC6yOGkuzTQ.qY76gMxye4t8otHGijlZG73mU.XmI47d.rdbTgry"
-    },
-    {
         "name": "Jason",
         "email": "jason@meow.com",
-        "password": "$2b$10$ksw91itvn4Cp3IAeTB99Lujfi3nRSj9Mj14H0s4J5Lww73x2d4H2C"
-    },
-    {
-        "name": "Keith",
-        "email": "keith@meow.com",
-        "password": "$2b$10$U3WAXp1NU.wgCd/sSQ0a6OqyuQ3ae3qO92FLl/Sy8cjdL.3liJ5iS"
-    },
-    {
-        "name": "Ricardo",
-        "email": "ricardo@meow.com",
-        "password": "$2b$10$SZK8OXPZ2sWQYOKSowD7ne/rZQeBj45fjhoGyNXrsI3.opL5vJDku"
-    },
-    {
-        "name": "Bob",
-        "email": "bob@meow.com",
-        "password": "$2b$10$5wYmbkEg24n73oVeyLUh5ubiSwRDoQhkKNK9pPVvt0QTME40paDCK"
+        "password": "$2b$10$DmVQE5fp3rVZ1TFKoHB9..PKKEtMImSLpTOKUbK5nFWrrfLr2N7lu"
     }
 ]
