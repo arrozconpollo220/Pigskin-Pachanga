@@ -1,25 +1,28 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
-import Auth from '../utils/auth';
+import React from "react";
+import { useNavigate } from "react-router-dom";
+import Button from "react-bootstrap/Button";
+import Auth from "../utils/auth";
 
-const LogoutButton = () => {
+const LogoutButton = (props) => {
   const navigate = useNavigate();
   const loggedIn = Auth.loggedIn();
 
   const onButtonClick = () => {
     Auth.logout();
-    navigate('/'); 
+    navigate("/");
   };
 
   return (
     <>
       {loggedIn && (
-        <input
-          className={'inputButton'}
-          type="button"
+        <Button
+          variant="primary"
+          className={`m-3 ${props.className}`}
           onClick={onButtonClick}
-          value="Log out"
-        />
+          style={{ padding: "0.375rem 0.75rem",  lineHeight: "1.5"}}
+        >
+          Log out
+        </Button>
       )}
     </>
   );
