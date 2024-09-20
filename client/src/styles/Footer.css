@@ -1,0 +1,46 @@
+/* start styles to <footer> */
+footer {
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background: #0D1B2A;
+  font-weight: bold;
+  width: 100vw;
+  height: 80px;
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between ;
+  align-items: center;
+  z-index: 1000; /* Ensure it stays above other content */
+}
+footer h2 {
+
+  color: #E0E1DD;
+  font-size: 15px;
+  margin: 0;
+}
+
+footer p {
+  color: #E0E1DD;
+  font-size: 15px;
+  margin: 0;
+  text-align: center;
+
+}
+
+footer div {
+
+  line-height: 1.5;
+  text-align: right;
+}
+
+footer a {
+  color: #E0E1DD;
+  font-size: 15px;
+  margin: 0;
+}
+
+footer a:hover {
+  color: #328C83;
+  transition: .5s ease;
+}
