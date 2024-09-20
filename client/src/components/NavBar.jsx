@@ -13,7 +13,7 @@ function NavBar({ isLoggedIn }) {
   ];
 
   return (
-    <Navbar expand="lg" className="bg-body-tertiary" style={{ width: "100vw" }}>
+    <Navbar expand="lg" className="bg-transparent" style={{ width: "60vw" }}>
       <nav className="nav nav-tabs">
         <Navbar.Brand className="KG">
           <div className="box">
@@ -34,7 +34,7 @@ function NavBar({ isLoggedIn }) {
 
         {navItems.map((item) => (
           <Link key={item.to} to={item.to}>
-            <Button variant="primary" className="m-3">
+            <Button variant="primary" className="m-3" style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
               {item.label}
             </Button>
           </Link>
@@ -42,7 +42,7 @@ function NavBar({ isLoggedIn }) {
 
         {!isLoggedIn && (
           <Link to="/Login">
-            <Button variant="primary" className="m-3">
+            <Button variant="primary" className="m-3" style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
               Login
             </Button>
           </Link>
