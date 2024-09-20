@@ -4,9 +4,8 @@ import Auth from '../utils/auth';
 function Header() {
 
   const loggedIn = Auth.loggedIn();
-  // const userName = loggedIn ? Auth.getProfile().data.name : '';
-  const userName = 'user';
-  console.log(userName);
+  const userName = loggedIn ? Auth.getProfile().data?.name : '';
+  console.log('USERNAME: ',userName);
 
   return (
     <header>

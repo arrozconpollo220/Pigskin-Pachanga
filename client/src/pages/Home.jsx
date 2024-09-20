@@ -1,17 +1,17 @@
-import React from 'react'
-import { useNavigate } from 'react-router-dom'
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
+import Auth from '../utils/auth';
 
 const Home = (props) => {
-  const { loggedIn, email } = props
+  // const { loggedIn, email } = props
+  const loggedIn = Auth.loggedIn();
   const navigate = useNavigate()
 
   const onButtonClick = () => {
     // You'll update this function later
     if (loggedIn) {
-      
-      onLogout();
+      Auth.logout();
     } else {
-      
       navigate('/login');
     }
   }
@@ -29,7 +29,6 @@ const Home = (props) => {
           onClick={onButtonClick}
           value={loggedIn ? 'Log out' : 'Log in'}
         />
-        {loggedIn ? <div>Your email address is {email}</div> : <div />}
       </div>
     </div>
   )
