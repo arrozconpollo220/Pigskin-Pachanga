@@ -3,6 +3,7 @@ import { useQuery } from '@apollo/client';
 import Auth from '../utils/auth';
 
 import TeamsList from '../components/MyTeams'
+import AddTeam from '../components/AddTeam'
 
 import { QUERY_TEAMS_BY_OWNER } from '../utils/queries';
 
@@ -13,6 +14,8 @@ export default function Dashboard() {
     const userName = loggedIn ? Auth.getProfile().data?.name : '';
     const email = loggedIn ? Auth.getProfile().data?.email : '';
 
+    const [addingTeam, setAddingTeam] = useState(false);
+
     // If there is no `profileId` in the URL as a parameter, execute the `QUERY_ME` query instead for the logged in user's information
     const { loading, data } = useQuery(QUERY_TEAMS_BY_OWNER, {
         variables: { ownerId: userId },
@@ -20,6 +23,10 @@ export default function Dashboard() {
     });
 
     const teams = data?.teamsByOwner || [];
+
+    const handleRenderForm = () => {
+        setAddingTeam(true);
+    }
 
     return (
 
@@ -36,13 +43,23 @@ export default function Dashboard() {
                     <div>
                         <h3>My Teams</h3>
                         <div>
-                            {loading ? (
-                                <p>Loading teams...</p>
+                            {addingTeam ? (
+                                <AddTeam />
                             ) : (
-                                <TeamsList
-                                    teams={teams || []}
-                                    isLoggedInUser={true}
-                                />
+                                <div>
+                                    <button 
+                                        className="btn btn-primary m-3"
+                                        onClick={handleRenderForm}
+                                    >Add New Team</button>
+                                    {loading ? (
+                                        <p>Loading teams...</p>
+                                    ) : (
+                                        <TeamsList
+                                            teams={teams || []}
+                                            isLoggedInUser={true}
+                                        />
+                                    )}
+                                </div>
                             )}
                         </div>
                     </div>
