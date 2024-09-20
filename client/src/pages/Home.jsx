@@ -8,7 +8,7 @@ const Home = (props) => {
   const navigate = useNavigate()
 
   const onButtonClick = () => {
-    // You'll update this function later
+  
     if (loggedIn) {
       Auth.logout();
     } else {
@@ -22,14 +22,7 @@ const Home = (props) => {
         <div>Welcome!</div>
       </div>
       <div>This is the home page.</div>
-      <div className={'buttonContainer'}>
-        <input
-          className={'inputButton'}
-          type="button"
-          onClick={onButtonClick}
-          value={loggedIn ? 'Log out' : 'Log in'}
-        />
-      </div>
+   
     </div>
   )
 }
