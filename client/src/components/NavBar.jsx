@@ -20,19 +20,19 @@ function NavBar() {
 
             <div class="title">
               <span class="block"></span>
-              <h1>Keith Godfrey<span></span></h1>
+              <h1><span className="text-primary custom-span">F</span>antasy <span className="text-primary custom-span">F</span>ootball <span className="text-danger custom-span">A</span>pp</h1>
             </div>
 
             <div class="role">
               <div class="block"></div>
-              <p>Full-Stack Developer</p>
+              <p></p>
             </div>
 
-          </div>
+          </div > 
         </Navbar.Brand>
         {navItems.map((item) => (
           <Link key={item.to} to={item.to}>
-            <Button variant="primary" className="m-2">
+            <Button variant="primary" className="m-3">
               {item.label}
             </Button>
           </Link>
