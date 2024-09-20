@@ -15,7 +15,7 @@ import Home from './pages/Home';
 import SignUp from './pages/SignUp';
 import Login from './pages/Login';
 import Headers from './components/Headers';
-import 'bootstrap/dist/css/bootstrap.css';
+// import 'bootstrap/dist/css/bootstrap.css';
 
 const httpLink = createHttpLink({
   uri: 'http://localhost:3001/graphql'
