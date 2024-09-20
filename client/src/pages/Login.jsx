@@ -1,17 +1,20 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { useMutation } from '@apollo/client';
 import { LOGIN_USER } from '../utils/mutations';
 import { AiFillEye, AiFillEyeInvisible } from 'react-icons/ai';
 import Auth from '../utils/auth';
 import './login.css';
 
+
+
 const Login = (props) => {
   const [formState, setFormState] = useState({ email: '', password: '' });
-  const [login, { error, data }] = useMutation(LOGIN_USER);
+  const [login, { error }] = useMutation(LOGIN_USER);
   const [emailError, setEmailError] = useState('');
   const [passwordError, setPasswordError] = useState('');
   const [showPassword, setShowPassword] = useState(false);
+  const navigate = useNavigate();
 
   // update state based on form input changes
   const handleChange = (event) => {
@@ -26,13 +29,16 @@ const Login = (props) => {
   // submit form
   const handleFormSubmit = async (event) => {
     event.preventDefault();
-    
+
     try {
       const { data } = await login({
         variables: { ...formState },
       });
       console.log(data);
       Auth.login(data.login.token);
+
+      // Navigate only after successful login
+      navigate('/dashboard');
     } catch (e) {
       console.error(e);
     }
@@ -44,7 +50,7 @@ const Login = (props) => {
     });
   };
 
-    const onButtonClick = () => {
+  const onButtonClick = () => {
     setEmailError('');
     setPasswordError('');
 
@@ -79,65 +85,58 @@ const Login = (props) => {
         <div className="titleContainer">
           <h4>Login</h4>
         </div>
-          <div>
-            {data ? (
-              <p>
-                Success! You may now head{' '}
-                <Link to="/">back to the homepage.</Link>
-              </p>
-            ) : (
-              <form onSubmit={handleFormSubmit}>
-                <div className='inputContainer'>
-                  <input
-                    value={formState.email}
-                    placeholder="Enter your email here"
-                    className="inputBox"
-                    onChange={handleChange}
-                    name="email"
-                    type="email"
-                  />
-                  <label className='errorLabel'>{emailError}</label>
-                </div>
+        <div>
+          <form onSubmit={handleFormSubmit}>
+            <div className='inputContainer'>
+              <input
+                value={formState.email}
+                placeholder="Enter your email here"
+                className="inputBox"
+                onChange={handleChange}
+                name="email"
+                type="email"
+              />
+              <label className='errorLabel'>{emailError}</label>
+            </div>
 
-                <div className='inputContainer'>
-                <input
-                  type={showPassword ? 'text' : 'password'}
-                  value={formState.password}
-                  placeholder="Enter your password here"
-                  onChange={handleChange}
-                  className="inputBox"
-                  name="password"
-                  />
-                  <span
-                    className='eyeIcon'
-                    onClick={toggleShowPassword}
-                  >
-                    {showPassword ? <AiFillEyeInvisible /> : <AiFillEye />}
-                  </span>
-                  <label className='errorLabel'>{passwordError}</label>
-                </div>
+            <div className='inputContainer'>
+              <input
+                type={showPassword ? 'text' : 'password'}
+                value={formState.password}
+                placeholder="Enter your password here"
+                onChange={handleChange}
+                className="inputBox"
+                name="password"
+              />
+              <span
+                className='eyeIcon'
+                onClick={toggleShowPassword}
+              >
+                {showPassword ? <AiFillEyeInvisible /> : <AiFillEye />}
+              </span>
+              <label className='errorLabel'>{passwordError}</label>
+            </div>
 
-                <div className='inputContainer'>
-                  <button
-                    className="inputButton"
-                    type="submit"
-                    onClick={onButtonClick}
-                    style={{ cursor: 'pointer' }}
-                    
-                  >
-                    Log In
-                  </button>
-                  <p>...or <a href="./signup">sign up</a>!</p>
-                </div>
-              </form>
-            )}
+            <div className='inputContainer'>
+              <button
+                className="inputButton"
+                type="submit"
+                onClick={onButtonClick}
+                style={{ cursor: 'pointer' }}
 
-            {error && (
-              <div className="my-3 p-3 bg-danger text-white">
-                {error.message}
-              </div>
-            )}
-          </div>
+              >
+                Log In
+              </button>
+              <p>...or <a href="./signup">sign up</a>!</p>
+            </div>
+          </form>
+
+          {error && (
+            <div className="my-3 p-3 bg-danger text-white">
+              {error.message}
+            </div>
+          )}
+        </div>
       </div>
     </main>
   );

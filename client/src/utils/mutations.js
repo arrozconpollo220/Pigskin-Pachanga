@@ -119,7 +119,7 @@ export const LOGIN_USER = gql`
 }
 `;
 
-export const createNewTeamInLeague = gql`
+export const CREATE_NEW_TEAM_IN_LEAGUE = gql`
     mutation createNewTeamInLeague($leagueId: ID!, $teamName: String!) {
         createNewTeamInLeague(leagueId: $leagueId, teamName: $teamName) {
             _id
@@ -128,6 +128,10 @@ export const createNewTeamInLeague = gql`
             teams {
                 _id
                 name
+                owner {
+                    _id
+                    name
+                }
             }
         }
     }
