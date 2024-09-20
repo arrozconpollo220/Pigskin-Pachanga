@@ -9,11 +9,12 @@ import {
 } from '@apollo/client';
 import { setContext } from '@apollo/client/link/context';
 
-import Footer from './pages/Footer';
+import Footer from './components/Footer';
+
 import Home from './pages/Home';
 import SignUp from './pages/SignUp';
 import Login from './pages/Login';
-import Headers from './pages/Headers';
+import Headers from './components/Headers';
 
 const httpLink = createHttpLink({
   uri: 'http://localhost:3001/graphql'
