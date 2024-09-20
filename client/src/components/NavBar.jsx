@@ -2,6 +2,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 import '../styles/NavBar.css';
+import LogoutButton from './LogoutButton';
 
 function NavBar({isLoggedIn}) {
   const navItems = [
@@ -48,6 +49,7 @@ function NavBar({isLoggedIn}) {
             </Button>
           </Link>
         )}
+        <LogoutButton/>
       </nav>
     </Navbar>
   );

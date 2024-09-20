@@ -2,3 +2,8 @@
     display: flex;
     justify-content: center;
 }
+.inputButton {
+    padding: 8px 16px; /* Ajusta el padding según necesites */
+    font-size: 14px; /* Cambia el tamaño de la fuente */
+    /* Puedes añadir más propiedades para ajustar el estilo */
+  }

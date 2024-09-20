@@ -23,12 +23,7 @@ const Home = (props) => {
       </div>
       <div>This is the home page.</div>
       <div className={'buttonContainer'}>
-        <input
-          className={'inputButton'}
-          type="button"
-          onClick={onButtonClick}
-          value={loggedIn ? 'Log out' : 'Log in'}
-        />
+      
       </div>
     </div>
   )
