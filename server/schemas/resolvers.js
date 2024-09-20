@@ -26,6 +26,10 @@ const resolvers = {
             });
         },
 
+        teamsByOwner: async (parent, { ownerId }) => {
+            return await Team.find({ owner: ownerId });
+        },
+
         leagues: async () => {
             return await League.find().populate('teams');
         },

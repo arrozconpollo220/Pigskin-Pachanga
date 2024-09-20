@@ -40,6 +40,8 @@ const typeDefs = `
         teams: [Team]!
         leagues: [League]!
 
+        teamsByOwner(ownerId: ID!): [Team]
+
         profile(profileId: ID!): Profile
         me: Profile
         
