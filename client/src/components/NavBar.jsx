@@ -1,20 +1,9 @@
-import React, { useState, useEffect } from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 import '../styles/NavBar.css';
 
-function NavBar() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-
-  useEffect(() => {
-    
-    const loggedInStatus = localStorage.getItem('isLoggedIn');
-    if (loggedInStatus === 'true') {
-      setIsLoggedIn(true);
-    }
-  }, []);
-
+function NavBar({isLoggedIn}) {
   const navItems = [
     { to: '/', label: 'Home' },
     { to: '/Match-up', label: 'Match up' },

@@ -9,7 +9,7 @@ function Header() {
 
   return (
     <header>
-      <NavBar/>
+      <NavBar isLoggedIn={loggedIn}/>
       <h1>Chicharron de Puerco - Pachanga</h1>
       
       {loggedIn ? (
