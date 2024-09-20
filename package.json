@@ -21,6 +21,7 @@
     "concurrently": "^8.2.0"
   },
   "dependencies": {
+    "react-bootstrap": "^2.10.4",
     "react-router-dom": "^6.26.2"
   }
 }
