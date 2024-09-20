@@ -20,12 +20,12 @@ function NavBar() {
 
             <div class="title">
               <span class="block"></span>
-              <h1>Keith Godfrey<span></span></h1>
+              <h1><span></span></h1>
             </div>
 
             <div class="role">
               <div class="block"></div>
-              <p>Full-Stack Developer</p>
+              <p></p>
             </div>
 
           </div>

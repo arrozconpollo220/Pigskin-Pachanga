@@ -1,5 +1,4 @@
 import './App.css';
-import { useEffect, useState } from 'react'
 import { BrowserRouter as Router, Routes, Route, Outlet } from 'react-router-dom';
 import {
   ApolloClient,
@@ -15,6 +14,7 @@ import Home from './pages/Home';
 import SignUp from './pages/SignUp';
 import Login from './pages/Login';
 import Headers from './components/Headers';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const httpLink = createHttpLink({
   uri: 'http://localhost:3001/graphql'
