@@ -41,6 +41,8 @@ const typeDefs = `
         leagues: [League]!
 
         profile(profileId: ID!): Profile
+        me: Profile
+        
         player(playerId: ID!): Player
         team(teamId: ID!): Team
         league(leagueId: ID!): League

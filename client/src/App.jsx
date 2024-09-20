@@ -15,6 +15,7 @@ import Home from './pages/Home';
 import SignUp from './pages/SignUp';
 import Login from './pages/Login';
 import Headers from './components/Headers';
+import Dashboard from './pages/Dashboard'
 import 'bootstrap/dist/css/bootstrap.css';
 
 const httpLink = createHttpLink({
@@ -59,6 +60,12 @@ function App() {
                 <Route
                   path="/signup"
                   element={<SignUp 
+                    // setLoggedIn={setLoggedIn} setEmail={setEmail} 
+                    />}
+                />
+                <Route
+                  path="/dashboard"
+                  element={<Dashboard 
                     // setLoggedIn={setLoggedIn} setEmail={setEmail} 
                     />}
                 />

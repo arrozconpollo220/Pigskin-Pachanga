@@ -8,6 +8,13 @@ const resolvers = {
             return await Profile.find().populate('teams');
         },
 
+        me: async (parent, args, context) => {
+            if (context.user) {
+                return Profile.findOne({ _id: context.user._id });
+            }
+            throw AuthenticationError;
+        },
+
         players: async () => {
             return await Player.find();
         },
