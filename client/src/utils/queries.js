@@ -32,6 +32,19 @@ export const QUERY_TEAMS = gql`
     }
 `;
 
+export const QUERY_TEAMS_BY_OWNER = gql`
+    query TeamsByOwner($ownerId: ID!) {
+        teamsByOwner(ownerId: $ownerId) {
+            _id
+            name
+            owner {
+                _id
+                name
+            }
+        }
+    }
+`
+
 export const QUERY_PLAYERS = gql`
     query getPlayers {
         players {

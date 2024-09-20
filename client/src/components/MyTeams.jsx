@@ -15,6 +15,7 @@ const TeamsList = ({ teams, isLoggedInUser = false }) => {
             const { data } = await removeTeam({
                 variables: { teamId },
             });
+            window.location.reload();
         } catch (err) {
             console.error(err);
         }
@@ -26,12 +27,12 @@ const TeamsList = ({ teams, isLoggedInUser = false }) => {
 
     return (
         <div>
-            <div className="flex-row justify-space-between my-4">
+            <div className="">
                 {teams.map((team) => (
-                    <div key={team._id} className="col-12 col-xl-6">
-                        <div className="card mb-3">
-                            <h4 className="card-header bg-dark text-light p-2 m-0 display-flex align-center">
-                                <span>{team.name}</span>
+                    <div key={team._id} className="">
+                        <div className="card">
+                            <h4 className="card-header display-flex align-center">
+                                <span>{team.name}     </span>
                                 {isLoggedInUser && (
                                     <button
                                         className="btn btn-sm btn-danger ml-auto"
