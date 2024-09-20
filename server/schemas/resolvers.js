@@ -5,33 +5,36 @@ const resolvers = {
     Query: {
         // View all entries
         profiles: async () => {
-            return Profile.find().populate('teams');
+            return await Profile.find().populate('teams');
         },
 
         players: async () => {
-            return Player.find();
+            return await Player.find();
         },
 
         teams: async () => {
-            return Team.find().populate('players');
+            return await Team.find().populate('players').populate({
+                path: 'owner',
+                select: 'name email'
+            });
         },
 
         leagues: async () => {
-            return League.find().populate('teams');
+            return await League.find().populate('teams');
         },
 
         // View single entries
         profile: async (parent, { profileId }) => {
-            return Profile.findOne({ _id: profileId }).populate('teams');
+            return await Profile.findOne({ _id: profileId }).populate('teams');
         },
         player: async (parent, { playerId }) => {
-            return Player.findOne({ _id: playerId });
+            return await Player.findOne({ _id: playerId });
         },
         team: async (parent, { teamId }) => {
-            return Team.findOne({ _id: teamId }).populate('players');
+            return await Team.findOne({ _id: teamId }).populate('players');
         },
         league: async (parent, { leagueId }) => {
-            return League.findOne({ _id: leagueId }).populate('teams');
+            return await League.findOne({ _id: leagueId }).populate('teams');
         },
     },
 
@@ -61,96 +64,185 @@ const resolvers = {
         },
 
         // Creating new items
-        addNewTeam: async (parent, { name }) => {
-            return Team.create({ name });
+        createNewTeamInLeague: async (parent, { leagueId, teamName }, context) => {
+            // Requires user to be logged in to add a new team
+            if (!context.user) {
+                throw AuthenticationError;
+            }
+
+            try {
+                const newTeam = await Team.create({
+                    name: teamName,
+                    owner: context.user._id
+                });
+
+                const updatedLeague = await League.findOneAndUpdate(
+                    { _id: leagueId },
+                    {
+                        $addToSet: { teams: newTeam._id }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
+                    }
+                ).populate({
+                    path: 'teams',
+                    populate: {
+                        path: 'owner',
+                        select: 'name email'
+                    }
+                });
+
+                return updatedLeague;
+            } catch (error) {
+                throw new Error(`Failed to create the ${teamName} team within this league: ${error.message}`);
+            }
         },
         addNewLeague: async (parent, { name, commissioner }) => {
-            return League.create({ name, commissioner });
+            return await League.create({ name, commissioner });
         },
 
         // Updating existing items
-        addPlayerToTeam: async (parent, { teamId, playerId }) => {
-            return Team.findOneAndUpdate(
-                { _id: teamId },
-                {
-                    $addToSet: { players: playerId }
-                },
-                {
-                    new: true,
-                    runValidators: true,
+        addPlayerToTeam: async (parent, { teamId, playerId }, context) => {
+            try {
+                // Requires user to be logged in to add a player to the team
+                if (!context.user) {
+                    throw AuthenticationError;
                 }
-            ).populate('players');
+                // Requires user to be the owner of the team to add players
+                const team = await Team.findById(teamId);
+                if (team.owner.toString() !== context.user._id.toString()) {
+                    throw AuthenticationError;
+                }
+                // Ensures the team is assigned to a league
+                const league = await League.findOne({ teams: teamId }).populate('teams');
+                if (!league) {
+                    throw new Error('This team is not assigned to a league and cannot recruit players!');
+                }
+                // Checks if the player is already assigned to a team within the league
+                const playerExists = league.teams.some(team => team.players.includes(playerId));
+                if (playerExists) {
+                    throw new Error('This player is already assigned to a team within this league!');
+                }
+
+                return Team.findOneAndUpdate(
+                    { _id: teamId },
+                    {
+                        $addToSet: { players: playerId }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
+                    }
+                ).populate({
+                    path: 'players',
+                    select: 'name nflTeam playerId pos'
+                }).populate({
+                    path: 'owner',
+                    select: 'name email'
+                });
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
         removePlayerFromTeam: async (parent, { teamId, playerId }) => {
-            return Team.findOneAndUpdate(
-                { _id: teamId },
-                {
-                    $pull: { players: playerId }
-                },
-                {
-                    new: true,
-                    runValidators: true,
-                }
-            ).populate('players');
+            try {
+                return Team.findOneAndUpdate(
+                    { _id: teamId },
+                    {
+                        $pull: { players: playerId }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
+                    }
+                ).populate('players');
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
         addTeamToLeague: async (parent, { leagueId, teamId }) => {
-            return League.findOneAndUpdate(
-                { _id: leagueId },
-                {
-                    $addToSet: { teams: teamId }
-                },
-                {
-                    new: true,
-                    runValidators: true,
-                }
-            ).populate('teams');
+            try {
+                return League.findOneAndUpdate(
+                    { _id: leagueId },
+                    {
+                        $addToSet: { teams: teamId }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
+                    }
+                ).populate('teams');
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
         removeTeamFromLeague: async (parent, { leagueId, teamId }) => {
-            return League.findOneAndUpdate(
-                { _id: leagueId },
-                {
-                    $pull: { teams: teamId }
-                },
-                {
-                    new: true,
-                    runValidators: true,
-                }
-            ).populate('teams');
+            try {
+                return League.findOneAndUpdate(
+                    { _id: leagueId },
+                    {
+                        $pull: { teams: teamId }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
+                    }
+                ).populate('teams');
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
         updateTeam: async (parent, { teamId, teamName }) => {
-            return Team.findOneAndUpdate(
-                { _id: teamId },
-                {
-                    $set: { name: teamName }
-                },
-                {
-                    new: true,
-                    runValidators: true,
-                }
-            ).populate('players');
+            try {
+                return Team.findOneAndUpdate(
+                    { _id: teamId },
+                    {
+                        $set: { name: teamName }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
+                    }
+                ).populate('players');
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
         updateLeague: async (parent, { leagueId, leagueName, leagueComm }) => {
-            return League.findOneAndUpdate(
-                { _id: leagueId },
-                {
-                    $set: {
-                        name: leagueName,
-                        commissioner: leagueComm,
+            try {
+                return League.findOneAndUpdate(
+                    { _id: leagueId },
+                    {
+                        $set: {
+                            name: leagueName,
+                            commissioner: leagueComm,
+                        }
+                    },
+                    {
+                        new: true,
+                        runValidators: true,
                     }
-                },
-                {
-                    new: true,
-                    runValidators: true,
-                }
-            ).populate('teams');
+                ).populate('teams');
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
 
         // Deleting existing items
         removeTeam: async (parent, { teamId }) => {
-            return Team.findOneAndDelete({ _id: teamId });
+            try {
+                return await Team.findOneAndDelete({ _id: teamId });
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
         removeLeague: async (parent, { leagueId }) => {
-            return League.findOneAndDelete({ _id: leagueId }).populate('teams');
+            try {
+                return await League.findOneAndDelete({ _id: leagueId }).populate('teams');
+            } catch (error) {
+                throw new Error(error.message);
+            }
         },
     }
 };

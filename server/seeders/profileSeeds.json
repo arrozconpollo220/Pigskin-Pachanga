@@ -1,14 +1,7 @@
 [
     {
-        "name": "User One"
-    },
-    {
-        "name": "User Two"
-    },
-    {
-        "name": "User Three"
-    },
-    {
-        "name": "User Four"
+        "name": "Jason",
+        "email": "jason@meow.com",
+        "password": "$2b$10$DmVQE5fp3rVZ1TFKoHB9..PKKEtMImSLpTOKUbK5nFWrrfLr2N7lu"
     }
 ]

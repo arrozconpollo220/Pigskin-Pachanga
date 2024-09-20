@@ -10,12 +10,12 @@ db.once('open', async () => {
     try {
       await cleanDB('Player', 'players');
       await cleanDB('Team', 'teams');
-      await cleanDB('League', 'leagues');
+      // await cleanDB('League', 'leagues');
       await cleanDB('Profile', 'profiles');
 
       await Player.create(playerSeeds);
-      await Team.create(teamSeeds);
-      await League.create(leagueSeeds);
+      // await Team.create(teamSeeds);
+      // await League.create(leagueSeeds);
       await Profile.create(profileSeeds);
   
       console.log('all done!');
