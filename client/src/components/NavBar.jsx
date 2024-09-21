@@ -13,7 +13,7 @@ function NavBar({ isLoggedIn }) {
   ];
 
   return (
-    <Navbar expand="lg" className="bg-transparent" style={{ width: "60vw" }}>
+    <Navbar expand="lg" className="bg-transparent" >
       <nav className="nav nav-tabs">
         <Navbar.Brand className="KG">
           <div className="box">
