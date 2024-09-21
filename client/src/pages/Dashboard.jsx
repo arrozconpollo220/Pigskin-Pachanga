@@ -10,12 +10,11 @@ import AddLeague from '../components/AddLeague';
 import { QUERY_TEAMS_BY_OWNER, QUERY_LEAGUES_BY_COMM } from '../utils/queries';
 
 export default function Dashboard() {
-
     const loggedIn = Auth.loggedIn();
-    const userId = loggedIn ? Auth.getProfile().data?._id : '';
-    const userName = loggedIn ? Auth.getProfile().data?.name : '';
-    const email = loggedIn ? Auth.getProfile().data?.email : '';
-
+    const userId = loggedIn ? Auth.getProfile().data?._id : "";
+    const userName = loggedIn ? Auth.getProfile().data?.name : "";
+    const email = loggedIn ? Auth.getProfile().data?.email : "";
+  
     const [addingTeam, setAddingTeam] = useState(false);
     const [addingLeague, setAddingLeague] = useState(false);
 
@@ -40,40 +39,40 @@ export default function Dashboard() {
     }
 
     return (
-
-        <div>
-            <h2>Dashboard</h2>
-            {loggedIn ? (
+      <div className="dashboard-wrapper">
+        <h2>Dashboard</h2>
+        {loggedIn ? (
+          <div className="dashboard-content">
+            
+            <div className="left-section">
+              <h3>List of Players</h3>
+              <p>ask jason about the list of players</p>
+            </div>
+  
+           
+            <div className="center-section">
+              <div className="container">
+                <p>Username: {userName}</p>
+                <p>Email: {email}</p>
+              </div>
+  
+              <div>
+                <h3>My Teams</h3>
                 <div>
-                    <div className="container">
-                        <h3>User Information</h3>
-                        <p>Username: {userName}</p>
-                        <p>Email: {email}</p>
-                    </div>
-
+                  {addingTeam ? (
+                    <AddTeam />
+                  ) : (
                     <div>
-                        <h3>My Teams</h3>
-                        <div>
-                            {addingTeam ? (
-                                <AddTeam />
-                            ) : (
-                                <div>
-                                    <button 
-                                        className="btn btn-primary m-3"
-                                        onClick={handleRenderForm}
-                                    >Add New Team</button>
-                                    {loading ? (
-                                        <p>Loading teams...</p>
-                                    ) : (
-                                        <TeamsList
-                                            teams={teams || []}
-                                            isLoggedInUser={true}
-                                        />
-                                    )}
-                                </div>
-                            )}
-                        </div>
+                      <button onClick={handleRenderForm}>Add New Team</button>
+                      {loading ? (
+                        <p>Loading teams...</p>
+                      ) : (
+                        <TeamsList teams={teams || []} isLoggedInUser={true} />
+                      )}
                     </div>
+                  )}
+                </div>
+              </div>
 
                     <div>
                         <h3>My Leagues</h3>
@@ -99,8 +98,17 @@ export default function Dashboard() {
                         </div>
                     </div>
 
-                </div>
-            ) : (<p>Please log in or sign up!</p>)}
-        </div>
+            </div>
+  
+            
+            <div className="right-section">
+              <h3>Leagues</h3>
+              <p>ask about leagues too</p>
+            </div>
+          </div>
+        ) : (
+          <p>Please log in or sign up!</p>
+        )}
+      </div>
     );
 }

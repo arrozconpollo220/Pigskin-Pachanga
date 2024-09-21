@@ -1,5 +1,5 @@
 import { useMutation } from '@apollo/client';
-
+import { FaTrash } from 'react-icons/fa';
 import { REMOVE_TEAM } from '../utils/mutations';
 import { QUERY_ME } from '../utils/queries';
 
@@ -38,7 +38,7 @@ const TeamsList = ({ teams, isLoggedInUser = false }) => {
                                         className="btn btn-sm btn-danger ml-auto"
                                         onClick={() => handleRemoveTeam(team._id)}
                                     >
-                                        X
+                                        <FaTrash />
                                     </button>
                                 )}
                             </h4>
