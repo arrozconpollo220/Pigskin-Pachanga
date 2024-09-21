@@ -2,13 +2,31 @@ import { gql } from '@apollo/client';
 
 export const QUERY_LEAGUES = gql`
     query Leagues {
-    leagues {
-        _id
-        commissioner
-        name
+        leagues {
+            _id
+            name
+            commissioner {
+                _id
+                name
+                email
+            }
+        }
     }
-}
 `;
+
+export const QUERY_LEAGUES_BY_COMM = gql`
+    query LeaguesByComm($commId: ID!) {
+        leaguesByComm(commId: $commId) {
+            _id
+            name
+            commissioner {
+                _id
+                email
+                name
+            }
+        }
+    }
+`
 
 export const QUERY_TEAMS = gql`
     query getTeams {
@@ -130,7 +148,11 @@ export const QUERY_LEAGUE = gql`
         league(leagueId: $leagueId) {
             _id
             name
-            commissioner
+            commissioner {
+                _id
+                name
+                email
+            }
             teams {
                 _id
                 name

@@ -8,9 +8,9 @@ const leagueSchema = new Schema({
         trim: true,
     },
     commissioner: {
-        type: String,
+        type: Schema.Types.ObjectId,
+        ref: 'Profile',
         required: true,
-        trim: true,
     },
     teams: [
         {

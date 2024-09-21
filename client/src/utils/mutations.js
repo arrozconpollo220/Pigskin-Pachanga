@@ -1,13 +1,17 @@
 import { gql } from '@apollo/client';
 
 export const ADD_NEW_LEAGUE = gql`
-    mutation addLeague($name: String!, $commissioner: String!) {
-        addLeague(name: $name, commissioner: $commissioner) {
-            _id
-            name
-            commissioner
-        }
+    mutation AddNewLeague($name: String!, $commissioner: ID!) {
+  addNewLeague(name: $name, commissioner: $commissioner) {
+    _id
+    name
+    commissioner {
+      _id
+      name
+      email
     }
+  }
+}
 `;
 
 
@@ -24,7 +28,11 @@ export const UPDATE_LEAGUE = gql`
         updateLeague(leagueId: $leagueId, name: $name, commissioner: $commissioner) {
             _id
             name
-            commissioner
+            commissioner {
+                _id
+                name
+                email
+            }
         }
     }
 `;
@@ -124,7 +132,6 @@ export const CREATE_NEW_TEAM_IN_LEAGUE = gql`
         createNewTeamInLeague(leagueId: $leagueId, teamName: $teamName) {
             _id
             name
-            commissioner
             teams {
                 _id
                 name

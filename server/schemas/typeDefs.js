@@ -30,7 +30,7 @@ const typeDefs = `
     type League {
         _id: ID
         name: String
-        commissioner: String
+        commissioner: Profile!
         teams: [Team]
     }
 
@@ -41,6 +41,7 @@ const typeDefs = `
         leagues: [League]!
 
         teamsByOwner(ownerId: ID!): [Team]
+        leaguesByComm(commId: ID!): [League]
 
         profile(profileId: ID!): Profile
         me: Profile
@@ -55,14 +56,14 @@ const typeDefs = `
         login(email: String!, password: String!): Auth
 
         createNewTeamInLeague(leagueId: ID!, teamName: String!): League
-        addNewLeague(name: String!, commissioner: String!): League
+        addNewLeague(name: String!, commissioner: ID!): League
 
         addPlayerToTeam (teamId: ID!, playerId: ID! ): Team
         removePlayerFromTeam (teamId: ID!, playerId: ID!): Team
         addTeamToLeague (leagueId: ID!, teamId: ID!): League
         removeTeamFromLeague (leagueId: ID!, teamId: ID!): League
         updateTeam (teamId: ID!, teamName: String!): Team
-        updateLeague (leagueId: ID!, leagueName: String!, leagueComm: String!): League
+        updateLeague (leagueId: ID!, leagueName: String!, leagueComm: ID!): League
 
         removeTeam(teamId: ID!): Team
         removeLeague(leagueId: ID!): League
