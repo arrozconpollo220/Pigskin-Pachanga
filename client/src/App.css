@@ -1,7 +1,9 @@
 #root {
-  max-width: 1280px;
+  margin-left: 1px;
+  margin-right: 0px;
+  width: 100vw;
   margin: 0 auto;
-  padding: 2rem;
+
   text-align: center;
 }
 
@@ -102,7 +104,7 @@
   font-size: large;
   border-radius: 8px;
   border: 1px solid grey;
-  padding-left: 8px;
+  /* padding-left: 8px; */
   background-color: white; /* Agrega un fondo visible */
   color: black; /* Texto visible */
 }
