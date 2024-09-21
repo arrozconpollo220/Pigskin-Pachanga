@@ -20,7 +20,7 @@ import Draft from './pages/Draft'
 import 'bootstrap/dist/css/bootstrap.css';
 
 const httpLink = createHttpLink({
-  uri: 'http://localhost:3001/graphql'
+  uri: process.env.NODE_ENV === 'production' ? 'https://pigskin-pachanga.up.railway.app/graphql' : 'http://localhost:3001/graphql'
 });
 
 // Construct request middleware that will attach the JWT token to every request as an `authorization` header
