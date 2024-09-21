@@ -114,7 +114,6 @@ export const QUERY_TEAM = gql`
         team(teamId: $teamId) {
             _id
             name
-            owner
             players {
                 _id
                 name
