@@ -6,10 +6,10 @@ footer {
   font-weight: bold;
   width: 100vw;
   height: 80px;
-  position: sticky;
+  position:fixed;
   bottom: 0;
   display: flex;
-  justify-content: space-between ;
+  justify-content: center;
   align-items: center;
   z-index: 1000; /* Ensure it stays above other content */
 }

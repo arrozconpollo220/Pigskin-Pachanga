@@ -19,11 +19,11 @@ function NavBar({ isLoggedIn }) {
           <div className="box">
             <div className="title">
               <span className="block"></span>
-              <h1>
+              {/* <h1>
                 <span className="text-primary custom-span">F</span>antasy 
                 <span className="text-primary custom-span">F</span>ootball
                 <span className="text-danger custom-span">A</span>pp
-              </h1>
+              </h1> */}
             </div>
             <div className="role">
               <div className="block"></div>
