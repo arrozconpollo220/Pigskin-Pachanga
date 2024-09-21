@@ -3,6 +3,7 @@ import { useQuery } from '@apollo/client';
 import Auth from '../utils/auth';
 import { QUERY_TEAMS_BY_OWNER } from '../utils/queries';
 import AvailablePlayersList from '../components/AvailablePlayersList';
+import MyPlayersList from '../components/MyPlayersList';
 
 export default function Draft() {
 
@@ -44,6 +45,10 @@ export default function Draft() {
         <div>
           <div className="container">
             <h3>Welcome to the Draft!</h3>
+          </div>
+
+          <div id="myplayerslist">
+            <MyPlayersList teamId={formState.teamId}/>
           </div>
 
           <div id="teamSelect">
