@@ -1,10 +1,20 @@
 import { useQuery, useMutation } from '@apollo/client';
 import { ADD_PLAYER_TO_TEAM } from '../utils/mutations'
-import { QUERY_PLAYERS } from '../utils/queries'
+import { QUERY_PLAYERS, QUERY_TEAM } from '../utils/queries'
 
 const AvailablePlayersList = ({ teamId }) => {
 
-    const [addPlayerToTeam, { error: mutationError }] = useMutation(ADD_PLAYER_TO_TEAM);
+    const [addPlayerToTeam, { error: mutationError }] = useMutation(ADD_PLAYER_TO_TEAM, {
+        refetchQueries: [
+            {
+                query: QUERY_TEAM,
+                variables: { teamId },
+            },
+            {
+                query: QUERY_PLAYERS
+            },
+        ],
+});
     const { loading, data: playersData } = useQuery(QUERY_PLAYERS);
 
     const players = playersData?.players || [];
