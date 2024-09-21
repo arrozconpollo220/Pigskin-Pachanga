@@ -1,19 +1,84 @@
+import { useState, useEffect } from 'react';
+import { useQuery } from '@apollo/client';
+import Auth from '../utils/auth';
+import { QUERY_TEAMS_BY_OWNER } from '../utils/queries';
+import AvailablePlayersList from '../components/AvailablePlayersList';
+
 export default function Draft() {
-    return (
-      <div>
-        <h2>Home Page</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-          velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-          ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-          non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-          ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-          rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-          tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-          porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-          vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus.
-        </p>
-      </div>
-    );
-  }
+
+  const loggedIn = Auth.loggedIn();
+  const userId = loggedIn ? Auth.getProfile().data?._id : '';
+
+  const [formState, setFormState] = useState({
+    teamId: '',
+    playerId: '',
+  });
+
+  // If there is no `profileId` in the URL as a parameter, execute the `QUERY_ME` query instead for the logged in user's information
+  const { loading, data } = useQuery(QUERY_TEAMS_BY_OWNER, {
+    variables: { ownerId: userId },
+    skip: !userId,
+  });
+
+  const teams = data?.teamsByOwner || [];
+
+  const handleChange = (event) => {
+    const { name, value } = event.target;
+
+    setFormState({
+      ...formState,
+      [name]: value,
+    });
+
+    console.log(formState);
+  };
+
+  useEffect(() => {
+    console.log('Form state updated:', formState);
+  }, [formState]);
+
+  return (
+    <div>
+      <h2>DRAFT</h2>
+      {loggedIn ? (
+        <div>
+          <div className="container">
+            <h3>Welcome to the Draft!</h3>
+          </div>
+
+          <div id="teamSelect">
+            <h4>Select a team to draft players...</h4>
+            <div>
+              <form>
+                <select
+                  className="inputBox"
+                  placeholder='Select team'
+                  name="teamId"
+                  value={formState.teamId}
+                  onChange={handleChange}
+                  required
+                >
+                  <option value="" disabled>Select a team</option>
+                  {loading ? (
+                    <option>Loading teams...</option>
+                  ) : (
+                    teams.map((team) => (
+                      <option key={team._id} value={team._id}>
+                        {team.name}
+                      </option>
+                    ))
+                  )}
+                </select>
+              </form>
+            </div>
+          </div>
+
+          <div id="playerlist">
+            <AvailablePlayersList teamId={formState.teamId}/>
+          </div>
+
+        </div>
+      ) : (<p>Please log in or sign up!</p>)}
+    </div>
+  );
+}

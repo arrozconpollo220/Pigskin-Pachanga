@@ -41,18 +41,13 @@ export const QUERY_TEAMS_BY_OWNER = gql`
 `
 
 export const QUERY_PLAYERS = gql`
-    query getPlayers {
+    query Players {
         players {
             _id
             name
-            pos
             nflTeam
             playerId
-            team {
-                _id
-                name
-                owner
-            }
+            pos
         }
     }
 `;
