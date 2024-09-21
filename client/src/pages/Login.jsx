@@ -1,12 +1,10 @@
 import { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useMutation } from '@apollo/client';
 import { LOGIN_USER } from '../utils/mutations';
 import { AiFillEye, AiFillEyeInvisible } from 'react-icons/ai';
 import Auth from '../utils/auth';
 import './login.css';
-
-
 
 const Login = (props) => {
   const [formState, setFormState] = useState({ email: '', password: '' });
@@ -16,7 +14,7 @@ const Login = (props) => {
   const [showPassword, setShowPassword] = useState(false);
   const navigate = useNavigate();
 
-  // update state based on form input changes
+  // Update state based on form input changes
   const handleChange = (event) => {
     const { name, value } = event.target;
 
@@ -26,35 +24,17 @@ const Login = (props) => {
     });
   };
 
-  // submit form
+  // Submit form
   const handleFormSubmit = async (event) => {
     event.preventDefault();
 
-    try {
-      const { data } = await login({
-        variables: { ...formState },
-      });
-      console.log(data);
-      Auth.login(data.login.token);
-
-      // Navigate only after successful login
-      navigate('/dashboard');
-    } catch (e) {
-      console.error(e);
-    }
-
-    // clear form values
-    setFormState({
-      email: '',
-      password: '',
-    });
-  };
-
-  const onButtonClick = () => {
     setEmailError('');
     setPasswordError('');
 
-    if ('' === email) {
+    const { email, password } = formState;
+
+    // Validate email and password
+    if (email === '') {
       setEmailError('Please enter your email');
       return;
     }
@@ -64,7 +44,7 @@ const Login = (props) => {
       return;
     }
 
-    if ('' === password) {
+    if (password === '') {
       setPasswordError('Please enter a password');
       return;
     }
@@ -73,6 +53,23 @@ const Login = (props) => {
       setPasswordError('The password must be 8 characters or longer');
       return;
     }
+
+    try {
+      const { data } = await login({
+        variables: { ...formState },
+      });
+      Auth.login(data.login.token);
+      // Navigate only after successful login
+      navigate('/dashboard');
+    } catch (e) {
+      console.error(e);
+    }
+
+    // Clear form values
+    setFormState({
+      email: '',
+      password: '',
+    });
   };
 
   const toggleShowPassword = () => {
@@ -121,9 +118,7 @@ const Login = (props) => {
               <button
                 className="inputButton"
                 type="submit"
-                onClick={onButtonClick}
                 style={{ cursor: 'pointer' }}
-
               >
                 Log In
               </button>
