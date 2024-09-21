@@ -1,7 +1,5 @@
 nav {
-    width: 100vw;
-
     justify-content: flex-end;
-    align-items: center;
+    width: 100vw;
     background: #0D1B2A;
 }
