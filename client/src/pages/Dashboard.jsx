@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useQuery } from '@apollo/client';
 import Auth from '../utils/auth';
-
+import '../styles/Dashboard.css'
 import TeamsList from '../components/MyTeams'
 import AddTeam from '../components/AddTeam'
 import LeaguesList from '../components/MyLeagues';
@@ -44,12 +44,8 @@ export default function Dashboard() {
         {loggedIn ? (
           <div className="dashboard-content">
             
-            <div className="left-section">
-              <h3>List of Players</h3>
-              <p>ask jason about the list of players</p>
-            </div>
+            
   
-           
             <div className="center-section">
               <div className="container">
                 <p>Username: {userName}</p>
@@ -74,7 +70,7 @@ export default function Dashboard() {
                 </div>
               </div>
 
-                    <div>
+                    <div className='left-section'>
                         <h3>My Leagues</h3>
                         <div>
                             {addingLeague ? (
@@ -98,12 +94,6 @@ export default function Dashboard() {
                         </div>
                     </div>
 
-            </div>
-  
-            
-            <div className="right-section">
-              <h3>Leagues</h3>
-              <p>ask about leagues too</p>
             </div>
           </div>
         ) : (
