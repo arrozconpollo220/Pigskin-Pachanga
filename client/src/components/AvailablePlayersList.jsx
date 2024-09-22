@@ -15,8 +15,7 @@ const AvailablePlayersList = ({ teamId }) => {
             },
         ],
 });
-    const { loading, data: playersData } = useQuery(QUERY_PLAYERS);
-
+    const { loading, data: playersData } = useQuery(QUERY_PLAYERS)
     const players = playersData?.players || [];
 
     if (loading) {
