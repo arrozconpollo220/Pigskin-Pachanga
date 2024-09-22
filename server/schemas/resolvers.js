@@ -18,6 +18,19 @@ const resolvers = {
         players: async () => {
             return await Player.find();
         },
+        filteredPlayers: async (parent, { pos, name }) => {
+            const filters = {};
+
+            if (pos) {
+                filters.pos = pos;
+            }
+
+            if (name) {
+                filters.name = {$regex: name, $options: 'i'};
+            }
+
+            return await Player.find(filters);
+        },
 
         teams: async () => {
             return await Team.find().populate('players').populate({
