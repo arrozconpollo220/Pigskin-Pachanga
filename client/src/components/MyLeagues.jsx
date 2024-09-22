@@ -1,19 +1,18 @@
 import { useMutation } from '@apollo/client';
-import { FaTrash } from 'react-icons/fa';
-import { REMOVE_TEAM } from '../utils/mutations';
+import { REMOVE_LEAGUE } from '../utils/mutations';
 import { QUERY_ME } from '../utils/queries';
 
-const TeamsList = ({ teams, isLoggedInUser = false }) => {
-    const [removeTeam, { error }] = useMutation(REMOVE_TEAM, {
+const LeaguesList = ({ leagues, isLoggedInUser = false }) => {
+    const [removeLeague, { error }] = useMutation(REMOVE_LEAGUE, {
         refetchQueries: [
             { query: QUERY_ME },
         ],
     });
 
-    const handleRemoveTeam = async (teamId) => {
+    const handleRemoveLeague = async (leagueId) => {
         try {
-            const { data } = await removeTeam({
-                variables: { teamId },
+            await removeLeague({
+                variables: { leagueId },
             });
             window.location.reload();
         } catch (err) {
@@ -21,24 +20,24 @@ const TeamsList = ({ teams, isLoggedInUser = false }) => {
         }
     };
 
-    if (!teams.length) {
-        return <h4>No Teams Yet!</h4>;
+    if (!leagues.length) {
+        return <h4>No Leagues Created!</h4>;
     }
 
     return (
         <div>
             <div className="">
-                {teams.map((team) => (
-                    <div key={team._id} className="">
+                {leagues.map((league) => (
+                    <div key={league._id} className="">
                         <div className="card">
                             <h4 className="card-header display-flex align-center">
-                                <span>{team.name}     </span>
+                                <span>{league.name}     </span>
                                 {isLoggedInUser && (
                                     <button
                                         className="btn btn-sm btn-danger ml-auto"
-                                        onClick={() => handleRemoveTeam(team._id)}
+                                        onClick={() => handleRemoveLeague(league._id)}
                                     >
-                                        <FaTrash />
+                                        X
                                     </button>
                                 )}
                             </h4>
@@ -53,4 +52,4 @@ const TeamsList = ({ teams, isLoggedInUser = false }) => {
     );
 };
 
-export default TeamsList;
+export default LeaguesList;

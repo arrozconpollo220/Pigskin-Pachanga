@@ -33,6 +33,9 @@ const resolvers = {
         leagues: async () => {
             return await League.find().populate('teams');
         },
+        leaguesByComm: async (parent, { commId }) => {
+            return await League.find({ commissioner: commId }).populate('commissioner');
+        },
 
         // View single entries
         profile: async (parent, { profileId }) => {
@@ -110,7 +113,7 @@ const resolvers = {
             }
         },
         addNewLeague: async (parent, { name, commissioner }) => {
-            return await League.create({ name, commissioner });
+            return (await League.create({ name, commissioner })).populate('commissioner');
         },
 
         // Updating existing items

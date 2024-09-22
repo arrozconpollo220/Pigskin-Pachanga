@@ -1,0 +1,72 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.navbar {
+    background-color: #0044cc;
+    color: white;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #cc0000;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.897);
+    padding: 20px;
+    margin: 10px 0;
+}
+
+/* Dashboard Styles */
+.dashboard-wrapper {
+    padding: 20px;
+}
+
+.dashboard-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Space between the columns */
+}
+/*note for keith and ricardo we can change the styles of the dashboard sections from here*/
+/* Left Section */
+.right-section {
+    
+    flex-basis: 25%; /* Takes 25% of the width */
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+/* Center Section */
+.center-section {
+    flex-basis: 45%; /* Takes 45% of the width */
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+

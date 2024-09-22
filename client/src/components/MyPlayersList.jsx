@@ -1,6 +1,7 @@
 import { useQuery, useMutation } from '@apollo/client';
 import { REMOVE_PLAYER_FROM_TEAM } from '../utils/mutations'
 import { QUERY_TEAM } from '../utils/queries'
+import { FaTrash } from 'react-icons/fa';
 
 const MyPlayersList = ({ teamId }) => {
     const {loading, data, error: queryError} = useQuery(QUERY_TEAM, {
@@ -48,7 +49,7 @@ const MyPlayersList = ({ teamId }) => {
                                         className="btn btn-sm btn-danger ml-auto"
                                         onClick={() => handleRemovePlayer(player._id)}
                                     >
-                                        X
+                                        <FaTrash />
                                     </button>
                                 )}
                             </h4>

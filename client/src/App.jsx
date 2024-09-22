@@ -23,6 +23,17 @@ const httpLink = createHttpLink({
   uri: process.env.NODE_ENV === 'production' ? 'https://pigskin-pachanga.up.railway.app/graphql' : 'http://localhost:3001/graphql'
 });
 
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then(registration => {
+        console.log('ServiceWorker registered: ', registration);
+      }).catch(registrationError => {
+        console.log('ServiceWorker registration failed: ', registrationError);
+      });
+  });
+}
+
 // Construct request middleware that will attach the JWT token to every request as an `authorization` header
 const authLink = setContext((_, { headers }) => {
   // get the authentication token from local storage if it exists
