@@ -9,12 +9,12 @@ function Header() {
   return (
     <header>
       <NavBar isLoggedIn={loggedIn}/>
-      <h1>Pigskin - Pachanga</h1>
+      
       
       {loggedIn ? (
         <p>Hello {userName}!</p>
       ) : (
-        <p>Log in or sign up!</p>
+        <p></p>
       )}
     </header>
   );

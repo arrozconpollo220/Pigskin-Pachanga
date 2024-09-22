@@ -100,7 +100,7 @@ const Login = (props) => {
               <input
                 type={showPassword ? 'text' : 'password'}
                 value={formState.password}
-                placeholder="Enter your password here"
+                placeholder="Enter your password"
                 onChange={handleChange}
                 className="inputBox"
                 name="password"

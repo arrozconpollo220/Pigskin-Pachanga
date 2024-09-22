@@ -47,26 +47,43 @@ body {
 .dashboard-content {
     display: flex;
     justify-content: space-between;
-    gap: 20px; /* Space between the columns */
+    gap: 700px; /* Space between the columns */
 }
 /*note for keith and ricardo we can change the styles of the dashboard sections from here*/
 /* Left Section */
 .right-section {
     
     flex-basis: 25%; /* Takes 25% of the width */
-    background-color: #fff;
+        background-color: #d00000;
     padding: 20px;
     border: 1px solid #ddd;
-    color: #333;
+    color: #fff;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 4px #dac2ba; /* Subtle shadow */
+    transition: transform 0.2s, box-shadow 0.2s;
 }
+
+.right-section:hover { 
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px #807d7c; 
+  }
 
 /* Center Section */
 .center-section {
+    background-color: #d00000;
     flex-basis: 45%; /* Takes 45% of the width */
-    background-color: #fff;
+
     padding: 20px;
     border: 1px solid #ddd;
-    color: #333;
+    color: #fff;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 4px #dac2ba; /* Subtle shadow */
+    transition: transform 0.2s, box-shadow 0.2s; /* Smooth transition for hover effect */
 }
+
+.center-section:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    box-shadow: 0 8px 16px #807d7c; /* Enhanced shadow on hover */
+  }
 
 
