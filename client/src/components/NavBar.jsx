@@ -3,6 +3,7 @@ import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import "../styles/NavBar.css";
 import LogoutButton from "./LogoutButton";
+import logo from "../assets/PSP Logo.svg"
 
 function NavBar({ isLoggedIn }) {
   const navItems = [
@@ -15,6 +16,7 @@ function NavBar({ isLoggedIn }) {
   return (
     <Navbar expand="lg" className="bg-transparent" style={{ paddingTop: '0px' }}>
       <nav className="nav nav-tabs">
+        <img src={logo} alt="PSP-logo" style={{ width: "200px", height: "200px" }} />
         <Navbar.Brand className="KG">
           <div className="box">
 
