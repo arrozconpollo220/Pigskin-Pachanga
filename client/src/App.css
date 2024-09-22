@@ -14,9 +14,11 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
@@ -25,6 +27,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -94,7 +97,7 @@
   justify-content: center;
 }
 
-.inputContainer > .errorLabel {
+.inputContainer>.errorLabel {
   color: red;
   font-size: 12px;
 }
@@ -106,8 +109,10 @@
   border-radius: 8px;
   border: 1px solid grey;
   /* padding-left: 8px; */
-  background-color: white; /* Agrega un fondo visible */
-  color: black; /* Texto visible */
+  background-color: white;
+  /* Agrega un fondo visible */
+  color: black;
+  /* Texto visible */
 }
 
 .app-container {
@@ -123,10 +128,63 @@
   width: 100vw;
   height: 100vh;
   object-fit: fill;
-  z-index: -1; /* Ensures the video is behind other content */
+  z-index: -1;
+  /* Ensures the video is behind other content */
 }
 
 main {
   position: relative;
-  z-index: 1; /* Ensures content is above the video */
+  z-index: 1;
+  /* Ensures content is above the video */
+}
+
+a {
+  padding-top: 30px;
+  font-weight: 500;
+  color: red;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: black;
+}
+
+button {
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-left-radius: 10 px;
+  border-bottom-right-radius: 10 px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em .99em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+
+}
+
+button:hover {
+  color: black;
+  box-shadow:
+    rgba(59, 57, 80, 0.2) 0 2px 2px,
+    rgba(0, 0, 0, 0.2) 0 4px 4px,
+    rgba(0, 0, 0, 0.2) 0 8px 8px,
+    rgba(0, 0, 0, 0.2) 0 16px 16px,
+    rgba(0, 0, 0, 0.2) 0 32px 32px,
+    rgba(89, 70, 196, 0.2) 0 64px 64px;
+
+}
+
+button:focus,
+button:focus-visible {
+  background-image: linear-gradient(#fff, #fff, #fff, #fff, #C0C0C0, #9795b1);
+  color: black;
+}
+
+.btn:hover {
+  color: black;
+  background-color: var(--bs-btn-hover-bg);
+  border-color: var(--bs-btn-hover-border-color);
 }

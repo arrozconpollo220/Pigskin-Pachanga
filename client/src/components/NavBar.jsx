@@ -16,6 +16,13 @@ function NavBar({ isLoggedIn }) {
     <Navbar expand="lg" className="bg-transparent" style={{ paddingTop: '0px' }}>
       <nav className="nav nav-tabs">
         <Navbar.Brand className="KG">
+          <div className="box">
+
+            <div className="title">
+              <span className="block"></span>
+              <h1>Pigskin Pachanga<span></span></h1>
+            </div>
+          </div>
         </Navbar.Brand>
 
         {navItems.map((item) => (
