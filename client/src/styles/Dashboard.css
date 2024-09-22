@@ -51,12 +51,13 @@ body {
 }
 /*note for keith and ricardo we can change the styles of the dashboard sections from here*/
 /* Left Section */
-.left-section {
+.right-section {
     
     flex-basis: 25%; /* Takes 25% of the width */
     background-color: #fff;
     padding: 20px;
     border: 1px solid #ddd;
+    color: #333;
 }
 
 /* Center Section */
@@ -68,10 +69,4 @@ body {
     color: #333;
 }
 
-/* Right Section */
-.right-section {
-    flex-basis: 25%; /* Takes 25% of the width */
-    background-color: #fff;
-    padding: 20px;
-    border: 1px solid #ddd;
-}
+
