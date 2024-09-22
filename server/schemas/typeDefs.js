@@ -40,6 +40,7 @@ const typeDefs = `
         teams: [Team]!
         leagues: [League]!
 
+        filteredPlayers(pos: String, name: String): [Player]
         teamsByOwner(ownerId: ID!): [Team]
         leaguesByComm(commId: ID!): [League]
 
