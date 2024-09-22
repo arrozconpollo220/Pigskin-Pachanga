@@ -108,3 +108,24 @@
   background-color: white; /* Agrega un fondo visible */
   color: black; /* Texto visible */
 }
+
+.app-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.background-video {
+  position: fixed;
+  top: 40px;
+  margin-bottom: 30%;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: fill;
+  z-index: -1; /* Ensures the video is behind other content */
+}
+
+main {
+  position: relative;
+  z-index: 1; /* Ensures content is above the video */
+}
