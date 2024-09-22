@@ -7,9 +7,9 @@ import LogoutButton from "./LogoutButton";
 function NavBar({ isLoggedIn }) {
   const navItems = [
     { to: "/", label: "Home" },
-    { to: "/Match-up", label: "Match up" },
-    { to: "/Draft", label: "Draft" },
     { to: "/Dashboard", label: "Dashboard" },
+    { to: "/Draft", label: "Draft" },
+    { to: "/Match-up", label: "Match up" },
   ];
 
   return (

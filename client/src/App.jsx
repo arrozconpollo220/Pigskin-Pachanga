@@ -46,7 +46,10 @@ function App() {
 
   return (
     <ApolloProvider client={client}>
-      <div>
+      <div className="app-container">
+        <video autoPlay muted className="background-video">
+          <source src="/football-bg.mp4" type="video/mp4" />
+        </video>
         <Router>
           <div>
             <Headers />
@@ -54,33 +57,33 @@ function App() {
               <Routes>
                 <Route
                   path="/"
-                  element={<Home 
-                    // email={email} loggedIn={loggedIn} setLoggedIn={setLoggedIn} 
-                    />}
+                  element={<Home
+                  // email={email} loggedIn={loggedIn} setLoggedIn={setLoggedIn} 
+                  />}
                 />
                 <Route
                   path="/signup"
-                  element={<SignUp 
-                    // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                    />}
+                  element={<SignUp
+                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
+                  />}
                 />
                 <Route
                   path="/draft"
-                  element={<Draft 
-                    // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                    />}
+                  element={<Draft
+                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
+                  />}
                 />
                 <Route
                   path="/dashboard"
-                  element={<Dashboard 
-                    // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                    />}
+                  element={<Dashboard
+                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
+                  />}
                 />
                 <Route
                   path="/login"
-                  element={<Login 
-                    // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                    />}
+                  element={<Login
+                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
+                  />}
                 />
               </Routes>
             </main>
