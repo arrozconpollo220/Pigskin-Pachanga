@@ -13,23 +13,9 @@ function NavBar({ isLoggedIn }) {
   ];
 
   return (
-    <Navbar expand="lg" className="bg-transparent" >
+    <Navbar expand="lg" className="bg-transparent" style={{ paddingTop: '0px' }}>
       <nav className="nav nav-tabs">
         <Navbar.Brand className="KG">
-          <div className="box">
-            <div className="title">
-              <span className="block"></span>
-              {/* <h1>
-                <span className="text-primary custom-span">F</span>antasy 
-                <span className="text-primary custom-span">F</span>ootball
-                <span className="text-danger custom-span">A</span>pp
-              </h1> */}
-            </div>
-            <div className="role">
-              <div className="block"></div>
-              <p></p>
-            </div>
-          </div>
         </Navbar.Brand>
 
         {navItems.map((item) => (
