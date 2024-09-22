@@ -70,7 +70,8 @@ export default function Dashboard() {
                 </div>
               </div>
 
-                    <div className='left-section'>
+            </div>
+            <div className='right-section'>
                         <h3>My Leagues</h3>
                         <div>
                             {addingLeague ? (
@@ -93,8 +94,6 @@ export default function Dashboard() {
                             )}
                         </div>
                     </div>
-
-            </div>
           </div>
         ) : (
           <p>Please log in or sign up!</p>
