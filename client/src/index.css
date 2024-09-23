@@ -44,19 +44,20 @@ code {
 
 input[type='button'] {
   border: none;
-  background: cornflowerblue;
+  background: #824a5a;
   color: white;
   padding: 12px 24px;
   margin: 8px;
   font-size: 24px;
   border-radius: 8px;
   cursor: pointer;
+
 }
 
 button,
 input[type='button'] {
   border: none;
-  background: cornflowerblue;
+  background: #824a5a;
   color: white;
   padding: 0.375rem 0.75rem;
   margin: px;
@@ -65,4 +66,5 @@ input[type='button'] {
   cursor: pointer;
   line-height: 1.5;
   height: auto;
+
 }
