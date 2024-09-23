@@ -138,21 +138,23 @@ main {
   /* Ensures content is above the video */
 }
 
-a {
-  padding-top: 30px;
+/* a {
+
   font-weight: 500;
   color: red;
   text-decoration: inherit;
-}
+} */
 
 a:hover {
+
   color: black;
 }
 
 button {
+  background: #b7253d;
   border-radius: 18px 18px 10px 10px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em .99em;
+  padding: 0.1em 1.2em .99em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
@@ -162,25 +164,15 @@ button {
 
 }
 
-button:hover {
-  color: black;
-  box-shadow:
-    rgba(59, 57, 80, 0.2) 0 2px 2px,
-    rgba(0, 0, 0, 0.2) 0 4px 4px,
-    rgba(0, 0, 0, 0.2) 0 8px 8px,
-    rgba(0, 0, 0, 0.2) 0 16px 16px,
-    rgba(0, 0, 0, 0.2) 0 32px 32px,
-    rgba(89, 70, 196, 0.2) 0 64px 64px;
-
-}
 
 button:focus,
 button:focus-visible {
-  background-image: linear-gradient(#fff, #fff, #fff, #fff, #C0C0C0, #9795b1);
+  background: #b7253d;
   color: black;
 }
 
 .btn:hover {
+  background: #b7253d;
   color: black;
   background-color: var(--bs-btn-hover-bg);
   border-color: var(--bs-btn-hover-border-color);

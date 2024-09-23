@@ -54,7 +54,7 @@ input[type='button'] {
 
 }
 
-button,
+button ,
 input[type='button'] {
   border: none;
   background: #824a5a;
