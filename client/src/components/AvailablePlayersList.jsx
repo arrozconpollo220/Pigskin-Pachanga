@@ -1,6 +1,7 @@
 import { useQuery, useMutation } from '@apollo/client';
 import { ADD_PLAYER_TO_TEAM } from '../utils/mutations'
 import { QUERY_PLAYERS, QUERY_TEAM } from '../utils/queries'
+import { FaThumbsUp } from 'react-icons/fa';
 
 const AvailablePlayersList = ({ teamId }) => {
 
@@ -14,7 +15,7 @@ const AvailablePlayersList = ({ teamId }) => {
                 query: QUERY_PLAYERS
             },
         ],
-});
+    });
     const { loading, data: playersData } = useQuery(QUERY_PLAYERS)
     const players = playersData?.players || [];
 
@@ -37,17 +38,23 @@ const AvailablePlayersList = ({ teamId }) => {
 
     return (
         <div>
-            <h3>Available Players will be listed here!</h3>
+            <h3 className='bg-light text-dark'>Available Players</h3>
             {players.map((player) => (
                 <div key={player._id}>
-                    <div>
-                        <p>{player.name}</p>
-                    </div>
-
-                    <div>
-                        <button
-                            onClick={() => handleDraftPlayer(player._id)}
-                        >DRAFT!</button>
+                    <div className="card">
+                        <p className="card-header">
+                            <span className="bg-dark text-white d-inline-block" style={{ width: '15%' }}>{player.nflTeam}     </span>
+                            <span className="bg-white text-black d-inline-block" style={{ width: '60%' }}>{player.name}     </span>
+                            <span className="bg-dark text-white d-inline-block" style={{ width: '15%' }}>{player.pos}     </span>
+                            <span style={{ width: '10%' }}>
+                                <button
+                                    className="btn btn-sm btn-success ml-auto d-inline-block"
+                                    style={{ marginBottom: "4px", marginLeft: '5px' }}
+                                    onClick={() => handleDraftPlayer(player._id)}
+                                ><FaThumbsUp />
+                                </button>
+                            </span>
+                        </p>
                     </div>
                 </div>
             ))}

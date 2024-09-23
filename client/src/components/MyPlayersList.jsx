@@ -34,7 +34,12 @@ const MyPlayersList = ({ teamId }) => {
     const players = data?.team?.players || [];
 
     if (teamId === '') {
-        return <h4>Please select a team to view the players!</h4>;
+        return (
+            <div>
+                <h3 className='bg-light text-dark'>My Players</h3>
+                <h4>Please select a team to view the players!</h4>
+            </div>
+        )
     }
 
     if (!players.length) {
@@ -43,18 +48,19 @@ const MyPlayersList = ({ teamId }) => {
 
     return (
         <div>
-            <div className="">
+            <div>
+                <h3 className='bg-light text-dark'>My Players</h3>
                 {players.map((player) => (
-                    <div key={player._id} className="">
+                    <div key={player._id}>
                         <div className="card">
                             <p className="card-header">
                                 <span className="bg-dark text-white d-inline-block" style={{ width: '15%' }}>{player.nflTeam}     </span>
                                 <span className="bg-white text-black d-inline-block" style={{ width: '60%' }}>{player.name}     </span>
                                 <span className="bg-dark text-white d-inline-block" style={{ width: '15%' }}>{player.pos}     </span>
-                                <span style={{width: '10%'}}>
+                                <span style={{ width: '10%' }}>
                                     <button
                                         className="btn btn-sm btn-danger ml-auto d-inline-block"
-                                        style={{marginBottom: "4px", marginLeft: '5px'}}
+                                        style={{ marginBottom: "4px", marginLeft: '5px' }}
                                         onClick={() => handleRemovePlayer(player._id)}
                                     >
                                         <FaTrash />

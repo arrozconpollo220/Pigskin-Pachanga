@@ -39,16 +39,12 @@ export default function Draft() {
   }, [formState]);
 
   return (
-    <div>
+    <div style={{width: "75%"}}>
       <h2>DRAFT</h2>
       {loggedIn ? (
         <div>
           <div className="container">
             <h3>Welcome to the Draft!</h3>
-          </div>
-
-          <div id="myplayerslist">
-            <MyPlayersList teamId={formState.teamId}/>
           </div>
 
           <div id="teamSelect">
@@ -62,6 +58,7 @@ export default function Draft() {
                   value={formState.teamId}
                   onChange={handleChange}
                   required
+                  style={{width: '25%'}}
                 >
                   <option value="" disabled>Select a team</option>
                   {loading ? (
@@ -78,8 +75,17 @@ export default function Draft() {
             </div>
           </div>
 
-          <div id="playerlist">
-            <AvailablePlayersList teamId={formState.teamId}/>
+          <div className="container" style={{marginTop: '25px', width: '100%'}}>
+            <div className="row">
+
+              <div id="myplayerslist" className='col'>
+                <MyPlayersList teamId={formState.teamId} />
+              </div>
+
+              <div id="playerlist" className='col'>
+                <AvailablePlayersList teamId={formState.teamId} />
+              </div>
+            </div>
           </div>
 
         </div>
