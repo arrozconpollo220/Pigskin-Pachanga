@@ -40,7 +40,7 @@ export default function Dashboard() {
 
     return (
       <div className="dashboard-wrapper">
-        <h2>Dashboard</h2>
+        <h2>DASHBOARD</h2>
         {loggedIn ? (
           <div className="dashboard-content">
             
