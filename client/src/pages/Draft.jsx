@@ -36,7 +36,7 @@ export default function Draft() {
   }, [formState]);
 
   return (
-    <div style={{width: "75%"}}>
+    <div style={{width: '25%'}}>
       <h2>DRAFT</h2>
       {loggedIn ? (
         <div>
@@ -44,11 +44,7 @@ export default function Draft() {
             <h3>Welcome to the Draft!</h3>
           </div>
 
-          <div id="myplayerslist">
-            <MyPlayersList teamId={formState.teamId} />
-          </div>
-
-          <div id="teamSelect">
+          <div id="teamSelect" style={{marginTop: '30px'}}>
             <h4>Select a team to draft players...</h4>
             <form>
               <select
@@ -74,6 +70,11 @@ export default function Draft() {
 
           <div id="playerlist">
             <AvailablePlayersList teamId={formState.teamId} />
+          </div>
+
+          
+          <div id="myplayerslist">
+            <MyPlayersList teamId={formState.teamId} />
           </div>
 
         </div>
