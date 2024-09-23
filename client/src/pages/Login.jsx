@@ -78,7 +78,7 @@ const Login = (props) => {
 
   return (
     <main className="mainContainer">
-      <div className="col-12 col-lg-10">
+      <div className="col-12 col-lg-10" style={{padding: '10px'}}>
         <div className="titleContainer">
           <h4>Login</h4>
         </div>
@@ -122,7 +122,7 @@ const Login = (props) => {
               >
                 Log In
               </button>
-              <p>...or <a href="./signup">sign up</a>!</p>
+              <p style={{marginTop: '30px'}}>...or <a href="./signup">sign up</a>!</p>
             </div>
           </form>
 

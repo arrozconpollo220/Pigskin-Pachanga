@@ -53,8 +53,8 @@ const AddLeague = ({ userId }) => {
     };
 
     return (
-        <main className="mainContainer">
-            <div className="">
+        <main>
+            <div>
                 <div className="titleContainer">
                     <h4 className="card-header p-2">Add a new league</h4>
                 </div>

@@ -9,6 +9,7 @@ self.addEventListener('install', (event) => {
                 '/main.jsx',
                 '/icon-192x192.png',
                 '/icon-512x512.png',
+                '../index.html'
             ]);
         })
     );
