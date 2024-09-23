@@ -26,7 +26,7 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 
-button,
+button ,
 input[type='button'] {
   border: 1px solid black;
   background-image: url(assets/football-texture.jpg);
