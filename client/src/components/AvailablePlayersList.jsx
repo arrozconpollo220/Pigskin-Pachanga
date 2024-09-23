@@ -1,7 +1,6 @@
 import { useQuery, useMutation } from '@apollo/client';
 import { ADD_PLAYER_TO_TEAM } from '../utils/mutations'
 import { QUERY_PLAYERS, QUERY_TEAM } from '../utils/queries'
-import { FaThumbsUp } from 'react-icons/fa';
 import React, { useState } from 'react';
 import Select from 'react-select';
 
@@ -43,20 +42,43 @@ const AvailablePlayersList = ({ teamId }) => {
         label: player.name,
     }));
 
+    const customStyles = {
+        control: (provided) => ({
+            ...provided,
+            color: 'black', 
+        }),
+        option: (provided, state) => ({
+            ...provided,
+            color: state.isSelected ? 'black' : 'black', 
+            backgroundColor: state.isFocused ? '#b7253d' : 'white', 
+            textDecoration: state.isSelected ? 'underline' : 'none',
+            fontSize: state.isSelected ? '24px' : '16px',
+            
+        }),
+        singleValue: (provided) => ({
+            ...provided,
+            color: 'black',
+        }),
+    };
+
     return (
-        <div>
+        <div style={{ paddingBottom: '30px', marginTop: '30px' }}>
             <h3>Select a Player to Draft</h3>
             <Select
                 options={options}
+                styles={customStyles} 
                 onChange={setSelectedPlayer}
                 placeholder="Type to search for a player..."
                 isClearable
                 isSearchable
+                maxMenuHeight={140}
             />
             <button onClick={handleDraftPlayer} disabled={!selectedPlayer}>
                 DRAFT!
             </button>
         </div>
+
+
     );
 };
 
