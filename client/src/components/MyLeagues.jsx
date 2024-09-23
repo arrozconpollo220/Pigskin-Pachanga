@@ -30,17 +30,20 @@ const LeaguesList = ({ leagues, isLoggedInUser = false }) => {
                 {leagues.map((league) => (
                     <div key={league._id} className="">
                         <div className="card">
-                            <h4 className="card-header display-flex align-center">
-                                <span>{league.name}     </span>
+                            <p className="card-header display-flex align-center">
+                                <span className="bg-white text-black d-inline-block" style={{ width: '90%' }}>{league.name}</span>
                                 {isLoggedInUser && (
-                                    <button
-                                        className="btn btn-sm btn-danger ml-auto"
-                                        onClick={() => handleRemoveLeague(league._id)}
-                                    >
-                                        X
-                                    </button>
+                                    <span style={{width: '10%'}}>
+                                        <button
+                                            className="btn btn-sm btn-danger ml-auto"
+                                            style={{ marginBottom: "4px", marginLeft: '5px' }}
+                                            onClick={() => handleRemoveLeague(league._id)}
+                                        >
+                                            X
+                                        </button>
+                                    </span>
                                 )}
-                            </h4>
+                            </p>
                         </div>
                     </div>
                 ))}

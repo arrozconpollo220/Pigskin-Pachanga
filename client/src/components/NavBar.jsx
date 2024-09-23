@@ -10,7 +10,7 @@ function NavBar({ isLoggedIn }) {
     { to: "/", label: "Home" },
     { to: "/Dashboard", label: "Dashboard" },
     { to: "/Draft", label: "Draft" },
-    { to: "/Match-up", label: "Match up" },
+    { to: "/Matchup", label: "Match up" },
   ];
 
   return (

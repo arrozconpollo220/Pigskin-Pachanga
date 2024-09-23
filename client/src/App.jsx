@@ -17,6 +17,7 @@ import Login from './pages/Login';
 import Headers from './components/Headers';
 import Dashboard from './pages/Dashboard'
 import Draft from './pages/Draft'
+import Matchup from './pages/Matchup';
 import 'bootstrap/dist/css/bootstrap.css';
 
 const httpLink = createHttpLink({
@@ -79,14 +80,20 @@ function App() {
                   />}
                 />
                 <Route
+                  path="/dashboard"
+                  element={<Dashboard
+                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
+                  />}
+                />
+                <Route
                   path="/draft"
                   element={<Draft
                   // setLoggedIn={setLoggedIn} setEmail={setEmail} 
                   />}
                 />
                 <Route
-                  path="/dashboard"
-                  element={<Dashboard
+                  path="/matchup"
+                  element={<Matchup
                   // setLoggedIn={setLoggedIn} setEmail={setEmail} 
                   />}
                 />

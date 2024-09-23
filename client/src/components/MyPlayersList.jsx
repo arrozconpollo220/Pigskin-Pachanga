@@ -4,15 +4,16 @@ import { QUERY_TEAM } from '../utils/queries'
 import { FaTrash } from 'react-icons/fa';
 
 const MyPlayersList = ({ teamId }) => {
-    const {loading, data, error: queryError} = useQuery(QUERY_TEAM, {
-        variables: {teamId}
+    const { loading, data, error: queryError } = useQuery(QUERY_TEAM, {
+        variables: { teamId },
+        skip: !teamId,
     })
 
     const [removePlayer, { error: mutationError }] = useMutation(REMOVE_PLAYER_FROM_TEAM, {
         refetchQueries: [
-            { 
+            {
                 query: QUERY_TEAM,
-                variables: {teamId}, 
+                variables: { teamId },
             },
         ],
     });
@@ -32,27 +33,40 @@ const MyPlayersList = ({ teamId }) => {
 
     const players = data?.team?.players || [];
 
+    if (teamId === '') {
+        return (
+            <div>
+                <h3 className='bg-light text-dark'>My Players</h3>
+                <h4>Please select a team to view the players!</h4>
+            </div>
+        )
+    }
+
     if (!players.length) {
         return <h4>No Players Drafted!</h4>;
     }
 
     return (
         <div>
-            <div className="">
+            <div>
+                <h3 className='bg-light text-dark'>My Players</h3>
                 {players.map((player) => (
-                    <div key={player._id} className="">
+                    <div key={player._id}>
                         <div className="card">
-                            <h4 className="card-header display-flex align-center">
-                                <span>{player.name}     </span>
-                                {(
+                            <p className="card-header">
+                                <span className="bg-dark text-white d-inline-block" style={{ width: '15%' }}>{player.nflTeam}     </span>
+                                <span className="bg-white text-black d-inline-block" style={{ width: '60%' }}>{player.name}     </span>
+                                <span className="bg-dark text-white d-inline-block" style={{ width: '15%' }}>{player.pos}     </span>
+                                <span style={{ width: '10%' }}>
                                     <button
-                                        className="btn btn-sm btn-danger ml-auto"
+                                        className="btn btn-sm btn-danger ml-auto d-inline-block"
+                                        style={{ marginBottom: "4px", marginLeft: '5px' }}
                                         onClick={() => handleRemovePlayer(player._id)}
                                     >
                                         <FaTrash />
                                     </button>
-                                )}
-                            </h4>
+                                </span>
+                            </p>
                         </div>
                     </div>
                 ))}
