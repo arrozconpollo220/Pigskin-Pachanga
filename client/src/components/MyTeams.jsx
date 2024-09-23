@@ -31,17 +31,20 @@ const TeamsList = ({ teams, isLoggedInUser = false }) => {
                 {teams.map((team) => (
                     <div key={team._id} className="">
                         <div className="card">
-                            <h4 className="card-header display-flex align-center">
-                                <span>{team.name}     </span>
+                            <p className="card-header display-flex align-center">
+                                <span className="bg-white text-black d-inline-block" style={{ width: '90%' }}>{team.name}</span>
                                 {isLoggedInUser && (
-                                    <button
-                                        className="btn btn-sm btn-danger ml-auto"
-                                        onClick={() => handleRemoveTeam(team._id)}
-                                    >
-                                        <FaTrash />
-                                    </button>
+                                    <span style={{width: '10%'}}>
+                                        <button
+                                            className="btn btn-sm btn-danger ml-auto"
+                                            style={{ marginBottom: "4px", marginLeft: '5px' }}
+                                            onClick={() => handleRemoveTeam(team._id)}
+                                        >
+                                            <FaTrash />
+                                        </button>
+                                    </span>
                                 )}
-                            </h4>
+                            </p>
                         </div>
                     </div>
                 ))}
