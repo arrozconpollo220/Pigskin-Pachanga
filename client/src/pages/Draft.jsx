@@ -12,7 +12,6 @@ export default function Draft() {
 
   const [formState, setFormState] = useState({
     teamId: '',
-    playerId: '',
   });
 
   // If there is no `profileId` in the URL as a parameter, execute the `QUERY_ME` query instead for the logged in user's information
@@ -30,8 +29,6 @@ export default function Draft() {
       ...formState,
       [name]: value,
     });
-
-    console.log(formState);
   };
 
   useEffect(() => {
@@ -47,49 +44,42 @@ export default function Draft() {
             <h3>Welcome to the Draft!</h3>
           </div>
 
-          <div id="teamSelect">
-            <h4>Select a team to draft players...</h4>
-            <div>
-              <form>
-                <select
-                  className="inputBox"
-                  placeholder='Select team'
-                  name="teamId"
-                  value={formState.teamId}
-                  onChange={handleChange}
-                  required
-                  style={{width: '25%'}}
-                >
-                  <option value="" disabled>Select a team</option>
-                  {loading ? (
-                    <option>Loading teams...</option>
-                  ) : (
-                    teams.map((team) => (
-                      <option key={team._id} value={team._id}>
-                        {team.name}
-                      </option>
-                    ))
-                  )}
-                </select>
-              </form>
-            </div>
+          <div id="myplayerslist">
+            <MyPlayersList teamId={formState.teamId} />
           </div>
 
-          <div className="container" style={{marginTop: '25px', width: '100%'}}>
-            <div className="row">
+          <div id="teamSelect">
+            <h4>Select a team to draft players...</h4>
+            <form>
+              <select
+                className="inputBox"
+                name="teamId"
+                value={formState.teamId}
+                onChange={handleChange}
+                required
+              >
+                <option value="" disabled>Select a team</option>
+                {loading ? (
+                  <option>Loading teams...</option>
+                ) : (
+                  teams.map((team) => (
+                    <option key={team._id} value={team._id}>
+                      {team.name}
+                    </option>
+                  ))
+                )}
+              </select>
+            </form>
+          </div>
 
-              <div id="myplayerslist" className='col'>
-                <MyPlayersList teamId={formState.teamId} />
-              </div>
-
-              <div id="playerlist" className='col'>
-                <AvailablePlayersList teamId={formState.teamId} />
-              </div>
-            </div>
+          <div id="playerlist">
+            <AvailablePlayersList teamId={formState.teamId} />
           </div>
 
         </div>
-      ) : (<p>Please log in or sign up!</p>)}
+      ) : (
+        <p>Please log in or sign up!</p>
+      )}
     </div>
   );
 }
