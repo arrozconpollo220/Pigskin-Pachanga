@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Auth from '../utils/auth';
+import logo from '../assets/PSP-Logo-cutout.png'
 
 const Home = (props) => {
   // const { loggedIn, email } = props
@@ -19,9 +20,11 @@ const Home = (props) => {
   return (
     <div className="mainContainer">
       <div className={'titleContainer'}>
-        <div>Welcome!</div>
+        <div></div>
       </div>
-      <div>This is the home page.</div>
+      <div></div>
+      <img src={logo} alt="PSP-logo" style={{ width: "500px", height: "500px" }} />
+
    
     </div>
   )

@@ -6,7 +6,7 @@ body {
 }
 
 .navbar {
-    background-color: #0044cc;
+    background-color: #824a5a;
     color: white;
     padding: 10px;
 }
@@ -27,7 +27,7 @@ body {
 }
 
 .button:hover {
-    background-color: #cc0000;
+    background-color: #b7253d;
 }
 
 .card {
@@ -54,7 +54,7 @@ body {
 .right-section {
     
     flex-basis: 25%; /* Takes 25% of the width */
-        background-color: #d00000;
+        background-color: #b7253d;
     padding: 20px;
     border: 1px solid #ddd;
     color: #fff;
@@ -70,7 +70,7 @@ body {
 
 /* Center Section */
 .center-section {
-    background-color: #d00000;
+    background-color: #b7253d;
     flex-basis: 45%; /* Takes 45% of the width */
 
     padding: 20px;
