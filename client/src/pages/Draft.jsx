@@ -36,7 +36,7 @@ export default function Draft() {
   }, [formState]);
 
   return (
-    <div>
+    <div style={{width: "75%"}}>
       <h2>DRAFT</h2>
       {loggedIn ? (
         <div>

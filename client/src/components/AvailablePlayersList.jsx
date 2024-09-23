@@ -1,6 +1,7 @@
 import { useQuery, useMutation } from '@apollo/client';
 import { ADD_PLAYER_TO_TEAM } from '../utils/mutations'
 import { QUERY_PLAYERS, QUERY_TEAM } from '../utils/queries'
+import { FaThumbsUp } from 'react-icons/fa';
 import React, { useState } from 'react';
 import Select from 'react-select';
 
@@ -11,7 +12,6 @@ const AvailablePlayersList = ({ teamId }) => {
             { query: QUERY_PLAYERS },
         ],
     });
-
     const { loading, data: playersData } = useQuery(QUERY_PLAYERS);
     const players = playersData?.players || [];
 
