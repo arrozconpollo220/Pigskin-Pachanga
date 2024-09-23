@@ -40,9 +40,9 @@ const Signup = () => {
 
   return (
     <main className="mainContainer">
-      <div className="col-12 col-lg-10">
+      <div className="col-12 col-lg-10" style={{padding: '10px'}}>
         <div className="titleContainer">
-          <h4 className="card-header bg-dark text-light p-2">Sign Up</h4>
+          <h4>Sign Up</h4>
         </div>
           <div>
             {data ? (
