@@ -59,7 +59,20 @@ function App() {
   return (
     <ApolloProvider client={client}>
       <div className="app-container">
-        <video autoPlay muted className="background-video">
+        <video
+          autoPlay
+          muted
+          className="background-video"
+          style={{
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            objectFit: 'cover',
+            zIndex: -1
+          }}
+        >
           <source src="/football-bg.mp4" type="video/mp4" />
         </video>
         <Router>
