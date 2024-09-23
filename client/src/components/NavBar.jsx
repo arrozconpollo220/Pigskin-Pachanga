@@ -16,7 +16,6 @@ function NavBar({ isLoggedIn }) {
   return (
     <Navbar expand="lg" className="bg-transparent" style={{ paddingTop: '0px' }}>
       <nav className="nav nav-tabs">
-        {/* <img src={logo} alt="PSP-logo" style={{ width: "200px", height: "200px" }} /> */}
         <Navbar.Brand className="KG">
           <div className="box">
 
@@ -29,7 +28,7 @@ function NavBar({ isLoggedIn }) {
 
         {navItems.map((item) => (
           <Link key={item.to} to={item.to}>
-            <Button variant="primary" className="m-3" style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
+            <Button variant="primary" className="m-3" style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", background: "#000000"}}>
               {item.label}
             </Button>
           </Link>

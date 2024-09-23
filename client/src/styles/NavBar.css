@@ -52,7 +52,7 @@
 .KG .box .title .block {
     width: 100%;
     height: 100%;
-    background: #b7253d;
+    background: blue;
     position: absolute;
     animation: mainBlock 1.5s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
     display: flex;

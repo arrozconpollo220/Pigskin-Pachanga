@@ -19,7 +19,7 @@ const LogoutButton = (props) => {
           variant="primary"
           className={`m-3 ${props.className}`}
           onClick={onButtonClick}
-          style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}
+          style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", background: "#000000"}}
         >
           Log out
         </Button>
