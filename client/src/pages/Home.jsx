@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Auth from '../utils/auth';
-import logo from '../assets/PSP-Logo-cutout.png'
+import logo from '/PSP-Logo-cutout.png'
 
 const Home = (props) => {
   // const { loggedIn, email } = props
