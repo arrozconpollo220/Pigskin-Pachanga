@@ -3,7 +3,8 @@
 .nav-tabs {
     width: 100vw;
     height: auto; /* Maintain aspect ratio */
-    background: #b7253d;
+    /* header navbar background */
+    background-image: url(/football-texture2.jpg);
     padding-right: 1%;
     font-size: 25px;
     display: flex;
@@ -27,7 +28,7 @@
     border-bottom-width: 10px;
     padding-left: 213px;
     height: 127px;
-    background: #b7253d;
+    background-image: url(/football-texture2.jpg);
     display: flex;
     justify-content: flex-start;
     align-items: center;
