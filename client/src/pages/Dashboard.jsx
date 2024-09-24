@@ -71,12 +71,6 @@ export default function Dashboard() {
         {loggedIn ? (
           <div className="dashboard-content">
 
-            <div className="center-section">
-
-              <div className="container">
-                <p>Username: {userName}</p>
-                <p>Email: {email}</p>
-              </div>
           <div className="center-section">
 
             <div>
@@ -96,8 +90,7 @@ export default function Dashboard() {
                 )}
               </div>
             </div>
-            <div className="container">
-              
+            <div className="container">              
               <p>Username: {userName}</p>
               <p>Email: {email}</p>
             </div>
