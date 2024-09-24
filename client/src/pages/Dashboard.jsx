@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useQuery } from '@apollo/client';
 import Auth from '../utils/auth';
 import '../styles/Dashboard.css'
@@ -17,28 +17,6 @@ export default function Dashboard() {
 
   const [addingTeam, setAddingTeam] = useState(false);
   const [addingLeague, setAddingLeague] = useState(false);
-  const [isOnline, setIsOnline] = useState(navigator.onLine);
-
-  useEffect(() => {
-    const handleOnline = () => {
-      console.log('Back online');
-      setIsOnline(true);
-    };
-  
-    const handleOffline = () => {
-      console.log('You are offline');
-      setIsOnline(false);
-    };
-
-    window.addEventListener('online', handleOnline);
-    window.addEventListener('offline', handleOffline);
-
-    // Cleanup event listeners on unmount
-    return () => {
-      window.removeEventListener('online', handleOnline);
-      window.removeEventListener('offline', handleOffline);
-    };
-  }, []);
 
   // If there is no `profileId` in the URL as a parameter, execute the `QUERY_ME` query instead for the logged in user's information
   const { loading, data } = useQuery(QUERY_TEAMS_BY_OWNER, {
@@ -62,84 +40,70 @@ export default function Dashboard() {
 
   return (
     <div className="dashboard-wrapper">
-      <div>
-        <h2>DASHBOARD</h2>
-      </div>
+      <h2>DASHBOARD</h2>
+      
+      {loggedIn ? (
+        <div className="dashboard-content">
 
-      {isOnline ? (
-      <div>
-        {loggedIn ? (
-          <div className="dashboard-content">
+          <div className="center-section">
 
-            <div className="center-section">
-
-              <div className="container">
-                <p>Username: {userName}</p>
-                <p>Email: {email}</p>
-              </div>
-
-              <div>
-                <h3>My Teams</h3>
-                <div>
-                  {addingTeam ? (
-                    <AddTeam />
-                  ) : (
-                    <div>
-                      <button onClick={handleRenderForm}>Add New Team</button>
-                      {loading ? (
-                        <p>Loading teams...</p>
-                      ) : (
-                        <TeamsList teams={teams || []} isLoggedInUser={true} />
-                      )}
-                    </div>
-                  )}
-                </div>
-              </div>
-
+            <div className="container">
+              <p>Username: {userName}</p>
+              <p>Email: {email}</p>
             </div>
 
-            <div className='right-section'>
-
+            <div>
+              <h3>My Teams</h3>
               <div>
-                <h3>My Leagues</h3>
-                <div>
-                  {addingLeague ? (
-                    <AddLeague userId={userId} />
-                  ) : (
-                    <div>
-                      <button
-                        className="btn btn-primary m-3"
-                        onClick={handleRenderLeagueForm}
-                      >Add New League</button>
-                      {leagueLoading ? (
-                        <p>Loading leagues...</p>
-                      ) : (
-                        <LeaguesList
-                          leagues={leagues || []}
-                          isLoggedInUser={true}
-                        />
-                      )}
-                    </div>
-                  )}
-                </div>
+                {addingTeam ? (
+                  <AddTeam />
+                ) : (
+                  <div>
+                    <button onClick={handleRenderForm}>Add New Team</button>
+                    {loading ? (
+                      <p>Loading teams...</p>
+                    ) : (
+                      <TeamsList teams={teams || []} isLoggedInUser={true} />
+                    )}
+                  </div>
+                )}
               </div>
-
             </div>
 
           </div>
-        ) : (
-          <p>Please log in or sign up!</p>
-        )}
-      </div>
-      ) : (
-        <div>
-          <h3>You are offline!</h3>
-          <img src='/referee.png' style={{width: '300px'}}/>
-          <p>This feature is only available while connected to the internet.</p>
-          <p>Try again in a few moments!</p>
-        </div>
-      )}
 
+          <div className='right-section'>
+
+            <div>
+              <h3>My Leagues</h3>
+              <div>
+                {addingLeague ? (
+                  <AddLeague userId={userId} />
+                ) : (
+                  <div>
+                    <button
+                      className="btn btn-primary m-3"
+                      onClick={handleRenderLeagueForm}
+                    >Add New League</button>
+                    {leagueLoading ? (
+                      <p>Loading leagues...</p>
+                    ) : (
+                      <LeaguesList
+                        leagues={leagues || []}
+                        isLoggedInUser={true}
+                      />
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      ) : (
+        <p>Please log in or sign up!</p>
+      )}
     </div>
   );
 }
