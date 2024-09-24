@@ -1,5 +1,5 @@
 import Auth from '../utils/auth';
-import ComingSoon from '../assets/coming (1).mp4';
+import ComingSoon from '/comingsoon.mp4';
 import '../styles/Matchup.css';
 
 export default function Matchup() {
@@ -8,8 +8,11 @@ export default function Matchup() {
 
   return (
     <div>
-      <h2>MATCH UP</h2>
-      {loggedIn ? (
+
+      <div>
+        <h2>MATCH UP</h2>
+      </div>
+
         <div className='coming-soon'>
           <video autoPlay muted className='Coming-vid' style={{
             position: 'fixed',
@@ -24,9 +27,7 @@ export default function Matchup() {
             <source src={ComingSoon} type='video/mp4' />
           </video>
         </div>
-      ) : (
-        <p>Please log in or sign up!</p>
-      )}
-      </div>
+
+    </div>
   );
 }
