@@ -62,8 +62,7 @@ function NavBar({ isLoggedIn }) {
         {navItems.map((item) => (
           <Link key={item.to} to={item.to}>
             <Button variant="primary"
-              className="m-3"
-              style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
+              className="m-3">
               {item.label}
             </Button>
           </Link>
@@ -72,8 +71,7 @@ function NavBar({ isLoggedIn }) {
         {!isLoggedIn ? (
           <Link to="/Login">
             <Button variant="primary"
-              className="m-3"
-              style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
+              className="m-3">
               Login
             </Button>
           </Link>
@@ -83,9 +81,7 @@ function NavBar({ isLoggedIn }) {
               disabled={!isOnline}
               variant="primary"
               className={"m-3"}
-              onClick={onButtonClick}
-              style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}
-              >
+              onClick={onButtonClick}>
               Log out
             </Button>
           </Link>
