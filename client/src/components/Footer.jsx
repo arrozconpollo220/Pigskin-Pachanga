@@ -3,8 +3,7 @@ import '../styles/Footer.css';
 export default function Footer() {
   return (
     <footer>
-      <p>MMDR Site 👾 </p>
+      <p>An MMDR Website 👾 </p>
     </footer>
   );
 }
-
