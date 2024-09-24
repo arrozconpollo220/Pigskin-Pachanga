@@ -7,9 +7,12 @@ self.addEventListener('install', (event) => {
                 '/index.css',
                 '/app.css',
                 '/main.jsx',
-                '/icon-192x192.png',
-                '/icon-512x512.png',
-                '../index.html'
+                // '/icon-192x192.png',
+                // '/icon-512x512.png',
+                '../index.html',
+                '/referee.png',
+                // '/comingsoon.mp4',
+                // '/PSP-Logo-cutout.png',
             ]);
         })
     );
