@@ -53,7 +53,7 @@ body {
 /* Left Section */
 .right-section {
     
-    flex-basis: 25%; /* Takes 25% of the width */
+    flex-basis: 45%; /* Takes 25% of the width */
         background-color: #b7253d;
     padding: 20px;
     border: 1px solid #ddd;
@@ -86,4 +86,31 @@ body {
     box-shadow: 0 8px 16px #807d7c; /* Enhanced shadow on hover */
   }
 
+/* styling  */
+  @media (max-width: 1024px) {
+    .dashboard-content {
+        flex-direction: column;
+        /* gap for the elements when the screen move de dashboard content vertical */
+        gap: 200px; 
+    }
 
+    .center-section, .right-section {
+        flex-basis: 100%; 
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .center-section, .right-section {
+        flex-basis: 48%; 
+    }
+}
+
+@media (min-width: 1025px) {
+    .center-section {
+        flex-basis: 45%; 
+    }
+
+    .right-section {
+        flex-basis: 45%; 
+    }
+}
