@@ -145,7 +145,11 @@ button {
   background: #b7253d;
   border-radius: 18px 18px 10px 10px;
   border: 1px solid transparent;
+<<<<<<< HEAD
   padding: 0.6em 1.2em 0.99em;
+=======
+  padding: 0.1em 1.2em .99em;
+>>>>>>> main
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
@@ -154,6 +158,27 @@ button {
   transition: border-color 0.25s;
 }
 
+<<<<<<< HEAD
+button:hover {
+  color: #fff;
+  box-shadow:
+    rgba(59, 57, 80, 0.2) 0 2px 2px,
+    rgba(0, 0, 0, 0.2) 0 4px 4px,
+    rgba(0, 0, 0, 0.2) 0 8px 8px,
+    rgba(0, 0, 0, 0.2) 0 16px 16px,
+    rgba(0, 0, 0, 0.2) 0 32px 32px,
+    rgba(89, 70, 196, 0.2) 0 64px 64px;
+}
+
+button:focus,
+button:focus-visible {
+  background-image: linear-gradient(#fff, #fff, #fff, #fff, #C0C0C0, #9795b1);
+  color: #fff;
+}
+
+.btn:hover {
+  color: #fff;
+=======
 
 button:focus,
 button:focus-visible {
@@ -164,6 +189,7 @@ button:focus-visible {
 .btn:hover {
   background: #b7253d;
   color: black;
+>>>>>>> main
   background-color: var(--bs-btn-hover-bg);
   border-color: var(--bs-btn-hover-border-color);
 }
