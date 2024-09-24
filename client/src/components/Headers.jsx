@@ -12,7 +12,7 @@ function Header() {
       
       
       {loggedIn ? (
-        <p>Hello {userName}!</p>
+        <h2>Hello {userName}!</h2>
       ) : (
         <p></p>
       )}
