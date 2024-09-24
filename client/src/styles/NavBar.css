@@ -2,7 +2,8 @@
 
 .nav-tabs {
     width: 100vw;
-    height: auto; /* Maintain aspect ratio */
+    height: auto;
+    /* Maintain aspect ratio */
     /* header navbar background */
     background-image: url(/football-texture2.jpg);
     padding-right: 1%;
@@ -10,49 +11,56 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
     box-shadow: rgba(59, 57, 80, 0.2) 0 2px 2px,
-                rgba(0, 0, 0, 0.2) 0 4px 4px,
-                rgba(0, 0, 0, 0.2) 0 8px 8px,
-                rgba(0, 0, 0, 0.2) 0 16px 16px,
-                rgba(0, 0, 0, 0.2) 0 32px 32px,
-                rgba(89, 70, 196, 0.2) 0 64px 64px;
+        rgba(0, 0, 0, 0.2) 0 4px 4px,
+        rgba(0, 0, 0, 0.2) 0 8px 8px,
+        rgba(0, 0, 0, 0.2) 0 16px 16px,
+        rgba(0, 0, 0, 0.2) 0 32px 32px,
+        rgba(89, 70, 196, 0.2) 0 64px 64px;
 }
 
+
 .KG {
-    width: 64%;
+    width: 100vw;
     margin-right: 12px;
-    padding-top: 47px;
-    padding-bottom: 36px;
+    padding-top: 17px;
+    padding-bottom: 3px;
     margin-bottom: 0;
     border-bottom-width: 10px;
-    padding-left: 213px;
+    padding-left: 13px;
     height: 127px;
     background-image: url(/football-texture2.jpg);
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-.KG .box {
-    width: 250px;
-    height: 45px;
-    position: relative;
-    display: flex;
     justify-content: center;
-    flex-direction: row;
-}
-
-.KG .box .title {
-    position: relative;
-    display: flex;
     align-items: center;
-    height: 60px;
 }
 
+.responsive-title {
+    font-size: 3vw;
+    /* Use viewport width for responsive font size */
+    margin: 0;
+    /* Remove default margin */
+    text-align: center;
+    color: #fff;
+    /* Ensure the text color is visible */
+}
 
+@media (max-width: 768px) {
+    .responsive-title {
+        font-size: 5vw;
+        /* Adjust font size for smaller screens */
+    }
+}
 
-.KG .box .title h1 {
+@media (max-width: 480px) {
+    .responsive-title {
+        font-size: 6vw;
+        /* Further adjust for very small screens */
+    }
+}
+
+.KG h1 {
     font-family: "Lato";
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -68,160 +76,57 @@
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 2px 2px 0 #000;
 }
 
-.KG .box .title h1 span {
-    width: 1px;
-    height: 1px;
-    border-radius: 50%;
-    background-image: url(../../public/Football_SVG.svg);
-    background-size: contain;
-    background-position: center;
-    animation: popIn 0.8s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
-    animation-delay: 2s;
-    margin-left: 5px;
-    margin-top: -10px;
-    position: absolute;
-    bottom: 13px;
-    right: -12px;
-}
-
-.KG .box .role {
-    width: 100%;
-    position: relative;
-    display: flex;
-    align-items: center;
-    height: 30px;
-    margin-top: -10px;
-}
-
-.KG .box .role .block {
-    width: 0%;
-    height: inherit;
-    background: #415a77;
-    position: absolute;
-    animation: secBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
-    animation-delay: 2s;
-    display: flex;
-}
-
-.KG .box .role p {
-    animation: secFadeIn 2s forwards;
-    animation-delay: 3.2s;
-    opacity: 0;
-    font-weight: 400;
-    font-family: "Lato";
-    color: #ffffff;
-    font-size: 60px;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-    padding-top: 10px;
-}
 
 @keyframes mainBlock {
     0% {
         width: 0%;
         left: 0;
     }
+
     50% {
         width: 100%;
         left: 0;
     }
+
     100% {
         width: 0;
         left: 100%;
     }
 }
 
-@keyframes secBlock {
-    0% {
-        width: 0%;
-        left: 0;
-    }
-    50% {
-        width: 100%;
-        left: 0;
-    }
-    100% {
-        width: 0;
-        left: 100%;
-    }
-}
 
 @keyframes mainFadeIn {
     0% {
         opacity: 0;
     }
+
     100% {
         opacity: 1;
     }
 }
 
-@keyframes popIn {
-    0% {
-        width: 15px;
-        height: 5px;
-        background: #814506;
-        border: 0 solid #722424;
-        opacity: 0;
+.button-responsive {
+    background: #b7253d;
+    padding: 0.175rem 0.95rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  @media (max-width: 768px) {
+    .button-responsive {
+      padding: 0.15rem 0.85rem;
+      font-size: 0.9rem;
     }
-    50% {
-        width: 30px;
-        height: 20px;
-        background: #814506;
-        opacity: 1;
-        bottom: 45px;
+  }
+  
+  @media (max-width: 480px) {
+    .button-responsive {
+      padding: 0.1rem 0.75rem;
+      font-size: 0.8rem;
     }
-    65% {
-        width: 7px;
-        height: 7px;
-        bottom: 0;
-    }
-    80% {
-        width: 10px;
-        height: 10px;
-        bottom: 20px;
-    }
-    100% {
-        width:130px;
-        height: 50px;
-        background-image: url(../../public/Football_SVG.svg);
-        background-size: contain;
-        background-position: center;
-        background-repeat: no-repeat;
-        bottom: 11px;
-    }
-}
-
-@keyframes secFadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 0.5;
-    }
-}
-
-@keyframes top {
-    0% {
-        opacity: 0;
-        bottom: -80px;
-    }
-    100% {
-        opacity: 1;
-        bottom: 0;
-    }
-}
-
-@keyframes icon {
-    0% {
-        opacity: 0;
-        transform: scale(0);
-    }
-    50% {
-        opacity: 1;
-        transform: scale(1.3) rotate(-2deg);
-    }
-    100% {
-        opacity: 1;
-        bottom: 0;
-    }
-}
+  }
