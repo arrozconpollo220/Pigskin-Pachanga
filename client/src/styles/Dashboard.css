@@ -42,48 +42,92 @@ body {
 /* Dashboard Styles */
 .dashboard-wrapper {
     padding: 1px;
+    width: 100%;
+
 }
 
 .dashboard-content {
     display: flex;
-    justify-content: center;
-    gap: 900px; /* Space between the columns */
+    flex-wrap: wrap;
+    /* Allow items to wrap to the next line */
+    justify-content: space-between;
+    /* Distribute space between items */
+    gap: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+    /* Add some padding for better spacing */
 }
+
+@media (max-width: 912px) {
+    .dashboard-content {
+        width: auto;
+        flex-wrap: wrap;
+        /* Allow items to wrap to the next line */
+        justify-content: space-between;
+        /* Stack sections vertically on smaller screens */
+        align-items: center;
+        /* Center items */
+        padding: 3%;
+    }
+}
+
+@media (max-width: 768px) {
+    .dashboard-content {
+        width: auto;
+        flex-direction: column;
+        /* Stack sections vertically on smaller screens */
+        align-items: center;
+        /* Center items */
+        padding: 10%;
+    }
+
+    .center-section,
+    .right-section {
+        width: 380px;
+        flex-basis: 100%;
+        /* Take full width on smaller screens */
+        max-width: 100%;
+        /* Ensure sections don't exceed the container width */
+    }
+}
+
 /*note for keith and ricardo we can change the styles of the dashboard sections from here*/
 /* Left Section */
+
+.center-section,
 .right-section {
-
-    flex-basis: 25%; /* Takes 25% of the width */
-        background-color: #b7253d;
-    padding: 20px;
-    border: 1px solid #ddd;
-    color: #fff;
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 2px 4px #dac2ba; /* Subtle shadow */
-    transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.right-section:hover { 
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px #807d7c; 
-  }
-
-/* Center Section */
-.center-section {
+    flex-basis: 45%;
+    /* Use a percentage for flexibility */
+    max-width: 25%;
+    /* Ensure sections don't exceed their intended width */
+    box-sizing: border-box;
     background-color: #b7253d;
-    flex-basis: 25%; /* Takes 45% of the width */
-
     padding: 20px;
     border: 1px solid #ddd;
     color: #fff;
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 2px 4px #dac2ba; /* Subtle shadow */
-    transition: transform 0.2s, box-shadow 0.2s; /* Smooth transition for hover effect */
+    border-radius: 10px;
+    /* Rounded corners */
+    box-shadow: 0 2px 4px #dac2ba;
+    /* Subtle shadow */
+    transition: transform 0.2s, box-shadow 0.2s;
+    /* Smooth transition for hover effect */
 }
 
-.center-section:hover {
-    transform: translateY(-5px); /* Lift effect on hover */
-    box-shadow: 0 8px 16px #807d7c; /* Enhanced shadow on hover */
-  }
+@media (max-width: 768px) {
 
+    .center-section,
+    .right-section {
+        flex-basis: 100%;
+        /* Full width on smaller screens */
+        max-width: 100%;
+        padding: 3%;
+        /* gap: 160px; */
+    }
+}
+
+.center-section:hover,
+.right-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px #807d7c;
+}
 

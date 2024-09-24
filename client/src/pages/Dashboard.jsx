@@ -71,30 +71,29 @@ export default function Dashboard() {
         {loggedIn ? (
           <div className="dashboard-content">
 
-            <div className="center-section">
+          <div className="center-section">
 
-              <div className="container">
-                <p>Username: {userName}</p>
-                <p>Email: {email}</p>
-              </div>
-
+            <div>
+              <h3>My Teams</h3>
               <div>
-                <h3>My Teams</h3>
-                <div>
-                  {addingTeam ? (
-                    <AddTeam />
-                  ) : (
-                    <div>
-                      <button onClick={handleRenderForm}>Add New Team</button>
-                      {loading ? (
-                        <p>Loading teams...</p>
-                      ) : (
-                        <TeamsList teams={teams || []} isLoggedInUser={true} />
-                      )}
-                    </div>
-                  )}
-                </div>
+                {addingTeam ? (
+                  <AddTeam />
+                ) : (
+                  <div>
+                    <button onClick={handleRenderForm}>Add New Team</button>
+                    {loading ? (
+                      <p>Loading teams...</p>
+                    ) : (
+                      <TeamsList teams={teams || []} isLoggedInUser={true} />
+                    )}
+                  </div>
+                )}
               </div>
+            </div>
+            <div className="container">              
+              <p>Username: {userName}</p>
+              <p>Email: {email}</p>
+            </div>
 
             </div>
 
