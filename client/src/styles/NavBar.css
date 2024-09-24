@@ -54,7 +54,7 @@
     display: flex;
 }
 
-.KG h1 {
+.KG .h1 {
     font-family: "Lato";
     text-transform: uppercase;
     letter-spacing: 5px;
