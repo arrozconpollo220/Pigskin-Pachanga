@@ -41,18 +41,18 @@ body {
 
 /* Dashboard Styles */
 .dashboard-wrapper {
-    padding: 1px;
+    padding: 20px;
 }
 
 .dashboard-content {
     display: flex;
-    justify-content: center;
-    gap: 900px; /* Space between the columns */
+    justify-content: space-between;
+    gap: 700px; /* Space between the columns */
 }
 /*note for keith and ricardo we can change the styles of the dashboard sections from here*/
 /* Left Section */
 .right-section {
-
+    
     flex-basis: 25%; /* Takes 25% of the width */
         background-color: #b7253d;
     padding: 20px;
@@ -71,7 +71,7 @@ body {
 /* Center Section */
 .center-section {
     background-color: #b7253d;
-    flex-basis: 25%; /* Takes 45% of the width */
+    flex-basis: 45%; /* Takes 45% of the width */
 
     padding: 20px;
     border: 1px solid #ddd;

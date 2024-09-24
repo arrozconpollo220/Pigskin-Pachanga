@@ -1,7 +1,10 @@
 #root {
   color: white;
+  margin-left: 1px;
+  margin-right: 0px;
   width: 100vw;
   margin: 0 auto;
+
   text-align: center;
 }
 
@@ -24,6 +27,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -44,8 +48,8 @@
 }
 
 .mainContainer {
-  display: flex;
   flex-direction: column;
+  display: flex;
   align-items: center;
   justify-content: center;
   height: 55vh;
@@ -54,28 +58,28 @@
 .titleContainer {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: 64px;
   font-weight: bolder;
+  align-items: center;
+  justify-content: center;
 }
 
 .resultContainer,
 .historyItem {
-  display: flex;
   flex-direction: row;
+  display: flex;
   width: 400px;
   align-items: center;
   justify-content: space-between;
 }
 
 .historyContainer {
-  display: flex;
   flex-direction: column;
+  display: flex;
   height: 200px;
   align-items: center;
-  justify-content: flex-start;
   flex-grow: 5;
+  justify-content: flex-start;
 }
 
 .buttonContainer {
@@ -93,7 +97,7 @@
   justify-content: center;
 }
 
-.inputContainer > .errorLabel {
+.inputContainer>.errorLabel {
   color: red;
   font-size: 12px;
 }
@@ -104,8 +108,11 @@
   font-size: large;
   border-radius: 8px;
   border: 1px solid grey;
+  /* padding-left: 8px; */
   background-color: white;
+  /* Agrega un fondo visible */
   color: black;
+  /* Texto visible */
 }
 
 .app-container {
@@ -116,51 +123,47 @@
 .background-video {
   position: fixed;
   top: 40px;
+  margin-bottom: 30%;
   left: 0;
   width: 100vw;
   height: 100vh;
   object-fit: fill;
   z-index: -1;
-  margin-bottom: 30%;
+  /* Ensures the video is behind other content */
 }
 
 main {
   position: relative;
   z-index: 1;
+  /* Ensures content is above the video */
 }
 
-/* a {
-
+a {
+  padding-top: 30px;
   font-weight: 500;
   color: red;
   text-decoration: inherit;
-} */
+}
 
 a:hover {
-
   color: black;
 }
 
 button {
-  background: #b7253d;
   border-radius: 18px 18px 10px 10px;
   border: 1px solid transparent;
-<<<<<<< HEAD
-  padding: 0.6em 1.2em 0.99em;
-=======
-  padding: 0.1em 1.2em .99em;
->>>>>>> main
+  padding: 0.6em 1.2em .99em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
   background-color: #ffffff;
   cursor: pointer;
   transition: border-color 0.25s;
+
 }
 
-<<<<<<< HEAD
 button:hover {
-  color: #fff;
+  color: black;
   box-shadow:
     rgba(59, 57, 80, 0.2) 0 2px 2px,
     rgba(0, 0, 0, 0.2) 0 4px 4px,
@@ -168,28 +171,17 @@ button:hover {
     rgba(0, 0, 0, 0.2) 0 16px 16px,
     rgba(0, 0, 0, 0.2) 0 32px 32px,
     rgba(89, 70, 196, 0.2) 0 64px 64px;
+
 }
 
 button:focus,
 button:focus-visible {
   background-image: linear-gradient(#fff, #fff, #fff, #fff, #C0C0C0, #9795b1);
-  color: #fff;
-}
-
-.btn:hover {
-  color: #fff;
-=======
-
-button:focus,
-button:focus-visible {
-  background: #b7253d;
   color: black;
 }
 
 .btn:hover {
-  background: #b7253d;
   color: black;
->>>>>>> main
   background-color: var(--bs-btn-hover-bg);
   border-color: var(--bs-btn-hover-border-color);
 }

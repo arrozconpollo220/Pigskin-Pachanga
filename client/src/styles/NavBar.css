@@ -3,13 +3,13 @@
 .nav-tabs {
     width: 100vw;
     height: auto; /* Maintain aspect ratio */
-    background-image:url(../assets/football-texture2.jpg);
-    padding: none;
+    background: #b7253d;
+    padding-right: 1%;
     font-size: 25px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-end;
     box-shadow: rgba(59, 57, 80, 0.2) 0 2px 2px,
                 rgba(0, 0, 0, 0.2) 0 4px 4px,
                 rgba(0, 0, 0, 0.2) 0 8px 8px,
@@ -19,47 +19,51 @@
 }
 
 .KG {
-    width: 100%;
-    background-image:url(../assets/football-texture2.jpg);
+    width: 64%;
+    margin-right: 12px;
+    padding-top: 47px;
+    padding-bottom: 36px;
+    margin-bottom: 0;
+    border-bottom-width: 10px;
+    padding-left: 213px;
+    height: 127px;
+    background: #b7253d;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 
-.responsive-title {
-    font-size: 3vw; /* Use viewport width for responsive font size */
-    margin: 0; /* Remove default margin */
-    text-align: center;
-    color: #fff; /* Ensure the text color is visible */
-  }
-
-  @media (max-width: 768px) {
-    .responsive-title {
-      font-size: 5vw; /* Adjust font size for smaller screens */
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .responsive-title {
-      font-size: 6vw; /* Further adjust for very small screens */
-    }
+.KG .box {
+    width: 250px;
+    height: 45px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
 
-.KG .block {
+.KG .box .title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+.KG .box .title .block {
     width: 100%;
     height: 100%;
-    background-image: url(../../public/Football_SVG.svg);
-    position:relative;
+    background: #b7253d;
+    position: absolute;
     animation: mainBlock 1.5s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
     display: flex;
 }
 
-.KG h1 {
+.KG .box .title h1 {
     font-family: "Lato";
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #fff;
-
+    font-size: 60px;
     animation: mainFadeIn 2s forwards;
     animation-delay: 1.6s;
     opacity: 0;
@@ -68,6 +72,31 @@
     position: relative;
     z-index: 1;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 2px 2px 0 #000;
+}
+
+.KG .box .title h1 span {
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background-image: url(../../public/Football_SVG.svg);
+    background-size: contain;
+    background-position: center;
+    animation: popIn 0.8s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+    animation-delay: 2s;
+    margin-left: 5px;
+    margin-top: -10px;
+    position: absolute;
+    bottom: 13px;
+    right: -12px;
+}
+
+.KG .box .role {
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 30px;
+    margin-top: -10px;
 }
 
 .KG .box .role .block {
@@ -93,11 +122,112 @@
     padding-top: 10px;
 }
 
+@keyframes mainBlock {
+    0% {
+        width: 0%;
+        left: 0;
+    }
+    50% {
+        width: 100%;
+        left: 0;
+    }
+    100% {
+        width: 0;
+        left: 100%;
+    }
+}
+
+@keyframes secBlock {
+    0% {
+        width: 0%;
+        left: 0;
+    }
+    50% {
+        width: 100%;
+        left: 0;
+    }
+    100% {
+        width: 0;
+        left: 100%;
+    }
+}
+
 @keyframes mainFadeIn {
     0% {
         opacity: 0;
     }
     100% {
         opacity: 1;
+    }
+}
+
+@keyframes popIn {
+    0% {
+        width: 15px;
+        height: 5px;
+        background: #814506;
+        border: 0 solid #722424;
+        opacity: 0;
+    }
+    50% {
+        width: 30px;
+        height: 20px;
+        background: #814506;
+        opacity: 1;
+        bottom: 45px;
+    }
+    65% {
+        width: 7px;
+        height: 7px;
+        bottom: 0;
+    }
+    80% {
+        width: 10px;
+        height: 10px;
+        bottom: 20px;
+    }
+    100% {
+        width:130px;
+        height: 50px;
+        background-image: url(../../public/Football_SVG.svg);
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        bottom: 11px;
+    }
+}
+
+@keyframes secFadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0.5;
+    }
+}
+
+@keyframes top {
+    0% {
+        opacity: 0;
+        bottom: -80px;
+    }
+    100% {
+        opacity: 1;
+        bottom: 0;
+    }
+}
+
+@keyframes icon {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.3) rotate(-2deg);
+    }
+    100% {
+        opacity: 1;
+        bottom: 0;
     }
 }
