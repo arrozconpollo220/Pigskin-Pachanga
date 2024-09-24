@@ -107,7 +107,7 @@ export default function Dashboard() {
                     ) : (
                       <div>
                         <button
-                          className="btn btn-primary m-3"
+                          
                           onClick={handleRenderLeagueForm}
                         >Add New League</button>
                         {leagueLoading ? (
