@@ -47,23 +47,16 @@ function NavBar({ isLoggedIn }) {
   return (
     <Navbar expand="lg" className="bg-transparent" style={{ paddingTop: '0px' }}>
       <nav className="nav nav-tabs">
-        
-        {/* <img src={logo} alt="PSP-logo" style={{ width: "200px", height: "200px" }} /> */}
-        <Navbar.Brand className="KG">
-          <div className="box">
 
-            <div className="title">
-              <span className="block"></span>
-              <h1>Pigskin Pachanga</h1>
-            </div>
-          </div>
+        <Navbar.Brand className="KG">
+          <h1 className="responsive-title">Pigskin Pachanga</h1>
         </Navbar.Brand>
 
         {navItems.map((item) => (
           <Link key={item.to} to={item.to}>
             <Button variant="primary"
-              className="m-3"
-              style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
+              className="m-3 button-responsive"
+              style={{ background: "#b7253d", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
               {item.label}
             </Button>
           </Link>
@@ -72,8 +65,8 @@ function NavBar({ isLoggedIn }) {
         {!isLoggedIn ? (
           <Link to="/Login">
             <Button variant="primary"
-              className="m-3"
-              style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}>
+              className="m-3 button-responsive"
+              style={{ background: "#b7253d", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
               Login
             </Button>
           </Link>
@@ -84,8 +77,7 @@ function NavBar({ isLoggedIn }) {
               variant="primary"
               className={"m-3"}
               onClick={onButtonClick}
-              style={{ padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto" }}
-              >
+              style={{ background: "#b7253d", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
               Log out
             </Button>
           </Link>
