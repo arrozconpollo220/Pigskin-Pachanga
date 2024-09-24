@@ -1,6 +1,7 @@
 import { useMutation } from '@apollo/client';
 import { REMOVE_LEAGUE } from '../utils/mutations';
 import { QUERY_ME } from '../utils/queries';
+import { FaTrash } from 'react-icons/fa';
 
 const LeaguesList = ({ leagues, isLoggedInUser = false }) => {
     const [removeLeague, { error }] = useMutation(REMOVE_LEAGUE, {
@@ -39,7 +40,7 @@ const LeaguesList = ({ leagues, isLoggedInUser = false }) => {
                                             style={{ marginBottom: "4px", marginLeft: '5px' }}
                                             onClick={() => handleRemoveLeague(league._id)}
                                         >
-                                            X
+                                            <FaTrash />
                                         </button>
                                     </span>
                                 )}
