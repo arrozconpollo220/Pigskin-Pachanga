@@ -47,11 +47,6 @@ export default function Dashboard() {
 
           <div className="center-section">
 
-            <div className="container">
-              <p>Username: {userName}</p>
-              <p>Email: {email}</p>
-            </div>
-
             <div>
               <h3>My Teams</h3>
               <div>
@@ -68,6 +63,11 @@ export default function Dashboard() {
                   </div>
                 )}
               </div>
+            </div>
+            <div className="container">
+              
+              <p>Username: {userName}</p>
+              <p>Email: {email}</p>
             </div>
 
           </div>
