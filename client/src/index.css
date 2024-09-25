@@ -44,9 +44,10 @@ code {
 
 input[type='button'] {
   border: none;
-  background: #824a5a;
-  color: white;
+  background: #fff;
+  color: #b7253d;
   padding: 12px 24px;
+  border: 1px solid black;
   margin: 8px;
   font-size: 24px;
   border-radius: 8px;
@@ -57,8 +58,9 @@ input[type='button'] {
 button,
 input[type='button'] {
   border: none;
-  background: #824a5a;
-  color: white;
+  background: #fff;
+  color: #b7253d;
+  border: 1px solid black;
   padding: 0.375rem 0.75rem;
   margin: px;
   font-size: 1rem;
@@ -68,3 +70,4 @@ input[type='button'] {
   height: auto;
 
 }
+
