@@ -159,7 +159,7 @@ const Login = (props) => {
         ) : (
           <div>
             <h3>You are offline!</h3>
-            <img src='/referee.png' alt='A picture of a referee' style={{width: '100%'}}/>
+            <img src='/referee.png' alt='A picture of a referee' style={{width: '100%'}} class="img-fluid"/>
             <p>This feature is only available while connected to the internet.</p>
             <p>Try again in a few moments!</p>
           </div>
