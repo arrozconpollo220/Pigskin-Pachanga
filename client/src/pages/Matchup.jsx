@@ -11,14 +11,14 @@ export default function Matchup() {
         <h2>MATCH UP</h2>
       </div>
 
-      <div className='coming-soon' style={{height: '300px', borderRadius: '50px',}}>
-        <video 
-          className='coming-soon-video' 
-          autoPlay 
-          loop 
+      <div className='coming-soon' style={{ height: '300px', borderRadius: '50px', }}>
+        <video
+          className='coming-soon-video'
+          autoPlay
+          loop
           muted
           src={ComingSoon}
-          style= {{
+          style={{
             height: '400px',
             borderRadius: '50px',
             opacity: 0.5,
