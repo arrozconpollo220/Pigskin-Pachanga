@@ -9,10 +9,10 @@ const Home = () => {
         <div></div>
       </div>
       <div></div>
-      <img src={logo} class="img-fluid" alt="PSP-logo" style={{ width: "500px", height: "500px" }} />
+      <img src={logo} className="img-fluid" alt="PSP-logo" style={{ width: "500px", height: "500px" }} />
 
     </div>
   )
 }
 
-export default Home
+export default Home;
