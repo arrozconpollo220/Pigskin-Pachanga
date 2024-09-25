@@ -55,7 +55,7 @@ function NavBar({ isLoggedIn }) {
             <Link key={item.to} to={item.to}>
               <Button variant="primary"
                 className="m-3 button-responsive"
-                style={{ background: "#b7253d", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
+                style={{ fontWeight: "bold", color: "#b7253d", background: "#fff", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
                 {item.label}
               </Button>
             </Link>
@@ -65,7 +65,7 @@ function NavBar({ isLoggedIn }) {
             <Link to="/Login">
               <Button variant="primary"
                 className="m-3 button-responsive"
-                style={{ background: "#b7253d", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
+                style={{ fontWeight: "bold", color: "#b7253d", background: "#fff", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
                 Login
               </Button>
             </Link>
@@ -76,7 +76,7 @@ function NavBar({ isLoggedIn }) {
                 variant="primary"
                 className={"m-3"}
                 onClick={onButtonClick}
-                style={{ background: "#b7253d", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
+                style={{ fontWeight: "bold", color: "#b7253d", background: "#fff", padding: "0.375rem 0.75rem", fontSize: "1rem", lineHeight: "1.5", height: "auto", border: "1px solid black" }}>
                 Log out
               </Button>
             </Link>
