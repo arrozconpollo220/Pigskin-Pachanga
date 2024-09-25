@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+    .draft-content {
+        flex-direction: column;
+        gap: 10px; 
+    }
+
+    .section {
+        flex-basis: 100%; 
+        margin-bottom: 20px; 
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .section {
+        flex-basis: 48%; 
+    }
+    
+}
+
+@media (min-width: 1025px) {
+    .section {
+        flex-basis: 45%; 
+    }
+}
