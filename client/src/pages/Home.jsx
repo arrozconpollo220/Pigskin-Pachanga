@@ -23,7 +23,7 @@ const Home = (props) => {
         <div></div>
       </div>
       <div></div>
-      <img src={logo} alt="PSP-logo" style={{ width: "500px", height: "500px" }} />
+      <img src={logo} class="img-fluid" alt="PSP-logo" style={{ width: "500px", height: "500px" }} />
 
    
     </div>
