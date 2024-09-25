@@ -3,31 +3,30 @@ import ComingSoon from '/comingsoon.mp4';
 import '../styles/Matchup.css';
 
 export default function Matchup() {
-
   const loggedIn = Auth.loggedIn();
 
   return (
     <div>
-
       <div>
         <h2>MATCH UP</h2>
       </div>
 
-        <div className='coming-soon'>
-          <video autoPlay muted className='Coming-vid' style={{
-            position: 'fixed',
-            top: 0,
-            left: 0,
-            width: '25%',
-            height: '25%',
-            objectFit: 'cover',
-            zIndex: 1,
-            opacity: 0.7,
-          }}>
-            <source src={ComingSoon} type='video/mp4' />
-          </video>
-        </div>
-
+      <div className='coming-soon' style={{height: '300px', borderRadius: '50px',}}>
+        <video 
+          className='coming-soon-video' 
+          autoPlay 
+          loop 
+          muted
+          src={ComingSoon}
+          style= {{
+            height: '400px',
+            borderRadius: '50px',
+            opacity: 0.5,
+          }}
+        >
+          Your browser does not support the video tag.
+        </video>
+      </div>
     </div>
   );
 }
