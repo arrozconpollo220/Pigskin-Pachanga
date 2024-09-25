@@ -1,21 +1,21 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
-import Auth from '../utils/auth';
+// import { useNavigate } from 'react-router-dom';
+// import Auth from '../utils/auth';
 import logo from '/PSP-Logo-cutout.png'
 
-const Home = (props) => {
+const Home = () => {
   // const { loggedIn, email } = props
-  const loggedIn = Auth.loggedIn();
-  const navigate = useNavigate()
+  // const loggedIn = Auth.loggedIn();
+  // const navigate = useNavigate()
 
-  const onButtonClick = () => {
+  // const onButtonClick = () => {
   
-    if (loggedIn) {
-      Auth.logout();
-    } else {
-      navigate('/login');
-    }
-  }
+  //   if (loggedIn) {
+  //     Auth.logout();
+  //   } else {
+  //     navigate('/login');
+  //   }
+  // }
 
   return (
     <div className="mainContainer">
@@ -25,7 +25,6 @@ const Home = (props) => {
       <div></div>
       <img src={logo} alt="PSP-logo" style={{ width: "500px", height: "500px" }} />
 
-   
     </div>
   )
 }
