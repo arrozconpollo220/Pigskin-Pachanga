@@ -107,7 +107,7 @@ export default function Dashboard() {
                     ) : (
                       <div>
                         <button
-                          
+
                           onClick={handleRenderLeagueForm}
                         >Add New League</button>
                         {leagueLoading ? (
@@ -133,7 +133,7 @@ export default function Dashboard() {
       ) : (
         <div className="col-12 col-lg-10" style={{ padding: '10px', width: '300px' }}>
           <h3>You are offline!</h3>
-          <img src='/referee.png' alt='A picture of a referee' style={{ width: '100%' }} class="img-fluid"/>
+          <img src='/referee.png' alt='A picture of a referee' style={{ width: '100%' }} class="img-fluid" />
           <p>This feature is only available while connected to the internet.</p>
           <p>Try again in a few moments!</p>
         </div>

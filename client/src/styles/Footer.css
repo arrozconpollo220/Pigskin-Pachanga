@@ -6,13 +6,15 @@ footer {
   font-weight: bold;
   width: 100vw;
   height: 30px;
-  position:fixed;
+  position: fixed;
   bottom: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1000; /* Ensure it stays above other content */
+  z-index: 1000;
+  /* Ensure it stays above other content */
 }
+
 footer h2 {
 
   color: #E0E1DD;

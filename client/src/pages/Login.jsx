@@ -99,11 +99,12 @@ const Login = (props) => {
   };
 
   return (
-    <main className="mainContainer">
+    <main>
+      <div>
+        <h2>LOG IN</h2>
+      </div>
+
       <div className="col-12 col-lg-10" style={{ padding: '10px' }}>
-        <div className="titleContainer">
-          <h4>Login</h4>
-        </div>
 
         {isOnline ? (
           <div>
@@ -159,7 +160,7 @@ const Login = (props) => {
         ) : (
           <div>
             <h3>You are offline!</h3>
-            <img src='/referee.png' alt='A picture of a referee' style={{width: '100%'}} class="img-fluid"/>
+            <img src='/referee.png' alt='A picture of a referee' style={{ width: '100%' }} class="img-fluid" />
             <p>This feature is only available while connected to the internet.</p>
             <p>Try again in a few moments!</p>
           </div>

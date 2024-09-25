@@ -40,30 +40,30 @@ const Signup = () => {
 
   return (
     <main className="mainContainer">
-      <div className="col-12 col-lg-10" style={{padding: '10px'}}>
+      <div className="col-12 col-lg-10" style={{ padding: '10px' }}>
         <div className="titleContainer">
           <h4>Sign Up</h4>
         </div>
-          <div>
-            {data ? (
-              <p>
-                Success! You may now head{' '}
-                <Link to="/">back to the homepage.</Link>
-              </p>
-            ) : (
-              <form onSubmit={handleFormSubmit}>
-                <div className='inputContainer'>
-                  <input
-                    className="inputBox"
-                    placeholder="Your username"
-                    name="name"
-                    type="text"
-                    value={formState.name}
-                    onChange={handleChange}
-                  />
-                </div>
+        <div>
+          {data ? (
+            <p>
+              Success! You may now head{' '}
+              <Link to="/">back to the homepage.</Link>
+            </p>
+          ) : (
+            <form onSubmit={handleFormSubmit}>
+              <div className='inputContainer'>
+                <input
+                  className="inputBox"
+                  placeholder="Your username"
+                  name="name"
+                  type="text"
+                  value={formState.name}
+                  onChange={handleChange}
+                />
+              </div>
 
-                <div className='inputContainer'>
+              <div className='inputContainer'>
                 <input
                   className="inputBox"
                   placeholder="Your email"
@@ -72,37 +72,37 @@ const Signup = () => {
                   value={formState.email}
                   onChange={handleChange}
                 />
-                </div>
-
-                <div className='inputContainer'>
-                  <input
-                    className="inputBox"
-                    placeholder="******"
-                    name="password"
-                    type="password"
-                    value={formState.password}
-                    onChange={handleChange}
-                  />
-                </div>
-
-                <div className='inputContainer'>
-                  <button
-                    className="inputButton"
-                    style={{ cursor: 'pointer' }}
-                    type="submit"
-                  >
-                    Submit
-                  </button>
-                </div>
-              </form>
-            )}
-
-            {error && (
-              <div className="my-3 p-3 bg-danger text-white">
-                {error.message}
               </div>
-            )}
-          </div>
+
+              <div className='inputContainer'>
+                <input
+                  className="inputBox"
+                  placeholder="******"
+                  name="password"
+                  type="password"
+                  value={formState.password}
+                  onChange={handleChange}
+                />
+              </div>
+
+              <div className='inputContainer'>
+                <button
+                  className="inputButton"
+                  style={{ cursor: 'pointer' }}
+                  type="submit"
+                >
+                  Submit
+                </button>
+              </div>
+            </form>
+          )}
+
+          {error && (
+            <div className="my-3 p-3 bg-danger text-white">
+              {error.message}
+            </div>
+          )}
+        </div>
       </div>
     </main>
   );

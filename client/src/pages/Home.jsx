@@ -1,21 +1,7 @@
 import React from 'react';
-// import { useNavigate } from 'react-router-dom';
-// import Auth from '../utils/auth';
 import logo from '/PSP-Logo-cutout.png'
 
 const Home = () => {
-  // const { loggedIn, email } = props
-  // const loggedIn = Auth.loggedIn();
-  // const navigate = useNavigate()
-
-  // const onButtonClick = () => {
-  
-  //   if (loggedIn) {
-  //     Auth.logout();
-  //   } else {
-  //     navigate('/login');
-  //   }
-  // }
 
   return (
     <div className="mainContainer">

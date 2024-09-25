@@ -82,39 +82,27 @@ function App() {
               <Routes>
                 <Route
                   path="/"
-                  element={<Home
-                  // email={email} loggedIn={loggedIn} setLoggedIn={setLoggedIn} 
-                  />}
+                  element={<Home />}
                 />
                 <Route
                   path="/signup"
-                  element={<SignUp
-                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                  />}
+                  element={<SignUp />}
                 />
                 <Route
                   path="/dashboard"
-                  element={<Dashboard
-                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                  />}
+                  element={<Dashboard />}
                 />
                 <Route
                   path="/draft"
-                  element={<Draft
-                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                  />}
+                  element={<Draft />}
                 />
                 <Route
                   path="/matchup"
-                  element={<Matchup
-                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                  />}
+                  element={<Matchup />}
                 />
                 <Route
                   path="/login"
-                  element={<Login
-                  // setLoggedIn={setLoggedIn} setEmail={setEmail} 
-                  />}
+                  element={<Login />}
                 />
               </Routes>
             </main>
