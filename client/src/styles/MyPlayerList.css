@@ -1,0 +1,15 @@
+@media (max-width: 390px) {
+    .playerListText  {
+        color: #000000;
+        background-color: #f3f3f3;
+    }
+}
+
+@media (min-width: 389px) and (max-width: 1024px) {
+    .playerListText  {
+        color: #000000;
+        background-color: #f3f3f3;
+    }
+    
+}
+

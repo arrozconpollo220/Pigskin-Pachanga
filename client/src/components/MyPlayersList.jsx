@@ -2,6 +2,7 @@ import { useQuery, useMutation } from '@apollo/client';
 import { REMOVE_PLAYER_FROM_TEAM } from '../utils/mutations'
 import { QUERY_TEAM } from '../utils/queries'
 import { FaTrash } from 'react-icons/fa';
+import '../styles/MyPlayerList.css';
 
 const MyPlayersList = ({ teamId }) => {
     const { loading, data, error: queryError } = useQuery(QUERY_TEAM, {
@@ -35,9 +36,9 @@ const MyPlayersList = ({ teamId }) => {
 
     if (teamId === '') {
         return (
-            <div>
+            <div >
                 <h3 className='bg-light text-dark'>My Players</h3>
-                <h4>Please select a team to view the players!</h4>
+                <h4 className='playerListText'>Please select a team to view the players!</h4>
             </div>
         )
     }
