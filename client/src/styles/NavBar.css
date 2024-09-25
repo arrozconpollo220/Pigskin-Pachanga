@@ -6,7 +6,6 @@
     /* Maintain aspect ratio */
     /* header navbar background */
     background-image: url(/football-texture2.jpg);
-    padding-right: 1%;
     font-size: 25px;
     display: flex;
     flex-wrap: wrap;
@@ -23,13 +22,8 @@
 
 .KG {
     width: 100vw;
-    margin-right: 12px;
-    padding-top: 17px;
-    padding-bottom: 3px;
-    margin-bottom: 0;
-    border-bottom-width: 10px;
-    padding-left: 13px;
-    height: 127px;
+    margin-bottom: 0%;
+    /* height: 40%; */
     background-image: url(/football-texture2.jpg);
     display: flex;
     justify-content: center;
@@ -48,14 +42,14 @@
 
 @media (max-width: 768px) {
     .responsive-title {
-        font-size: 5vw;
+        font-size: 100%;
         /* Adjust font size for smaller screens */
     }
 }
 
 @media (max-width: 480px) {
     .responsive-title {
-        font-size: 6vw;
+        font-size: 100%;
         /* Further adjust for very small screens */
     }
 }
@@ -65,33 +59,10 @@
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #fff;
-    font-size: 60px;
     animation: mainFadeIn 2s forwards;
     animation-delay: 1.6s;
     opacity: 0;
-    display: flex;
-    align-items: baseline;
-    position: relative;
-    z-index: 1;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 2px 2px 0 #000;
-}
-
-
-@keyframes mainBlock {
-    0% {
-        width: 0%;
-        left: 0;
-    }
-
-    50% {
-        width: 100%;
-        left: 0;
-    }
-
-    100% {
-        width: 0;
-        left: 100%;
-    }
 }
 
 

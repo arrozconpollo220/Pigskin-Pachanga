@@ -139,7 +139,7 @@ main {
 }
 
 a {
-  padding-top: 30px;
+  /* padding-top: 30px; */
   font-weight: 500;
   color: red;
   text-decoration: inherit;
